@@ -1,0 +1,43 @@
+name: Download new assets
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  '0 * * * *'
+
+concurrency:
+  group: ${{ github.ref }}
+
+jobs:
+  update:
+    name: Update
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Free Disk Space (Ubuntu)
+        uses: jlumbroso/free-disk-space@main
+        with:
+          dotnet: false
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update files
+        run: sudo bash scripts/download.sh ${GITHUB_REF##*/}
+
+      - name: Push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message:  ${GITHUB_REF##*/} update $(jq .versionId "bundles/hot_update_list.json")
+          commit_user_name: Silence
+          commit_user_email: silence+github-actions[bot]@users.noreply.github.com
+          commit_author: Silence <actions@github.com>
+
+      - name: Push diff artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: asset-diff
+          path: $(git diff HEAD^ HEAD --name-only)

@@ -1,0 +1,3 @@
+# ArknightsStudioCLI
+bundles/**/*
+!bundles/hot_update_list.json
