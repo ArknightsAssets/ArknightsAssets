@@ -17,10 +17,6 @@ fi
 echo "Installing latest assets"
 source "${script_dir}/download_bundles.sh" "./bundles" $server $mode
 
-if [[ $? -ne 0 ]]; then
-    exit 2
-fi
-
 echo "Installing latest asset studio"
 source "${script_dir}/download_studio.sh" "./ArknightsStudioCLI"
 

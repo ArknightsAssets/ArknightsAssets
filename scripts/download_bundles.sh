@@ -3,8 +3,6 @@
 # download arknights asset bundles, requires jq
 # $1 = savedir, $2 = server, $3 = mode (sprite/audio)
 
-set -e
-
 savedir="${1:-"./bundles"}"
 mode="${3:-"all"}"
 
@@ -30,8 +28,6 @@ mkdir -p "$savedir"
 encode_path() { echo "$1" | sed -e "s|/|_|g" -e "s|#|__|" -e "s|\..*|.dat|g"; }
 
 download_file() {
-    set -e
-
     local path="$1"
     local formatted_path=$(encode_path "$path")
 
