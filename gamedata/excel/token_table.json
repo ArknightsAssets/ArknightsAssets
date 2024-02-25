@@ -1,0 +1,334 @@
+{
+  "characters": [
+    {
+      "key": "trap_004_iceblock",
+      "value": {
+        "name": "封印的地面",
+        "canUseGeneralPotentialItem": false,
+        "canUseActivityPotentialItem": false,
+        "appellation": "Sealed Floor",
+        "position": "NONE",
+        "isNotObtainable": false,
+        "isSpChar": false,
+        "maxPotentialLevel": 0,
+        "rarity": "TIER_1",
+        "profession": "TRAP",
+        "subProfessionId": "notchar2",
+        "phases": [
+          {
+            "characterPrefabKey": "trap_004_iceblock",
+            "maxLevel": 30,
+            "attributesKeyFrames": [
+              {
+                "level": 1,
+                "data": {
+                  "maxHp": 100,
+                  "atk": 0,
+                  "def": 0,
+                  "magicResistance": 0,
+                  "cost": 0,
+                  "blockCnt": 0,
+                  "moveSpeed": 1,
+                  "attackSpeed": 100,
+                  "baseAttackTime": 1,
+                  "respawnTime": 60,
+                  "hpRecoveryPerSec": 0,
+                  "spRecoveryPerSec": 1,
+                  "maxDeployCount": 1,
+                  "maxDeckStackCnt": 0,
+                  "tauntLevel": 0,
+                  "massLevel": 0,
+                  "baseForceLevel": 0,
+                  "stunImmune": false,
+                  "silenceImmune": false,
+                  "sleepImmune": false,
+                  "frozenImmune": false,
+                  "levitateImmune": false,
+                  "disarmedCombatImmune": false
+                }
+              },
+              {
+                "level": 30,
+                "data": {
+                  "maxHp": 100,
+                  "atk": 0,
+                  "def": 0,
+                  "magicResistance": 0,
+                  "cost": 0,
+                  "blockCnt": 0,
+                  "moveSpeed": 1,
+                  "attackSpeed": 100,
+                  "baseAttackTime": 1,
+                  "respawnTime": 60,
+                  "hpRecoveryPerSec": 0,
+                  "spRecoveryPerSec": 1,
+                  "maxDeployCount": 1,
+                  "maxDeckStackCnt": 0,
+                  "tauntLevel": 0,
+                  "massLevel": 0,
+                  "baseForceLevel": 0,
+                  "stunImmune": false,
+                  "silenceImmune": false,
+                  "sleepImmune": false,
+                  "frozenImmune": false,
+                  "levitateImmune": false,
+                  "disarmedCombatImmune": false
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "key": "trap_017_wooden_broke",
+      "value": {
+        "name": "破损的木桩",
+        "canUseGeneralPotentialItem": false,
+        "canUseActivityPotentialItem": false,
+        "appellation": "Broken Stump",
+        "position": "NONE",
+        "isNotObtainable": false,
+        "isSpChar": false,
+        "maxPotentialLevel": 0,
+        "rarity": "TIER_1",
+        "profession": "TRAP",
+        "subProfessionId": "notchar2",
+        "phases": [
+          {
+            "characterPrefabKey": "trap_017_wooden_broke",
+            "maxLevel": 30,
+            "attributesKeyFrames": [
+              {
+                "level": 1,
+                "data": {
+                  "maxHp": 100,
+                  "atk": 0,
+                  "def": 0,
+                  "magicResistance": 0,
+                  "cost": 0,
+                  "blockCnt": 0,
+                  "moveSpeed": 1,
+                  "attackSpeed": 100,
+                  "baseAttackTime": 1,
+                  "respawnTime": 60,
+                  "hpRecoveryPerSec": 0,
+                  "spRecoveryPerSec": 1,
+                  "maxDeployCount": 1,
+                  "maxDeckStackCnt": 0,
+                  "tauntLevel": 0,
+                  "massLevel": 0,
+                  "baseForceLevel": 0,
+                  "stunImmune": false,
+                  "silenceImmune": false,
+                  "sleepImmune": false,
+                  "frozenImmune": false,
+                  "levitateImmune": false,
+                  "disarmedCombatImmune": false
+                }
+              },
+              {
+                "level": 30,
+                "data": {
+                  "maxHp": 100,
+                  "atk": 0,
+                  "def": 0,
+                  "magicResistance": 0,
+                  "cost": 0,
+                  "blockCnt": 0,
+                  "moveSpeed": 1,
+                  "attackSpeed": 100,
+                  "baseAttackTime": 1,
+                  "respawnTime": 60,
+                  "hpRecoveryPerSec": 0,
+                  "spRecoveryPerSec": 1,
+                  "maxDeployCount": 1,
+                  "maxDeckStackCnt": 0,
+                  "tauntLevel": 0,
+                  "massLevel": 0,
+                  "baseForceLevel": 0,
+                  "stunImmune": false,
+                  "silenceImmune": false,
+                  "sleepImmune": false,
+                  "frozenImmune": false,
+                  "levitateImmune": false,
+                  "disarmedCombatImmune": false
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "key": "trap_005_sensor",
+      "value": {
+        "name": "感应器",
+        "canUseGeneralPotentialItem": false,
+        "canUseActivityPotentialItem": false,
+        "appellation": "Sensor",
+        "position": "NONE",
+        "isNotObtainable": false,
+        "isSpChar": false,
+        "maxPotentialLevel": 0,
+        "rarity": "TIER_1",
+        "profession": "TRAP",
+        "subProfessionId": "notchar2",
+        "phases": [
+          {
+            "characterPrefabKey": "trap_005_sensor",
+            "maxLevel": 30,
+            "attributesKeyFrames": [
+              {
+                "level": 1,
+                "data": {
+                  "maxHp": 100,
+                  "atk": 0,
+                  "def": 0,
+                  "magicResistance": 0,
+                  "cost": 5,
+                  "blockCnt": 3,
+                  "moveSpeed": 1,
+                  "attackSpeed": 100,
+                  "baseAttackTime": 1,
+                  "respawnTime": 5,
+                  "hpRecoveryPerSec": 0,
+                  "spRecoveryPerSec": 1,
+                  "maxDeployCount": 1,
+                  "maxDeckStackCnt": 0,
+                  "tauntLevel": 0,
+                  "massLevel": 0,
+                  "baseForceLevel": 0,
+                  "stunImmune": false,
+                  "silenceImmune": false,
+                  "sleepImmune": false,
+                  "frozenImmune": false,
+                  "levitateImmune": false,
+                  "disarmedCombatImmune": false
+                }
+              },
+              {
+                "level": 30,
+                "data": {
+                  "maxHp": 100,
+                  "atk": 0,
+                  "def": 0,
+                  "magicResistance": 0,
+                  "cost": 5,
+                  "blockCnt": 3,
+                  "moveSpeed": 1,
+                  "attackSpeed": 100,
+                  "baseAttackTime": 1,
+                  "respawnTime": 5,
+                  "hpRecoveryPerSec": 0,
+                  "spRecoveryPerSec": 1,
+                  "maxDeployCount": 1,
+                  "maxDeckStackCnt": 0,
+                  "tauntLevel": 0,
+                  "massLevel": 0,
+                  "baseForceLevel": 0,
+                  "stunImmune": false,
+                  "silenceImmune": false,
+                  "sleepImmune": false,
+                  "frozenImmune": false,
+                  "levitateImmune": false,
+                  "disarmedCombatImmune": false
+                }
+              }
+            ]
+          }
+        ],
+        "skills": [
+          {
+            "skillId": "sktok_sensor",
+            "levelUpCostCond": [],
+            "unlockCond": {
+              "phase": "PHASE_0",
+              "level": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "key": "trap_047_mandrablock",
+      "value": {
+        "name": "封印的地面",
+        "canUseGeneralPotentialItem": false,
+        "canUseActivityPotentialItem": false,
+        "appellation": "Sealed Floor",
+        "position": "NONE",
+        "isNotObtainable": false,
+        "isSpChar": false,
+        "maxPotentialLevel": 0,
+        "rarity": "TIER_1",
+        "profession": "TRAP",
+        "subProfessionId": "notchar2",
+        "phases": [
+          {
+            "characterPrefabKey": "trap_047_mandrablock",
+            "maxLevel": 30,
+            "attributesKeyFrames": [
+              {
+                "level": 1,
+                "data": {
+                  "maxHp": 100,
+                  "atk": 0,
+                  "def": 0,
+                  "magicResistance": 0,
+                  "cost": 0,
+                  "blockCnt": 0,
+                  "moveSpeed": 1,
+                  "attackSpeed": 100,
+                  "baseAttackTime": 1,
+                  "respawnTime": 60,
+                  "hpRecoveryPerSec": 0,
+                  "spRecoveryPerSec": 1,
+                  "maxDeployCount": 1,
+                  "maxDeckStackCnt": 0,
+                  "tauntLevel": 0,
+                  "massLevel": 0,
+                  "baseForceLevel": 0,
+                  "stunImmune": false,
+                  "silenceImmune": false,
+                  "sleepImmune": false,
+                  "frozenImmune": false,
+                  "levitateImmune": false,
+                  "disarmedCombatImmune": false
+                }
+              },
+              {
+                "level": 30,
+                "data": {
+                  "maxHp": 100,
+                  "atk": 0,
+                  "def": 0,
+                  "magicResistance": 0,
+                  "cost": 0,
+                  "blockCnt": 0,
+                  "moveSpeed": 1,
+                  "attackSpeed": 100,
+                  "baseAttackTime": 1,
+                  "respawnTime": 60,
+                  "hpRecoveryPerSec": 0,
+                  "spRecoveryPerSec": 1,
+                  "maxDeployCount": 1,
+                  "maxDeckStackCnt": 0,
+                  "tauntLevel": 0,
+                  "massLevel": 0,
+                  "baseForceLevel": 0,
+                  "stunImmune": false,
+                  "silenceImmune": false,
+                  "sleepImmune": false,
+                  "frozenImmune": false,
+                  "levitateImmune": false,
+                  "disarmedCombatImmune": false
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

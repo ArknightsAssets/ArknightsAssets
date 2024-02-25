@@ -1,0 +1,1126 @@
+{
+  "tank": {
+    "dataParts": [
+      {
+        "isInheritable": true,
+        "descriptionHead": "使接力干员获得一件重装装备",
+        "description": "防御力<@ba.vup>+{tomb_buff[tank_0].def_raw_multi:0%}</>，阻挡数<@ba.vup>+{tomb_buff[tank_0].block_cnt}</>",
+        "levelPhases": [
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[tank_0].def_raw_multi",
+                "value": {
+                  "$numberDouble": "0.4"
+                }
+              },
+              {
+                "key": "tomb_buff[tank_0].block_cnt",
+                "value": {
+                  "$numberLong": "1"
+                }
+              }
+            ]
+          },
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[tank_0].def_raw_multi",
+                "value": {
+                  "$numberDouble": "0.8"
+                }
+              },
+              {
+                "key": "tomb_buff[tank_0].block_cnt",
+                "value": {
+                  "$numberLong": "2"
+                }
+              }
+            ]
+          },
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[tank_0].def_raw_multi",
+                "value": {
+                  "$numberDouble": "1.2"
+                }
+              },
+              {
+                "key": "tomb_buff[tank_0].block_cnt",
+                "value": {
+                  "$numberLong": "3"
+                }
+              }
+            ]
+          },
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[tank_0].def_raw_multi",
+                "value": {
+                  "$numberDouble": "1.6"
+                }
+              },
+              {
+                "key": "tomb_buff[tank_0].block_cnt",
+                "value": {
+                  "$numberLong": "4"
+                }
+              }
+            ]
+          },
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[tank_0].def_raw_multi",
+                "value": {
+                  "$numberDouble": "2.0"
+                }
+              },
+              {
+                "key": "tomb_buff[tank_0].block_cnt",
+                "value": {
+                  "$numberLong": "5"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "isInheritable": true,
+        "descriptionHead": "使接力干员获得一件重装装备",
+        "description": "最大生命值<@ba.vup>+{tomb_buff[tank_1].max_hp_raw_multi:0%}</>，防御力<@ba.vup>+{tomb_buff[tank_1].def_raw_multi:0%}</>",
+        "levelPhases": [
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[tank_1].max_hp_raw_multi",
+                "value": {
+                  "$numberDouble": "0.25"
+                }
+              },
+              {
+                "key": "tomb_buff[tank_1].def_raw_multi",
+                "value": {
+                  "$numberDouble": "0.25"
+                }
+              }
+            ]
+          },
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[tank_1].max_hp_raw_multi",
+                "value": {
+                  "$numberDouble": "0.5"
+                }
+              },
+              {
+                "key": "tomb_buff[tank_1].def_raw_multi",
+                "value": {
+                  "$numberDouble": "0.5"
+                }
+              }
+            ]
+          },
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[tank_1].max_hp_raw_multi",
+                "value": {
+                  "$numberDouble": "0.75"
+                }
+              },
+              {
+                "key": "tomb_buff[tank_1].def_raw_multi",
+                "value": {
+                  "$numberDouble": "0.75"
+                }
+              }
+            ]
+          },
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[tank_1].max_hp_raw_multi",
+                "value": {
+                  "$numberLong": "1"
+                }
+              },
+              {
+                "key": "tomb_buff[tank_1].def_raw_multi",
+                "value": {
+                  "$numberLong": "1"
+                }
+              }
+            ]
+          },
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[tank_1].max_hp_raw_multi",
+                "value": {
+                  "$numberDouble": "1.25"
+                }
+              },
+              {
+                "key": "tomb_buff[tank_1].def_raw_multi",
+                "value": {
+                  "$numberDouble": "1.25"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "warrior": {
+    "dataParts": [
+      {
+        "isInheritable": true,
+        "descriptionHead": "使接力干员获得一件近卫装备",
+        "description": "攻击力<@ba.vup>+{tomb_buff[warrior_0].atk_raw_multi:0%}</>",
+        "levelPhases": [
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[warrior_0].atk_raw_multi",
+                "value": {
+                  "$numberDouble": "0.4"
+                }
+              }
+            ]
+          },
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[warrior_0].atk_raw_multi",
+                "value": {
+                  "$numberDouble": "0.8"
+                }
+              }
+            ]
+          },
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[warrior_0].atk_raw_multi",
+                "value": {
+                  "$numberDouble": "1.2"
+                }
+              }
+            ]
+          },
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[warrior_0].atk_raw_multi",
+                "value": {
+                  "$numberDouble": "1.6"
+                }
+              }
+            ]
+          },
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[warrior_0].atk_raw_multi",
+                "value": {
+                  "$numberDouble": "2.0"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "isInheritable": true,
+        "descriptionHead": "使接力干员获得一件近卫装备",
+        "description": "攻击力<@ba.vup>+{tomb_buff[warrior_1].atk_raw_multi:0%}</>, 攻击速度<@ba.vup>+{tomb_buff[warrior_1].attack_speed}</>",
+        "levelPhases": [
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[warrior_1].attack_speed",
+                "value": {
+                  "$numberLong": "20"
+                }
+              },
+              {
+                "key": "tomb_buff[warrior_1].atk_raw_multi",
+                "value": {
+                  "$numberDouble": "0.2"
+                }
+              }
+            ]
+          },
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[warrior_1].attack_speed",
+                "value": {
+                  "$numberLong": "40"
+                }
+              },
+              {
+                "key": "tomb_buff[warrior_1].atk_raw_multi",
+                "value": {
+                  "$numberDouble": "0.4"
+                }
+              }
+            ]
+          },
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[warrior_1].attack_speed",
+                "value": {
+                  "$numberLong": "60"
+                }
+              },
+              {
+                "key": "tomb_buff[warrior_1].atk_raw_multi",
+                "value": {
+                  "$numberDouble": "0.6"
+                }
+              }
+            ]
+          },
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[warrior_1].attack_speed",
+                "value": {
+                  "$numberLong": "80"
+                }
+              },
+              {
+                "key": "tomb_buff[warrior_1].atk_raw_multi",
+                "value": {
+                  "$numberDouble": "0.8"
+                }
+              }
+            ]
+          },
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[warrior_1].attack_speed",
+                "value": {
+                  "$numberLong": "100"
+                }
+              },
+              {
+                "key": "tomb_buff[warrior_1].atk_raw_multi",
+                "value": {
+                  "$numberDouble": "1.0"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "pioneer": {
+    "dataParts": [
+      {
+        "isInheritable": true,
+        "descriptionHead": "使接力干员获得一件先锋装备",
+        "description": "攻击力<@ba.vup>+{tomb_buff[pioneer_0].atk_raw_multi:0%}</>, 每<@ba.vup>{tomb_buff[pioneer_0].interval}</>秒回复<@ba.vup>{tomb_buff[pioneer_0].sp}</>技力",
+        "levelPhases": [
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[pioneer_0].interval",
+                "value": {
+                  "$numberLong": "3"
+                }
+              },
+              {
+                "key": "tomb_buff[pioneer_0].sp",
+                "value": {
+                  "$numberLong": "1"
+                }
+              },
+              {
+                "key": "tomb_buff[pioneer_0].atk_raw_multi",
+                "value": {
+                  "$numberDouble": "0.2"
+                }
+              }
+            ]
+          },
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[pioneer_0].interval",
+                "value": {
+                  "$numberLong": "3"
+                }
+              },
+              {
+                "key": "tomb_buff[pioneer_0].sp",
+                "value": {
+                  "$numberLong": "2"
+                }
+              },
+              {
+                "key": "tomb_buff[pioneer_0].atk_raw_multi",
+                "value": {
+                  "$numberDouble": "0.4"
+                }
+              }
+            ]
+          },
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[pioneer_0].interval",
+                "value": {
+                  "$numberLong": "3"
+                }
+              },
+              {
+                "key": "tomb_buff[pioneer_0].sp",
+                "value": {
+                  "$numberLong": "3"
+                }
+              },
+              {
+                "key": "tomb_buff[pioneer_0].atk_raw_multi",
+                "value": {
+                  "$numberDouble": "0.6"
+                }
+              }
+            ]
+          },
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[pioneer_0].interval",
+                "value": {
+                  "$numberLong": "3"
+                }
+              },
+              {
+                "key": "tomb_buff[pioneer_0].sp",
+                "value": {
+                  "$numberLong": "4"
+                }
+              },
+              {
+                "key": "tomb_buff[pioneer_0].atk_raw_multi",
+                "value": {
+                  "$numberDouble": "0.8"
+                }
+              }
+            ]
+          },
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[pioneer_0].interval",
+                "value": {
+                  "$numberLong": "3"
+                }
+              },
+              {
+                "key": "tomb_buff[pioneer_0].sp",
+                "value": {
+                  "$numberLong": "5"
+                }
+              },
+              {
+                "key": "tomb_buff[pioneer_0].atk_raw_multi",
+                "value": {
+                  "$numberDouble": "1.0"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "isInheritable": false,
+        "descriptionHead": "部署时触发效果",
+        "description": "将所有战术装备转换成调用凭证（10张/件）",
+        "levelPhases": [
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[pioneer_1].gold_per_buff",
+                "value": {
+                  "$numberDouble": "10.0"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "sniper": {
+    "dataParts": [
+      {
+        "isInheritable": true,
+        "descriptionHead": "使接力干员获得一件狙击装备",
+        "description": "攻击速度<@ba.vup>+{tomb_buff[sniper_0].attack_speed}</>",
+        "levelPhases": [
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[sniper_0].attack_speed",
+                "value": {
+                  "$numberLong": "40"
+                }
+              }
+            ]
+          },
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[sniper_0].attack_speed",
+                "value": {
+                  "$numberLong": "80"
+                }
+              }
+            ]
+          },
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[sniper_0].attack_speed",
+                "value": {
+                  "$numberLong": "120"
+                }
+              }
+            ]
+          },
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[sniper_0].attack_speed",
+                "value": {
+                  "$numberLong": "160"
+                }
+              }
+            ]
+          },
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[sniper_0].attack_speed",
+                "value": {
+                  "$numberLong": "200"
+                }
+              }
+            ]
+          },
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[sniper_0].attack_speed",
+                "value": {
+                  "$numberLong": "240"
+                }
+              }
+            ]
+          },
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[sniper_0].attack_speed",
+                "value": {
+                  "$numberLong": "280"
+                }
+              }
+            ]
+          },
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[sniper_0].attack_speed",
+                "value": {
+                  "$numberLong": "320"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "isInheritable": true,
+        "descriptionHead": "使接力干员获得一件狙击装备",
+        "description": "最大生命值<@ba.vup>+{tomb_buff[sniper_1].max_hp_raw_multi:0%}</>，攻击力<@ba.vup>+{tomb_buff[sniper_1].atk_raw_multi:0%}</>",
+        "levelPhases": [
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[sniper_1].atk_raw_multi",
+                "value": {
+                  "$numberDouble": "0.25"
+                }
+              },
+              {
+                "key": "tomb_buff[sniper_1].max_hp_raw_multi",
+                "value": {
+                  "$numberDouble": "0.25"
+                }
+              }
+            ]
+          },
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[sniper_1].atk_raw_multi",
+                "value": {
+                  "$numberDouble": "0.5"
+                }
+              },
+              {
+                "key": "tomb_buff[sniper_1].max_hp_raw_multi",
+                "value": {
+                  "$numberDouble": "0.5"
+                }
+              }
+            ]
+          },
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[sniper_1].atk_raw_multi",
+                "value": {
+                  "$numberDouble": "0.75"
+                }
+              },
+              {
+                "key": "tomb_buff[sniper_1].max_hp_raw_multi",
+                "value": {
+                  "$numberDouble": "0.75"
+                }
+              }
+            ]
+          },
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[sniper_1].atk_raw_multi",
+                "value": {
+                  "$numberLong": "1"
+                }
+              },
+              {
+                "key": "tomb_buff[sniper_1].max_hp_raw_multi",
+                "value": {
+                  "$numberLong": "1"
+                }
+              }
+            ]
+          },
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[sniper_1].atk_raw_multi",
+                "value": {
+                  "$numberDouble": "1.25"
+                }
+              },
+              {
+                "key": "tomb_buff[sniper_1].max_hp_raw_multi",
+                "value": {
+                  "$numberDouble": "1.25"
+                }
+              }
+            ]
+          },
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[sniper_1].atk_raw_multi",
+                "value": {
+                  "$numberDouble": "1.5"
+                }
+              },
+              {
+                "key": "tomb_buff[sniper_1].max_hp_raw_multi",
+                "value": {
+                  "$numberDouble": "1.5"
+                }
+              }
+            ]
+          },
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[sniper_1].atk_raw_multi",
+                "value": {
+                  "$numberDouble": "1.75"
+                }
+              },
+              {
+                "key": "tomb_buff[sniper_1].max_hp_raw_multi",
+                "value": {
+                  "$numberDouble": "1.75"
+                }
+              }
+            ]
+          },
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[sniper_1].atk_raw_multi",
+                "value": {
+                  "$numberLong": "2"
+                }
+              },
+              {
+                "key": "tomb_buff[sniper_1].max_hp_raw_multi",
+                "value": {
+                  "$numberLong": "2"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "caster": {
+    "dataParts": [
+      {
+        "isInheritable": true,
+        "descriptionHead": "使接力干员获得一件术师装备",
+        "description": "攻击力<@ba.vup>+{tomb_buff[caster_0].atk_raw_multi:0%}</>, 每<@ba.vup>{tomb_buff[caster_0].interval}</>秒回复<@ba.vup>{tomb_buff[caster_0].sp}</>技力",
+        "levelPhases": [
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[caster_0].interval",
+                "value": {
+                  "$numberLong": "3"
+                }
+              },
+              {
+                "key": "tomb_buff[caster_0].sp",
+                "value": {
+                  "$numberLong": "1"
+                }
+              },
+              {
+                "key": "tomb_buff[caster_0].atk_raw_multi",
+                "value": {
+                  "$numberDouble": "0.2"
+                }
+              }
+            ]
+          },
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[caster_0].interval",
+                "value": {
+                  "$numberLong": "3"
+                }
+              },
+              {
+                "key": "tomb_buff[caster_0].sp",
+                "value": {
+                  "$numberLong": "2"
+                }
+              },
+              {
+                "key": "tomb_buff[caster_0].atk_raw_multi",
+                "value": {
+                  "$numberDouble": "0.4"
+                }
+              }
+            ]
+          },
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[caster_0].interval",
+                "value": {
+                  "$numberLong": "3"
+                }
+              },
+              {
+                "key": "tomb_buff[caster_0].sp",
+                "value": {
+                  "$numberLong": "3"
+                }
+              },
+              {
+                "key": "tomb_buff[caster_0].atk_raw_multi",
+                "value": {
+                  "$numberDouble": "0.6"
+                }
+              }
+            ]
+          },
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[caster_0].interval",
+                "value": {
+                  "$numberLong": "3"
+                }
+              },
+              {
+                "key": "tomb_buff[caster_0].sp",
+                "value": {
+                  "$numberLong": "4"
+                }
+              },
+              {
+                "key": "tomb_buff[caster_0].atk_raw_multi",
+                "value": {
+                  "$numberDouble": "0.8"
+                }
+              }
+            ]
+          },
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[caster_0].interval",
+                "value": {
+                  "$numberLong": "3"
+                }
+              },
+              {
+                "key": "tomb_buff[caster_0].sp",
+                "value": {
+                  "$numberLong": "5"
+                }
+              },
+              {
+                "key": "tomb_buff[caster_0].atk_raw_multi",
+                "value": {
+                  "$numberDouble": "1.0"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "isInheritable": true,
+        "descriptionHead": "使接力干员获得一件术师装备",
+        "description": "攻击力<@ba.vup>+{tomb_buff[caster_1].atk_raw_multi:0%}</>",
+        "levelPhases": [
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[caster_1].atk_raw_multi",
+                "value": {
+                  "$numberDouble": "0.4"
+                }
+              }
+            ]
+          },
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[caster_1].atk_raw_multi",
+                "value": {
+                  "$numberDouble": "0.8"
+                }
+              }
+            ]
+          },
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[caster_1].atk_raw_multi",
+                "value": {
+                  "$numberDouble": "1.2"
+                }
+              }
+            ]
+          },
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[caster_1].atk_raw_multi",
+                "value": {
+                  "$numberDouble": "1.6"
+                }
+              }
+            ]
+          },
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[caster_1].atk_raw_multi",
+                "value": {
+                  "$numberDouble": "2.0"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "medic": {
+    "dataParts": [
+      {
+        "isInheritable": true,
+        "descriptionHead": "使接力干员获得一件医疗装备",
+        "description": "全场所有友方单位受到的物理与法术伤害减少<@ba.vup>{tomb_buff[medic_0].damage_resistance:0%}</>",
+        "levelPhases": [
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[medic_0].damage_resistance",
+                "value": {
+                  "$numberDouble": "0.1"
+                }
+              }
+            ]
+          },
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[medic_0].damage_resistance",
+                "value": {
+                  "$numberDouble": "0.2"
+                }
+              }
+            ]
+          },
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[medic_0].damage_resistance",
+                "value": {
+                  "$numberDouble": "0.3"
+                }
+              }
+            ]
+          },
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[medic_0].damage_resistance",
+                "value": {
+                  "$numberDouble": "0.4"
+                }
+              }
+            ]
+          },
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[medic_0].damage_resistance",
+                "value": {
+                  "$numberDouble": "0.5"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "isInheritable": false,
+        "descriptionHead": "部署时触发效果",
+        "description": "使攻击范围内一名重伤倒地的干员<@ba.vup>复活</>",
+        "levelPhases": []
+      }
+    ]
+  },
+  "support": {
+    "dataParts": [
+      {
+        "isInheritable": false,
+        "descriptionHead": "部署时触发效果",
+        "description": "获得<@ba.vup>15张</>调用凭证",
+        "levelPhases": [
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[support_0].get_gold",
+                "value": {
+                  "$numberDouble": "15.0"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "isInheritable": false,
+        "descriptionHead": "部署时触发效果",
+        "description": "从预备区中随机检视<@ba.vup>四名</>干员并选择<@ba.vup>一名</>干员调度",
+        "levelPhases": [
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[support_1].can_select_num",
+                "value": {
+                  "$numberDouble": "1.0"
+                }
+              },
+              {
+                "key": "tomb_buff[support_1].range_num",
+                "value": {
+                  "$numberDouble": "4.0"
+                }
+              },
+              {
+                "key": "tomb_buff[support_1].value",
+                "value": {
+                  "$numberDouble": "1.0"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "special": {
+    "dataParts": [
+      {
+        "isInheritable": false,
+        "descriptionHead": "部署时触发效果",
+        "description": "使撤退干员直接返回<@ba.vup>待部署区</>且再部署时间<@ba.vup>-50%</>",
+        "isRedrawWhenReplace": true,
+        "levelPhases": [
+          {
+            "blackboard": [
+              {
+                "key": "respawn_time",
+                "value": {
+                  "$numberDouble": "0.5"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "isInheritable": true,
+        "descriptionHead": "使接力干员获得一件特种装备",
+        "description": "攻击速度<@ba.vup>+{tomb_buff[special_1].attack_speed}</>, 每<@ba.vup>{tomb_buff[special_1].interval}</>秒回复<@ba.vup>{tomb_buff[special_1].sp}</>技力",
+        "levelPhases": [
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[special_1].interval",
+                "value": {
+                  "$numberLong": "3"
+                }
+              },
+              {
+                "key": "tomb_buff[special_1].sp",
+                "value": {
+                  "$numberLong": "1"
+                }
+              },
+              {
+                "key": "tomb_buff[special_1].attack_speed",
+                "value": {
+                  "$numberLong": "20"
+                }
+              }
+            ]
+          },
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[special_1].interval",
+                "value": {
+                  "$numberLong": "3"
+                }
+              },
+              {
+                "key": "tomb_buff[special_1].sp",
+                "value": {
+                  "$numberLong": "2"
+                }
+              },
+              {
+                "key": "tomb_buff[special_1].attack_speed",
+                "value": {
+                  "$numberLong": "40"
+                }
+              }
+            ]
+          },
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[special_1].interval",
+                "value": {
+                  "$numberLong": "3"
+                }
+              },
+              {
+                "key": "tomb_buff[special_1].sp",
+                "value": {
+                  "$numberLong": "3"
+                }
+              },
+              {
+                "key": "tomb_buff[special_1].attack_speed",
+                "value": {
+                  "$numberLong": "60"
+                }
+              }
+            ]
+          },
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[special_1].interval",
+                "value": {
+                  "$numberLong": "3"
+                }
+              },
+              {
+                "key": "tomb_buff[special_1].sp",
+                "value": {
+                  "$numberLong": "4"
+                }
+              },
+              {
+                "key": "tomb_buff[special_1].attack_speed",
+                "value": {
+                  "$numberLong": "80"
+                }
+              }
+            ]
+          },
+          {
+            "blackboard": [
+              {
+                "key": "tomb_buff[special_1].interval",
+                "value": {
+                  "$numberLong": "3"
+                }
+              },
+              {
+                "key": "tomb_buff[special_1].sp",
+                "value": {
+                  "$numberLong": "5"
+                }
+              },
+              {
+                "key": "tomb_buff[special_1].attack_speed",
+                "value": {
+                  "$numberLong": "100"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

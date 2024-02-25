@@ -1,0 +1,3524 @@
+{
+  "spCharGroups": [
+    {
+      "key": "char_285_medic2",
+      "value": [
+        "char_285_medic2"
+      ]
+    },
+    {
+      "key": "char_286_cast3",
+      "value": [
+        "char_286_cast3"
+      ]
+    },
+    {
+      "key": "char_376_therex",
+      "value": [
+        "char_376_therex"
+      ]
+    },
+    {
+      "key": "char_4000_jnight",
+      "value": [
+        "char_4000_jnight"
+      ]
+    },
+    {
+      "key": "char_4077_palico",
+      "value": [
+        "char_4077_palico"
+      ]
+    },
+    {
+      "key": "char_4091_ulika",
+      "value": [
+        "char_4091_ulika"
+      ]
+    },
+    {
+      "key": "char_4093_frston",
+      "value": [
+        "char_4093_frston"
+      ]
+    },
+    {
+      "key": "char_502_nblade",
+      "value": [
+        "char_502_nblade",
+        "char_1029_yato2"
+      ]
+    },
+    {
+      "key": "char_500_noirc",
+      "value": [
+        "char_500_noirc",
+        "char_1030_noirc2"
+      ]
+    },
+    {
+      "key": "char_503_rang",
+      "value": [
+        "char_503_rang"
+      ]
+    },
+    {
+      "key": "char_501_durin",
+      "value": [
+        "char_501_durin"
+      ]
+    },
+    {
+      "key": "char_009_12fce",
+      "value": [
+        "char_009_12fce"
+      ]
+    },
+    {
+      "key": "char_123_fang",
+      "value": [
+        "char_123_fang"
+      ]
+    },
+    {
+      "key": "char_240_wyvern",
+      "value": [
+        "char_240_wyvern"
+      ]
+    },
+    {
+      "key": "char_504_rguard",
+      "value": [
+        "char_504_rguard"
+      ]
+    },
+    {
+      "key": "char_192_falco",
+      "value": [
+        "char_192_falco"
+      ]
+    },
+    {
+      "key": "char_208_melan",
+      "value": [
+        "char_208_melan"
+      ]
+    },
+    {
+      "key": "char_281_popka",
+      "value": [
+        "char_281_popka"
+      ]
+    },
+    {
+      "key": "char_209_ardign",
+      "value": [
+        "char_209_ardign"
+      ]
+    },
+    {
+      "key": "char_122_beagle",
+      "value": [
+        "char_122_beagle"
+      ]
+    },
+    {
+      "key": "char_514_rdfend",
+      "value": [
+        "char_514_rdfend"
+      ]
+    },
+    {
+      "key": "char_284_spot",
+      "value": [
+        "char_284_spot"
+      ]
+    },
+    {
+      "key": "char_124_kroos",
+      "value": [
+        "char_124_kroos",
+        "char_1021_kroos2"
+      ]
+    },
+    {
+      "key": "char_211_adnach",
+      "value": [
+        "char_211_adnach"
+      ]
+    },
+    {
+      "key": "char_507_rsnipe",
+      "value": [
+        "char_507_rsnipe"
+      ]
+    },
+    {
+      "key": "char_121_lava",
+      "value": [
+        "char_121_lava",
+        "char_1011_lava2"
+      ]
+    },
+    {
+      "key": "char_120_hibisc",
+      "value": [
+        "char_120_hibisc",
+        "char_1024_hbisc2"
+      ]
+    },
+    {
+      "key": "char_212_ansel",
+      "value": [
+        "char_212_ansel"
+      ]
+    },
+    {
+      "key": "char_506_rmedic",
+      "value": [
+        "char_506_rmedic"
+      ]
+    },
+    {
+      "key": "char_210_stward",
+      "value": [
+        "char_210_stward"
+      ]
+    },
+    {
+      "key": "char_505_rcast",
+      "value": [
+        "char_505_rcast"
+      ]
+    },
+    {
+      "key": "char_278_orchid",
+      "value": [
+        "char_278_orchid"
+      ]
+    },
+    {
+      "key": "char_141_nights",
+      "value": [
+        "char_141_nights"
+      ]
+    },
+    {
+      "key": "char_109_fmout",
+      "value": [
+        "char_109_fmout"
+      ]
+    },
+    {
+      "key": "char_253_greyy",
+      "value": [
+        "char_253_greyy",
+        "char_1027_greyy2"
+      ]
+    },
+    {
+      "key": "char_328_cammou",
+      "value": [
+        "char_328_cammou"
+      ]
+    },
+    {
+      "key": "char_469_indigo",
+      "value": [
+        "char_469_indigo"
+      ]
+    },
+    {
+      "key": "char_4004_pudd",
+      "value": [
+        "char_4004_pudd"
+      ]
+    },
+    {
+      "key": "char_235_jesica",
+      "value": [
+        "char_235_jesica",
+        "char_1034_jesca2"
+      ]
+    },
+    {
+      "key": "char_126_shotst",
+      "value": [
+        "char_126_shotst"
+      ]
+    },
+    {
+      "key": "char_190_clour",
+      "value": [
+        "char_190_clour"
+      ]
+    },
+    {
+      "key": "char_133_mm",
+      "value": [
+        "char_133_mm"
+      ]
+    },
+    {
+      "key": "char_118_yuki",
+      "value": [
+        "char_118_yuki"
+      ]
+    },
+    {
+      "key": "char_440_pinecn",
+      "value": [
+        "char_440_pinecn"
+      ]
+    },
+    {
+      "key": "char_302_glaze",
+      "value": [
+        "char_302_glaze"
+      ]
+    },
+    {
+      "key": "char_366_acdrop",
+      "value": [
+        "char_366_acdrop"
+      ]
+    },
+    {
+      "key": "char_4062_totter",
+      "value": [
+        "char_4062_totter"
+      ]
+    },
+    {
+      "key": "char_4100_caper",
+      "value": [
+        "char_4100_caper"
+      ]
+    },
+    {
+      "key": "char_198_blackd",
+      "value": [
+        "char_198_blackd"
+      ]
+    },
+    {
+      "key": "char_149_scave",
+      "value": [
+        "char_149_scave"
+      ]
+    },
+    {
+      "key": "char_290_vigna",
+      "value": [
+        "char_290_vigna"
+      ]
+    },
+    {
+      "key": "char_151_myrtle",
+      "value": [
+        "char_151_myrtle"
+      ]
+    },
+    {
+      "key": "char_452_bstalk",
+      "value": [
+        "char_452_bstalk"
+      ]
+    },
+    {
+      "key": "char_130_doberm",
+      "value": [
+        "char_130_doberm"
+      ]
+    },
+    {
+      "key": "char_289_gyuki",
+      "value": [
+        "char_289_gyuki"
+      ]
+    },
+    {
+      "key": "char_159_peacok",
+      "value": [
+        "char_159_peacok"
+      ]
+    },
+    {
+      "key": "char_193_frostl",
+      "value": [
+        "char_193_frostl"
+      ]
+    },
+    {
+      "key": "char_127_estell",
+      "value": [
+        "char_127_estell"
+      ]
+    },
+    {
+      "key": "char_185_frncat",
+      "value": [
+        "char_185_frncat"
+      ]
+    },
+    {
+      "key": "char_301_cutter",
+      "value": [
+        "char_301_cutter"
+      ]
+    },
+    {
+      "key": "char_337_utage",
+      "value": [
+        "char_337_utage"
+      ]
+    },
+    {
+      "key": "char_271_spikes",
+      "value": [
+        "char_271_spikes"
+      ]
+    },
+    {
+      "key": "char_4067_lolxh",
+      "value": [
+        "char_4067_lolxh"
+      ]
+    },
+    {
+      "key": "char_4063_quartz",
+      "value": [
+        "char_4063_quartz"
+      ]
+    },
+    {
+      "key": "char_491_humus",
+      "value": [
+        "char_491_humus"
+      ]
+    },
+    {
+      "key": "char_237_gravel",
+      "value": [
+        "char_237_gravel"
+      ]
+    },
+    {
+      "key": "char_272_strong",
+      "value": [
+        "char_272_strong"
+      ]
+    },
+    {
+      "key": "char_236_rope",
+      "value": [
+        "char_236_rope"
+      ]
+    },
+    {
+      "key": "char_117_myrrh",
+      "value": [
+        "char_117_myrrh"
+      ]
+    },
+    {
+      "key": "char_187_ccheal",
+      "value": [
+        "char_187_ccheal",
+        "char_1026_gvial2"
+      ]
+    },
+    {
+      "key": "char_298_susuro",
+      "value": [
+        "char_298_susuro"
+      ]
+    },
+    {
+      "key": "char_181_flower",
+      "value": [
+        "char_181_flower"
+      ]
+    },
+    {
+      "key": "char_385_finlpp",
+      "value": [
+        "char_385_finlpp"
+      ]
+    },
+    {
+      "key": "char_4041_chnut",
+      "value": [
+        "char_4041_chnut"
+      ]
+    },
+    {
+      "key": "char_199_yak",
+      "value": [
+        "char_199_yak"
+      ]
+    },
+    {
+      "key": "char_150_snakek",
+      "value": [
+        "char_150_snakek"
+      ]
+    },
+    {
+      "key": "char_381_bubble",
+      "value": [
+        "char_381_bubble"
+      ]
+    },
+    {
+      "key": "char_196_sunbr",
+      "value": [
+        "char_196_sunbr"
+      ]
+    },
+    {
+      "key": "char_260_durnar",
+      "value": [
+        "char_260_durnar"
+      ]
+    },
+    {
+      "key": "char_110_deepcl",
+      "value": [
+        "char_110_deepcl"
+      ]
+    },
+    {
+      "key": "char_183_skgoat",
+      "value": [
+        "char_183_skgoat"
+      ]
+    },
+    {
+      "key": "char_258_podego",
+      "value": [
+        "char_258_podego"
+      ]
+    },
+    {
+      "key": "char_484_robrta",
+      "value": [
+        "char_484_robrta"
+      ]
+    },
+    {
+      "key": "char_355_ethan",
+      "value": [
+        "char_355_ethan"
+      ]
+    },
+    {
+      "key": "char_277_sqrrel",
+      "value": [
+        "char_277_sqrrel"
+      ]
+    },
+    {
+      "key": "char_4107_vrdant",
+      "value": [
+        "char_4107_vrdant"
+      ]
+    },
+    {
+      "key": "char_128_plosis",
+      "value": [
+        "char_128_plosis"
+      ]
+    },
+    {
+      "key": "char_275_breeze",
+      "value": [
+        "char_275_breeze"
+      ]
+    },
+    {
+      "key": "char_115_headbr",
+      "value": [
+        "char_115_headbr"
+      ]
+    },
+    {
+      "key": "char_102_texas",
+      "value": [
+        "char_102_texas",
+        "char_1028_texas2"
+      ]
+    },
+    {
+      "key": "char_349_chiave",
+      "value": [
+        "char_349_chiave"
+      ]
+    },
+    {
+      "key": "char_488_buildr",
+      "value": [
+        "char_488_buildr"
+      ]
+    },
+    {
+      "key": "char_513_apionr",
+      "value": [
+        "char_513_apionr"
+      ]
+    },
+    {
+      "key": "char_4023_rfalcn",
+      "value": [
+        "char_4023_rfalcn"
+      ]
+    },
+    {
+      "key": "char_261_sddrag",
+      "value": [
+        "char_261_sddrag",
+        "char_1020_reed2"
+      ]
+    },
+    {
+      "key": "char_496_wildmn",
+      "value": [
+        "char_496_wildmn"
+      ]
+    },
+    {
+      "key": "char_401_elysm",
+      "value": [
+        "char_401_elysm"
+      ]
+    },
+    {
+      "key": "char_4119_wanqin",
+      "value": [
+        "char_4119_wanqin"
+      ]
+    },
+    {
+      "key": "char_476_blkngt",
+      "value": [
+        "char_476_blkngt"
+      ]
+    },
+    {
+      "key": "char_497_ctable",
+      "value": [
+        "char_497_ctable"
+      ]
+    },
+    {
+      "key": "char_4017_puzzle",
+      "value": [
+        "char_4017_puzzle"
+      ]
+    },
+    {
+      "key": "char_308_swire",
+      "value": [
+        "char_308_swire",
+        "char_1033_swire2"
+      ]
+    },
+    {
+      "key": "char_265_sophia",
+      "value": [
+        "char_265_sophia"
+      ]
+    },
+    {
+      "key": "char_4106_bryota",
+      "value": [
+        "char_4106_bryota"
+      ]
+    },
+    {
+      "key": "char_106_franka",
+      "value": [
+        "char_106_franka"
+      ]
+    },
+    {
+      "key": "char_131_flameb",
+      "value": [
+        "char_131_flameb"
+      ]
+    },
+    {
+      "key": "char_154_morgan",
+      "value": [
+        "char_154_morgan"
+      ]
+    },
+    {
+      "key": "char_508_aguard",
+      "value": [
+        "char_508_aguard"
+      ]
+    },
+    {
+      "key": "char_155_tiger",
+      "value": [
+        "char_155_tiger"
+      ]
+    },
+    {
+      "key": "char_415_flint",
+      "value": [
+        "char_415_flint"
+      ]
+    },
+    {
+      "key": "char_157_dagda",
+      "value": [
+        "char_157_dagda"
+      ]
+    },
+    {
+      "key": "char_140_whitew",
+      "value": [
+        "char_140_whitew"
+      ]
+    },
+    {
+      "key": "char_294_ayer",
+      "value": [
+        "char_294_ayer"
+      ]
+    },
+    {
+      "key": "char_194_leto",
+      "value": [
+        "char_194_leto"
+      ]
+    },
+    {
+      "key": "char_4083_chimes",
+      "value": [
+        "char_4083_chimes"
+      ]
+    },
+    {
+      "key": "char_252_bibeak",
+      "value": [
+        "char_252_bibeak"
+      ]
+    },
+    {
+      "key": "char_459_tachak",
+      "value": [
+        "char_459_tachak"
+      ]
+    },
+    {
+      "key": "char_143_ghost",
+      "value": [
+        "char_143_ghost",
+        "char_1023_ghost2"
+      ]
+    },
+    {
+      "key": "char_356_broca",
+      "value": [
+        "char_356_broca"
+      ]
+    },
+    {
+      "key": "char_274_astesi",
+      "value": [
+        "char_274_astesi"
+      ]
+    },
+    {
+      "key": "char_333_sidero",
+      "value": [
+        "char_333_sidero"
+      ]
+    },
+    {
+      "key": "char_475_akafyu",
+      "value": [
+        "char_475_akafyu"
+      ]
+    },
+    {
+      "key": "char_421_crow",
+      "value": [
+        "char_421_crow"
+      ]
+    },
+    {
+      "key": "char_4066_highmo",
+      "value": [
+        "char_4066_highmo"
+      ]
+    },
+    {
+      "key": "char_486_takila",
+      "value": [
+        "char_486_takila"
+      ]
+    },
+    {
+      "key": "char_129_bluep",
+      "value": [
+        "char_129_bluep"
+      ]
+    },
+    {
+      "key": "char_204_platnm",
+      "value": [
+        "char_204_platnm"
+      ]
+    },
+    {
+      "key": "char_367_swllow",
+      "value": [
+        "char_367_swllow"
+      ]
+    },
+    {
+      "key": "char_511_asnipe",
+      "value": [
+        "char_511_asnipe"
+      ]
+    },
+    {
+      "key": "char_365_aprl",
+      "value": [
+        "char_365_aprl"
+      ]
+    },
+    {
+      "key": "char_498_inside",
+      "value": [
+        "char_498_inside"
+      ]
+    },
+    {
+      "key": "char_219_meteo",
+      "value": [
+        "char_219_meteo"
+      ]
+    },
+    {
+      "key": "char_379_sesa",
+      "value": [
+        "char_379_sesa"
+      ]
+    },
+    {
+      "key": "char_4078_bdhkgt",
+      "value": [
+        "char_4078_bdhkgt"
+      ]
+    },
+    {
+      "key": "char_279_excu",
+      "value": [
+        "char_279_excu",
+        "char_1032_excu2"
+      ]
+    },
+    {
+      "key": "char_346_aosta",
+      "value": [
+        "char_346_aosta"
+      ]
+    },
+    {
+      "key": "char_002_amiya",
+      "value": [
+        "char_002_amiya"
+      ]
+    },
+    {
+      "key": "char_405_absin",
+      "value": [
+        "char_405_absin"
+      ]
+    },
+    {
+      "key": "char_411_tomimi",
+      "value": [
+        "char_411_tomimi"
+      ]
+    },
+    {
+      "key": "char_466_qanik",
+      "value": [
+        "char_466_qanik"
+      ]
+    },
+    {
+      "key": "char_166_skfire",
+      "value": [
+        "char_166_skfire"
+      ]
+    },
+    {
+      "key": "char_509_acast",
+      "value": [
+        "char_509_acast"
+      ]
+    },
+    {
+      "key": "char_306_leizi",
+      "value": [
+        "char_306_leizi"
+      ]
+    },
+    {
+      "key": "char_135_halo",
+      "value": [
+        "char_135_halo"
+      ]
+    },
+    {
+      "key": "char_344_beewax",
+      "value": [
+        "char_344_beewax"
+      ]
+    },
+    {
+      "key": "char_373_lionhd",
+      "value": [
+        "char_373_lionhd"
+      ]
+    },
+    {
+      "key": "char_341_sntlla",
+      "value": [
+        "char_341_sntlla"
+      ]
+    },
+    {
+      "key": "char_388_mint",
+      "value": [
+        "char_388_mint"
+      ]
+    },
+    {
+      "key": "char_338_iris",
+      "value": [
+        "char_338_iris"
+      ]
+    },
+    {
+      "key": "char_297_hamoni",
+      "value": [
+        "char_297_hamoni"
+      ]
+    },
+    {
+      "key": "char_4110_delphn",
+      "value": [
+        "char_4110_delphn"
+      ]
+    },
+    {
+      "key": "char_489_serum",
+      "value": [
+        "char_489_serum"
+      ]
+    },
+    {
+      "key": "char_4013_kjera",
+      "value": [
+        "char_4013_kjera"
+      ]
+    },
+    {
+      "key": "char_4040_rockr",
+      "value": [
+        "char_4040_rockr"
+      ]
+    },
+    {
+      "key": "char_4054_malist",
+      "value": [
+        "char_4054_malist"
+      ]
+    },
+    {
+      "key": "char_499_kaitou",
+      "value": [
+        "char_499_kaitou"
+      ]
+    },
+    {
+      "key": "char_4081_warmy",
+      "value": [
+        "char_4081_warmy"
+      ]
+    },
+    {
+      "key": "char_242_otter",
+      "value": [
+        "char_242_otter"
+      ]
+    },
+    {
+      "key": "char_336_folivo",
+      "value": [
+        "char_336_folivo"
+      ]
+    },
+    {
+      "key": "char_108_silent",
+      "value": [
+        "char_108_silent",
+        "char_1031_slent2"
+      ]
+    },
+    {
+      "key": "char_171_bldsk",
+      "value": [
+        "char_171_bldsk"
+      ]
+    },
+    {
+      "key": "char_345_folnic",
+      "value": [
+        "char_345_folnic"
+      ]
+    },
+    {
+      "key": "char_510_amedic",
+      "value": [
+        "char_510_amedic"
+      ]
+    },
+    {
+      "key": "char_348_ceylon",
+      "value": [
+        "char_348_ceylon"
+      ]
+    },
+    {
+      "key": "char_436_whispr",
+      "value": [
+        "char_436_whispr"
+      ]
+    },
+    {
+      "key": "char_402_tuye",
+      "value": [
+        "char_402_tuye"
+      ]
+    },
+    {
+      "key": "char_473_mberry",
+      "value": [
+        "char_473_mberry"
+      ]
+    },
+    {
+      "key": "char_449_glider",
+      "value": [
+        "char_449_glider"
+      ]
+    },
+    {
+      "key": "char_4114_harold",
+      "value": [
+        "char_4114_harold"
+      ]
+    },
+    {
+      "key": "char_494_vendla",
+      "value": [
+        "char_494_vendla"
+      ]
+    },
+    {
+      "key": "char_4071_peper",
+      "value": [
+        "char_4071_peper"
+      ]
+    },
+    {
+      "key": "char_148_nearl",
+      "value": [
+        "char_148_nearl",
+        "char_1014_nearl2"
+      ]
+    },
+    {
+      "key": "char_226_hmau",
+      "value": [
+        "char_226_hmau"
+      ]
+    },
+    {
+      "key": "char_4109_baslin",
+      "value": [
+        "char_4109_baslin"
+      ]
+    },
+    {
+      "key": "char_144_red",
+      "value": [
+        "char_144_red"
+      ]
+    },
+    {
+      "key": "char_243_waaifu",
+      "value": [
+        "char_243_waaifu"
+      ]
+    },
+    {
+      "key": "char_214_kafka",
+      "value": [
+        "char_214_kafka"
+      ]
+    },
+    {
+      "key": "char_455_nothin",
+      "value": [
+        "char_455_nothin"
+      ]
+    },
+    {
+      "key": "char_107_liskam",
+      "value": [
+        "char_107_liskam"
+      ]
+    },
+    {
+      "key": "char_201_moeshd",
+      "value": [
+        "char_201_moeshd"
+      ]
+    },
+    {
+      "key": "char_325_bison",
+      "value": [
+        "char_325_bison"
+      ]
+    },
+    {
+      "key": "char_163_hpsts",
+      "value": [
+        "char_163_hpsts"
+      ]
+    },
+    {
+      "key": "char_378_asbest",
+      "value": [
+        "char_378_asbest"
+      ]
+    },
+    {
+      "key": "char_512_aprot",
+      "value": [
+        "char_512_aprot"
+      ]
+    },
+    {
+      "key": "char_4025_aprot2",
+      "value": [
+        "char_4025_aprot2"
+      ]
+    },
+    {
+      "key": "char_4047_pianst",
+      "value": [
+        "char_4047_pianst"
+      ]
+    },
+    {
+      "key": "char_457_blitz",
+      "value": [
+        "char_457_blitz"
+      ]
+    },
+    {
+      "key": "char_304_zebra",
+      "value": [
+        "char_304_zebra"
+      ]
+    },
+    {
+      "key": "char_431_ashlok",
+      "value": [
+        "char_431_ashlok"
+      ]
+    },
+    {
+      "key": "char_493_firwhl",
+      "value": [
+        "char_493_firwhl"
+      ]
+    },
+    {
+      "key": "char_422_aurora",
+      "value": [
+        "char_422_aurora"
+      ]
+    },
+    {
+      "key": "char_464_cement",
+      "value": [
+        "char_464_cement"
+      ]
+    },
+    {
+      "key": "char_145_prove",
+      "value": [
+        "char_145_prove"
+      ]
+    },
+    {
+      "key": "char_4006_melnte",
+      "value": [
+        "char_4006_melnte"
+      ]
+    },
+    {
+      "key": "char_158_milu",
+      "value": [
+        "char_158_milu"
+      ]
+    },
+    {
+      "key": "char_218_cuttle",
+      "value": [
+        "char_218_cuttle"
+      ]
+    },
+    {
+      "key": "char_4014_lunacu",
+      "value": [
+        "char_4014_lunacu"
+      ]
+    },
+    {
+      "key": "char_363_toddi",
+      "value": [
+        "char_363_toddi"
+      ]
+    },
+    {
+      "key": "char_4043_erato",
+      "value": [
+        "char_4043_erato"
+      ]
+    },
+    {
+      "key": "char_4104_coldst",
+      "value": [
+        "char_4104_coldst"
+      ]
+    },
+    {
+      "key": "char_4015_spuria",
+      "value": [
+        "char_4015_spuria"
+      ]
+    },
+    {
+      "key": "char_173_slchan",
+      "value": [
+        "char_173_slchan"
+      ]
+    },
+    {
+      "key": "char_383_snsant",
+      "value": [
+        "char_383_snsant"
+      ]
+    },
+    {
+      "key": "char_4105_almond",
+      "value": [
+        "char_4105_almond"
+      ]
+    },
+    {
+      "key": "char_174_slbell",
+      "value": [
+        "char_174_slbell"
+      ]
+    },
+    {
+      "key": "char_254_vodfox",
+      "value": [
+        "char_254_vodfox"
+      ]
+    },
+    {
+      "key": "char_195_glassb",
+      "value": [
+        "char_195_glassb"
+      ]
+    },
+    {
+      "key": "char_326_glacus",
+      "value": [
+        "char_326_glacus"
+      ]
+    },
+    {
+      "key": "char_4032_provs",
+      "value": [
+        "char_4032_provs"
+      ]
+    },
+    {
+      "key": "char_4122_grabds",
+      "value": [
+        "char_4122_grabds"
+      ]
+    },
+    {
+      "key": "char_433_windft",
+      "value": [
+        "char_433_windft"
+      ]
+    },
+    {
+      "key": "char_101_sora",
+      "value": [
+        "char_101_sora"
+      ]
+    },
+    {
+      "key": "char_4045_heidi",
+      "value": [
+        "char_4045_heidi"
+      ]
+    },
+    {
+      "key": "char_343_tknogi",
+      "value": [
+        "char_343_tknogi"
+      ]
+    },
+    {
+      "key": "char_4019_ncdeer",
+      "value": [
+        "char_4019_ncdeer"
+      ]
+    },
+    {
+      "key": "char_492_quercu",
+      "value": [
+        "char_492_quercu"
+      ]
+    },
+    {
+      "key": "char_4102_threye",
+      "value": [
+        "char_4102_threye"
+      ]
+    },
+    {
+      "key": "char_215_mantic",
+      "value": [
+        "char_215_mantic"
+      ]
+    },
+    {
+      "key": "char_478_kirara",
+      "value": [
+        "char_478_kirara"
+      ]
+    },
+    {
+      "key": "char_241_panda",
+      "value": [
+        "char_241_panda"
+      ]
+    },
+    {
+      "key": "char_4036_forcer",
+      "value": [
+        "char_4036_forcer"
+      ]
+    },
+    {
+      "key": "char_451_robin",
+      "value": [
+        "char_451_robin"
+      ]
+    },
+    {
+      "key": "char_458_rfrost",
+      "value": [
+        "char_458_rfrost"
+      ]
+    },
+    {
+      "key": "char_369_bena",
+      "value": [
+        "char_369_bena"
+      ]
+    },
+    {
+      "key": "char_4016_kazema",
+      "value": [
+        "char_4016_kazema"
+      ]
+    },
+    {
+      "key": "char_103_angel",
+      "value": [
+        "char_103_angel"
+      ]
+    },
+    {
+      "key": "char_332_archet",
+      "value": [
+        "char_332_archet"
+      ]
+    },
+    {
+      "key": "char_456_ash",
+      "value": [
+        "char_456_ash"
+      ]
+    },
+    {
+      "key": "char_340_shwaz",
+      "value": [
+        "char_340_shwaz"
+      ]
+    },
+    {
+      "key": "char_4055_bgsnow",
+      "value": [
+        "char_4055_bgsnow"
+      ]
+    },
+    {
+      "key": "char_430_fartth",
+      "value": [
+        "char_430_fartth"
+      ]
+    },
+    {
+      "key": "char_113_cqbw",
+      "value": [
+        "char_113_cqbw"
+      ]
+    },
+    {
+      "key": "char_300_phenxi",
+      "value": [
+        "char_300_phenxi"
+      ]
+    },
+    {
+      "key": "char_197_poca",
+      "value": [
+        "char_197_poca"
+      ]
+    },
+    {
+      "key": "char_2012_typhon",
+      "value": [
+        "char_2012_typhon"
+      ]
+    },
+    {
+      "key": "char_391_rosmon",
+      "value": [
+        "char_391_rosmon"
+      ]
+    },
+    {
+      "key": "char_4117_ray",
+      "value": [
+        "char_4117_ray"
+      ]
+    },
+    {
+      "key": "char_112_siege",
+      "value": [
+        "char_112_siege"
+      ]
+    },
+    {
+      "key": "char_222_bpipe",
+      "value": [
+        "char_222_bpipe"
+      ]
+    },
+    {
+      "key": "char_362_saga",
+      "value": [
+        "char_362_saga"
+      ]
+    },
+    {
+      "key": "char_479_sleach",
+      "value": [
+        "char_479_sleach"
+      ]
+    },
+    {
+      "key": "char_420_flamtl",
+      "value": [
+        "char_420_flamtl"
+      ]
+    },
+    {
+      "key": "char_427_vigil",
+      "value": [
+        "char_427_vigil"
+      ]
+    },
+    {
+      "key": "char_249_mlyss",
+      "value": [
+        "char_249_mlyss"
+      ]
+    },
+    {
+      "key": "char_4087_ines",
+      "value": [
+        "char_4087_ines"
+      ]
+    },
+    {
+      "key": "char_134_ifrit",
+      "value": [
+        "char_134_ifrit"
+      ]
+    },
+    {
+      "key": "char_213_mostma",
+      "value": [
+        "char_213_mostma"
+      ]
+    },
+    {
+      "key": "char_180_amgoat",
+      "value": [
+        "char_180_amgoat",
+        "char_1016_agoat2"
+      ]
+    },
+    {
+      "key": "char_2013_cerber",
+      "value": [
+        "char_2013_cerber"
+      ]
+    },
+    {
+      "key": "char_4027_heyak",
+      "value": [
+        "char_4027_heyak"
+      ]
+    },
+    {
+      "key": "char_2015_dusk",
+      "value": [
+        "char_2015_dusk"
+      ]
+    },
+    {
+      "key": "char_472_pasngr",
+      "value": [
+        "char_472_pasngr"
+      ]
+    },
+    {
+      "key": "char_426_billro",
+      "value": [
+        "char_426_billro"
+      ]
+    },
+    {
+      "key": "char_4080_lin",
+      "value": [
+        "char_4080_lin"
+      ]
+    },
+    {
+      "key": "char_377_gdglow",
+      "value": [
+        "char_377_gdglow"
+      ]
+    },
+    {
+      "key": "char_4046_ebnhlz",
+      "value": [
+        "char_4046_ebnhlz"
+      ]
+    },
+    {
+      "key": "char_206_gnosis",
+      "value": [
+        "char_206_gnosis"
+      ]
+    },
+    {
+      "key": "char_291_aglina",
+      "value": [
+        "char_291_aglina"
+      ]
+    },
+    {
+      "key": "char_358_lisa",
+      "value": [
+        "char_358_lisa"
+      ]
+    },
+    {
+      "key": "char_248_mgllan",
+      "value": [
+        "char_248_mgllan"
+      ]
+    },
+    {
+      "key": "char_2023_ling",
+      "value": [
+        "char_2023_ling"
+      ]
+    },
+    {
+      "key": "char_4072_ironmn",
+      "value": [
+        "char_4072_ironmn"
+      ]
+    },
+    {
+      "key": "char_245_cello",
+      "value": [
+        "char_245_cello"
+      ]
+    },
+    {
+      "key": "char_250_phatom",
+      "value": [
+        "char_250_phatom"
+      ]
+    },
+    {
+      "key": "char_322_lmlee",
+      "value": [
+        "char_322_lmlee"
+      ]
+    },
+    {
+      "key": "char_400_weedy",
+      "value": [
+        "char_400_weedy"
+      ]
+    },
+    {
+      "key": "char_225_haak",
+      "value": [
+        "char_225_haak"
+      ]
+    },
+    {
+      "key": "char_474_glady",
+      "value": [
+        "char_474_glady"
+      ]
+    },
+    {
+      "key": "char_437_mizuki",
+      "value": [
+        "char_437_mizuki"
+      ]
+    },
+    {
+      "key": "char_4048_doroth",
+      "value": [
+        "char_4048_doroth"
+      ]
+    },
+    {
+      "key": "char_147_shining",
+      "value": [
+        "char_147_shining"
+      ]
+    },
+    {
+      "key": "char_179_cgbird",
+      "value": [
+        "char_179_cgbird"
+      ]
+    },
+    {
+      "key": "char_003_kalts",
+      "value": [
+        "char_003_kalts"
+      ]
+    },
+    {
+      "key": "char_4042_lumen",
+      "value": [
+        "char_4042_lumen"
+      ]
+    },
+    {
+      "key": "char_136_hsguma",
+      "value": [
+        "char_136_hsguma"
+      ]
+    },
+    {
+      "key": "char_202_demkni",
+      "value": [
+        "char_202_demkni"
+      ]
+    },
+    {
+      "key": "char_423_blemsh",
+      "value": [
+        "char_423_blemsh"
+      ]
+    },
+    {
+      "key": "char_2025_shu",
+      "value": [
+        "char_2025_shu"
+      ]
+    },
+    {
+      "key": "char_2014_nian",
+      "value": [
+        "char_2014_nian"
+      ]
+    },
+    {
+      "key": "char_311_mudrok",
+      "value": [
+        "char_311_mudrok"
+      ]
+    },
+    {
+      "key": "char_4065_judge",
+      "value": [
+        "char_4065_judge"
+      ]
+    },
+    {
+      "key": "char_416_zumama",
+      "value": [
+        "char_416_zumama"
+      ]
+    },
+    {
+      "key": "char_4039_horn",
+      "value": [
+        "char_4039_horn"
+      ]
+    },
+    {
+      "key": "char_264_f12yin",
+      "value": [
+        "char_264_f12yin"
+      ]
+    },
+    {
+      "key": "char_2024_chyue",
+      "value": [
+        "char_2024_chyue"
+      ]
+    },
+    {
+      "key": "char_172_svrash",
+      "value": [
+        "char_172_svrash"
+      ]
+    },
+    {
+      "key": "char_293_thorns",
+      "value": [
+        "char_293_thorns"
+      ]
+    },
+    {
+      "key": "char_4082_qiubai",
+      "value": [
+        "char_4082_qiubai"
+      ]
+    },
+    {
+      "key": "char_4088_hodrer",
+      "value": [
+        "char_4088_hodrer"
+      ]
+    },
+    {
+      "key": "char_010_chen",
+      "value": [
+        "char_010_chen",
+        "char_1013_chen2"
+      ]
+    },
+    {
+      "key": "char_4009_irene",
+      "value": [
+        "char_4009_irene"
+      ]
+    },
+    {
+      "key": "char_4116_blkkgt",
+      "value": [
+        "char_4116_blkkgt"
+      ]
+    },
+    {
+      "key": "char_017_huang",
+      "value": [
+        "char_017_huang"
+      ]
+    },
+    {
+      "key": "char_350_surtr",
+      "value": [
+        "char_350_surtr"
+      ]
+    },
+    {
+      "key": "char_4098_vvana",
+      "value": [
+        "char_4098_vvana"
+      ]
+    },
+    {
+      "key": "char_188_helage",
+      "value": [
+        "char_188_helage"
+      ]
+    },
+    {
+      "key": "char_4121_zuole",
+      "value": [
+        "char_4121_zuole"
+      ]
+    },
+    {
+      "key": "char_485_pallas",
+      "value": [
+        "char_485_pallas"
+      ]
+    },
+    {
+      "key": "char_4011_lessng",
+      "value": [
+        "char_4011_lessng"
+      ]
+    },
+    {
+      "key": "char_4064_mlynar",
+      "value": [
+        "char_4064_mlynar"
+      ]
+    },
+    {
+      "key": "char_230_savage",
+      "value": [
+        "char_230_savage"
+      ]
+    },
+    {
+      "key": "char_282_catap",
+      "value": [
+        "char_282_catap"
+      ]
+    },
+    {
+      "key": "char_283_midn",
+      "value": [
+        "char_283_midn"
+      ]
+    },
+    {
+      "key": "char_137_brownb",
+      "value": [
+        "char_137_brownb"
+      ]
+    },
+    {
+      "key": "char_347_jaksel",
+      "value": [
+        "char_347_jaksel"
+      ]
+    },
+    {
+      "key": "char_164_nightm",
+      "value": [
+        "char_164_nightm"
+      ]
+    },
+    {
+      "key": "char_220_grani",
+      "value": [
+        "char_220_grani"
+      ]
+    },
+    {
+      "key": "char_263_skadi",
+      "value": [
+        "char_263_skadi",
+        "char_1012_skadi2"
+      ]
+    }
+  ],
+  "spCharMissions": [
+    {
+      "key": "char_121_lava",
+      "value": [
+        {
+          "key": "mission_char_121_lava_0",
+          "value": {
+            "charId": "char_121_lava",
+            "missionId": "mission_char_121_lava_0",
+            "sortId": 0,
+            "condType": "EVOLVE_PHASE",
+            "param": [
+              "1",
+              "1"
+            ],
+            "rewards": [
+              {
+                "id": "2002",
+                "count": 25,
+                "type": "CARD_EXP"
+              },
+              {
+                "id": "4001",
+                "count": 10000,
+                "type": "GOLD"
+              }
+            ]
+          }
+        },
+        {
+          "key": "mission_char_121_lava_1",
+          "value": {
+            "charId": "char_121_lava",
+            "missionId": "mission_char_121_lava_1",
+            "sortId": 1,
+            "condType": "EVOLVE_PHASE",
+            "param": [
+              "1",
+              "55"
+            ],
+            "rewards": [
+              {
+                "id": "2002",
+                "count": 60,
+                "type": "CARD_EXP"
+              },
+              {
+                "id": "4001",
+                "count": 25000,
+                "type": "GOLD"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "key": "char_1011_lava2",
+      "value": [
+        {
+          "key": "mission_char_1011_lava2_0",
+          "value": {
+            "charId": "char_1011_lava2",
+            "missionId": "mission_char_1011_lava2_0",
+            "sortId": 0,
+            "condType": "EVOLVE_PHASE",
+            "param": [
+              "1",
+              "1"
+            ],
+            "rewards": [
+              {
+                "id": "3251",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "3301",
+                "count": 8,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "2003",
+                "count": 30,
+                "type": "CARD_EXP"
+              },
+              {
+                "id": "4001",
+                "count": 30000,
+                "type": "GOLD"
+              }
+            ]
+          }
+        },
+        {
+          "key": "mission_char_1011_lava2_1",
+          "value": {
+            "charId": "char_1011_lava2",
+            "missionId": "mission_char_1011_lava2_1",
+            "sortId": 1,
+            "condType": "EVOLVE_PHASE",
+            "param": [
+              "2",
+              "1"
+            ],
+            "rewards": [
+              {
+                "id": "3252",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "30074",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "30093",
+                "count": 4,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "3302",
+                "count": 8,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "2003",
+                "count": 80,
+                "type": "CARD_EXP"
+              },
+              {
+                "id": "4001",
+                "count": 80000,
+                "type": "GOLD"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "key": "char_263_skadi",
+      "value": [
+        {
+          "key": "mission_char_263_skadi_0",
+          "value": {
+            "charId": "char_263_skadi",
+            "missionId": "mission_char_263_skadi_0",
+            "sortId": 0,
+            "condType": "EVOLVE_PHASE",
+            "param": [
+              "1",
+              "1"
+            ],
+            "rewards": [
+              {
+                "id": "3271",
+                "count": 3,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "3301",
+                "count": 10,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "2003",
+                "count": 50,
+                "type": "CARD_EXP"
+              },
+              {
+                "id": "4001",
+                "count": 50000,
+                "type": "GOLD"
+              }
+            ]
+          }
+        },
+        {
+          "key": "mission_char_263_skadi_1",
+          "value": {
+            "charId": "char_263_skadi",
+            "missionId": "mission_char_263_skadi_1",
+            "sortId": 1,
+            "condType": "EVOLVE_PHASE",
+            "param": [
+              "1",
+              "80"
+            ],
+            "rewards": [
+              {
+                "id": "3272",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "30115",
+                "count": 1,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "30094",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "3302",
+                "count": 10,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "2003",
+                "count": 100,
+                "type": "CARD_EXP"
+              },
+              {
+                "id": "4001",
+                "count": 100000,
+                "type": "GOLD"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "key": "char_1012_skadi2",
+      "value": [
+        {
+          "key": "mission_char_1012_skadi2_0",
+          "value": {
+            "charId": "char_1012_skadi2",
+            "missionId": "mission_char_1012_skadi2_0",
+            "sortId": 0,
+            "condType": "EVOLVE_PHASE",
+            "param": [
+              "1",
+              "1"
+            ],
+            "rewards": [
+              {
+                "id": "3221",
+                "count": 3,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "3301",
+                "count": 10,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "2003",
+                "count": 50,
+                "type": "CARD_EXP"
+              },
+              {
+                "id": "4001",
+                "count": 50000,
+                "type": "GOLD"
+              }
+            ]
+          }
+        },
+        {
+          "key": "mission_char_1012_skadi2_1",
+          "value": {
+            "charId": "char_1012_skadi2",
+            "missionId": "mission_char_1012_skadi2_1",
+            "sortId": 1,
+            "condType": "EVOLVE_PHASE",
+            "param": [
+              "2",
+              "1"
+            ],
+            "rewards": [
+              {
+                "id": "3222",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "30135",
+                "count": 1,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "30014",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "3302",
+                "count": 10,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "2003",
+                "count": 100,
+                "type": "CARD_EXP"
+              },
+              {
+                "id": "4001",
+                "count": 100000,
+                "type": "GOLD"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "key": "char_010_chen",
+      "value": [
+        {
+          "key": "mission_char_010_chen_0",
+          "value": {
+            "charId": "char_010_chen",
+            "missionId": "mission_char_010_chen_0",
+            "sortId": 0,
+            "condType": "EVOLVE_PHASE",
+            "param": [
+              "1",
+              "1"
+            ],
+            "rewards": [
+              {
+                "id": "3241",
+                "count": 3,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "3301",
+                "count": 10,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "2003",
+                "count": 50,
+                "type": "CARD_EXP"
+              },
+              {
+                "id": "4001",
+                "count": 50000,
+                "type": "GOLD"
+              }
+            ]
+          }
+        },
+        {
+          "key": "mission_char_010_chen_1",
+          "value": {
+            "charId": "char_010_chen",
+            "missionId": "mission_char_010_chen_1",
+            "sortId": 1,
+            "condType": "EVOLVE_PHASE",
+            "param": [
+              "1",
+              "80"
+            ],
+            "rewards": [
+              {
+                "id": "3242",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "30125",
+                "count": 1,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "31024",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "3302",
+                "count": 10,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "2003",
+                "count": 100,
+                "type": "CARD_EXP"
+              },
+              {
+                "id": "4001",
+                "count": 100000,
+                "type": "GOLD"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "key": "char_1013_chen2",
+      "value": [
+        {
+          "key": "mission_char_1013_chen2_0",
+          "value": {
+            "charId": "char_1013_chen2",
+            "missionId": "mission_char_1013_chen2_0",
+            "sortId": 0,
+            "condType": "EVOLVE_PHASE",
+            "param": [
+              "1",
+              "1"
+            ],
+            "rewards": [
+              {
+                "id": "3221",
+                "count": 3,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "3301",
+                "count": 10,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "2003",
+                "count": 50,
+                "type": "CARD_EXP"
+              },
+              {
+                "id": "4001",
+                "count": 50000,
+                "type": "GOLD"
+              }
+            ]
+          }
+        },
+        {
+          "key": "mission_char_1013_chen2_1",
+          "value": {
+            "charId": "char_1013_chen2",
+            "missionId": "mission_char_1013_chen2_1",
+            "sortId": 1,
+            "condType": "EVOLVE_PHASE",
+            "param": [
+              "2",
+              "1"
+            ],
+            "rewards": [
+              {
+                "id": "3222",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "30115",
+                "count": 1,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "30074",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "3302",
+                "count": 10,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "2003",
+                "count": 100,
+                "type": "CARD_EXP"
+              },
+              {
+                "id": "4001",
+                "count": 100000,
+                "type": "GOLD"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "key": "char_148_nearl",
+      "value": [
+        {
+          "key": "mission_char_148_nearl_0",
+          "value": {
+            "charId": "char_148_nearl",
+            "missionId": "mission_char_148_nearl_0",
+            "sortId": 0,
+            "condType": "EVOLVE_PHASE",
+            "param": [
+              "1",
+              "1"
+            ],
+            "rewards": [
+              {
+                "id": "3221",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "3301",
+                "count": 8,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "2003",
+                "count": 30,
+                "type": "CARD_EXP"
+              },
+              {
+                "id": "4001",
+                "count": 30000,
+                "type": "GOLD"
+              }
+            ]
+          }
+        },
+        {
+          "key": "mission_char_148_nearl_1",
+          "value": {
+            "charId": "char_148_nearl",
+            "missionId": "mission_char_148_nearl_1",
+            "sortId": 1,
+            "condType": "EVOLVE_PHASE",
+            "param": [
+              "1",
+              "70"
+            ],
+            "rewards": [
+              {
+                "id": "3222",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "30074",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "30033",
+                "count": 4,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "3302",
+                "count": 8,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "2003",
+                "count": 80,
+                "type": "CARD_EXP"
+              },
+              {
+                "id": "4001",
+                "count": 80000,
+                "type": "GOLD"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "key": "char_1014_nearl2",
+      "value": [
+        {
+          "key": "mission_char_1014_nearl2_0",
+          "value": {
+            "charId": "char_1014_nearl2",
+            "missionId": "mission_char_1014_nearl2_0",
+            "sortId": 0,
+            "condType": "EVOLVE_PHASE",
+            "param": [
+              "1",
+              "1"
+            ],
+            "rewards": [
+              {
+                "id": "3231",
+                "count": 3,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "3301",
+                "count": 10,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "2003",
+                "count": 50,
+                "type": "CARD_EXP"
+              },
+              {
+                "id": "4001",
+                "count": 50000,
+                "type": "GOLD"
+              }
+            ]
+          }
+        },
+        {
+          "key": "mission_char_1014_nearl2_1",
+          "value": {
+            "charId": "char_1014_nearl2",
+            "missionId": "mission_char_1014_nearl2_1",
+            "sortId": 1,
+            "condType": "EVOLVE_PHASE",
+            "param": [
+              "2",
+              "1"
+            ],
+            "rewards": [
+              {
+                "id": "3232",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "30115",
+                "count": 1,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "31014",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "3302",
+                "count": 10,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "2003",
+                "count": 100,
+                "type": "CARD_EXP"
+              },
+              {
+                "id": "4001",
+                "count": 100000,
+                "type": "GOLD"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "key": "char_124_kroos",
+      "value": [
+        {
+          "key": "mission_char_124_kroos_0",
+          "value": {
+            "charId": "char_124_kroos",
+            "missionId": "mission_char_124_kroos_0",
+            "sortId": 0,
+            "condType": "EVOLVE_PHASE",
+            "param": [
+              "1",
+              "1"
+            ],
+            "rewards": [
+              {
+                "id": "2002",
+                "count": 25,
+                "type": "CARD_EXP"
+              },
+              {
+                "id": "4001",
+                "count": 10000,
+                "type": "GOLD"
+              }
+            ]
+          }
+        },
+        {
+          "key": "mission_char_124_kroos_1",
+          "value": {
+            "charId": "char_124_kroos",
+            "missionId": "mission_char_124_kroos_1",
+            "sortId": 1,
+            "condType": "EVOLVE_PHASE",
+            "param": [
+              "1",
+              "55"
+            ],
+            "rewards": [
+              {
+                "id": "2002",
+                "count": 60,
+                "type": "CARD_EXP"
+              },
+              {
+                "id": "4001",
+                "count": 25000,
+                "type": "GOLD"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "key": "char_1021_kroos2",
+      "value": [
+        {
+          "key": "mission_char_1021_kroos2_0",
+          "value": {
+            "charId": "char_1021_kroos2",
+            "missionId": "mission_char_1021_kroos2_0",
+            "sortId": 0,
+            "condType": "EVOLVE_PHASE",
+            "param": [
+              "1",
+              "1"
+            ],
+            "rewards": [
+              {
+                "id": "3241",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "3301",
+                "count": 8,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "2003",
+                "count": 30,
+                "type": "CARD_EXP"
+              },
+              {
+                "id": "4001",
+                "count": 30000,
+                "type": "GOLD"
+              }
+            ]
+          }
+        },
+        {
+          "key": "mission_char_1021_kroos2_1",
+          "value": {
+            "charId": "char_1021_kroos2",
+            "missionId": "mission_char_1021_kroos2_1",
+            "sortId": 1,
+            "condType": "EVOLVE_PHASE",
+            "param": [
+              "2",
+              "1"
+            ],
+            "rewards": [
+              {
+                "id": "3242",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "31034",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "30043",
+                "count": 4,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "3302",
+                "count": 8,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "2003",
+                "count": 80,
+                "type": "CARD_EXP"
+              },
+              {
+                "id": "4001",
+                "count": 80000,
+                "type": "GOLD"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "key": "char_143_ghost",
+      "value": [
+        {
+          "key": "mission_char_143_ghost_0",
+          "value": {
+            "charId": "char_143_ghost",
+            "missionId": "mission_char_143_ghost_0",
+            "sortId": 0,
+            "condType": "EVOLVE_PHASE",
+            "param": [
+              "1",
+              "1"
+            ],
+            "rewards": [
+              {
+                "id": "3281",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "3301",
+                "count": 8,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "2003",
+                "count": 30,
+                "type": "CARD_EXP"
+              },
+              {
+                "id": "4001",
+                "count": 30000,
+                "type": "GOLD"
+              }
+            ]
+          }
+        },
+        {
+          "key": "mission_char_143_ghost_1",
+          "value": {
+            "charId": "char_143_ghost",
+            "missionId": "mission_char_143_ghost_1",
+            "sortId": 1,
+            "condType": "EVOLVE_PHASE",
+            "param": [
+              "1",
+              "70"
+            ],
+            "rewards": [
+              {
+                "id": "3282",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "30074",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "30053",
+                "count": 4,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "3302",
+                "count": 8,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "2003",
+                "count": 80,
+                "type": "CARD_EXP"
+              },
+              {
+                "id": "4001",
+                "count": 80000,
+                "type": "GOLD"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "key": "char_1023_ghost2",
+      "value": [
+        {
+          "key": "mission_char_1023_ghost2_0",
+          "value": {
+            "charId": "char_1023_ghost2",
+            "missionId": "mission_char_1023_ghost2_0",
+            "sortId": 0,
+            "condType": "EVOLVE_PHASE",
+            "param": [
+              "1",
+              "1"
+            ],
+            "rewards": [
+              {
+                "id": "3221",
+                "count": 3,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "3301",
+                "count": 10,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "2003",
+                "count": 50,
+                "type": "CARD_EXP"
+              },
+              {
+                "id": "4001",
+                "count": 50000,
+                "type": "GOLD"
+              }
+            ]
+          }
+        },
+        {
+          "key": "mission_char_1023_ghost2_1",
+          "value": {
+            "charId": "char_1023_ghost2",
+            "missionId": "mission_char_1023_ghost2_1",
+            "sortId": 1,
+            "condType": "EVOLVE_PHASE",
+            "param": [
+              "2",
+              "1"
+            ],
+            "rewards": [
+              {
+                "id": "3222",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "30115",
+                "count": 1,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "30054",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "3302",
+                "count": 10,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "2003",
+                "count": 100,
+                "type": "CARD_EXP"
+              },
+              {
+                "id": "4001",
+                "count": 100000,
+                "type": "GOLD"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "key": "char_120_hibisc",
+      "value": [
+        {
+          "key": "mission_char_120_hibisc_0",
+          "value": {
+            "charId": "char_120_hibisc",
+            "missionId": "mission_char_120_hibisc_0",
+            "sortId": 0,
+            "condType": "EVOLVE_PHASE",
+            "param": [
+              "1",
+              "1"
+            ],
+            "rewards": [
+              {
+                "id": "2002",
+                "count": 25,
+                "type": "CARD_EXP"
+              },
+              {
+                "id": "4001",
+                "count": 10000,
+                "type": "GOLD"
+              }
+            ]
+          }
+        },
+        {
+          "key": "mission_char_120_hibisc_1",
+          "value": {
+            "charId": "char_120_hibisc",
+            "missionId": "mission_char_120_hibisc_1",
+            "sortId": 1,
+            "condType": "EVOLVE_PHASE",
+            "param": [
+              "1",
+              "55"
+            ],
+            "rewards": [
+              {
+                "id": "2002",
+                "count": 60,
+                "type": "CARD_EXP"
+              },
+              {
+                "id": "4001",
+                "count": 25000,
+                "type": "GOLD"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "key": "char_1024_hbisc2",
+      "value": [
+        {
+          "key": "mission_char_1024_hbisc2_0",
+          "value": {
+            "charId": "char_1024_hbisc2",
+            "missionId": "mission_char_1024_hbisc2_0",
+            "sortId": 0,
+            "condType": "EVOLVE_PHASE",
+            "param": [
+              "1",
+              "1"
+            ],
+            "rewards": [
+              {
+                "id": "3261",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "3301",
+                "count": 8,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "2003",
+                "count": 30,
+                "type": "CARD_EXP"
+              },
+              {
+                "id": "4001",
+                "count": 30000,
+                "type": "GOLD"
+              }
+            ]
+          }
+        },
+        {
+          "key": "mission_char_1024_hbisc2_1",
+          "value": {
+            "charId": "char_1024_hbisc2",
+            "missionId": "mission_char_1024_hbisc2_1",
+            "sortId": 1,
+            "condType": "EVOLVE_PHASE",
+            "param": [
+              "2",
+              "1"
+            ],
+            "rewards": [
+              {
+                "id": "3262",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "30074",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "30013",
+                "count": 4,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "3302",
+                "count": 8,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "2003",
+                "count": 80,
+                "type": "CARD_EXP"
+              },
+              {
+                "id": "4001",
+                "count": 80000,
+                "type": "GOLD"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "key": "char_253_greyy",
+      "value": [
+        {
+          "key": "mission_char_253_greyy_0",
+          "value": {
+            "charId": "char_253_greyy",
+            "missionId": "mission_char_253_greyy_0",
+            "sortId": 0,
+            "condType": "EVOLVE_PHASE",
+            "param": [
+              "1",
+              "1"
+            ],
+            "rewards": [
+              {
+                "id": "3241",
+                "count": 1,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "3301",
+                "count": 5,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "2003",
+                "count": 20,
+                "type": "CARD_EXP"
+              },
+              {
+                "id": "4001",
+                "count": 20000,
+                "type": "GOLD"
+              }
+            ]
+          }
+        },
+        {
+          "key": "mission_char_253_greyy_1",
+          "value": {
+            "charId": "char_253_greyy",
+            "missionId": "mission_char_253_greyy_1",
+            "sortId": 1,
+            "condType": "EVOLVE_PHASE",
+            "param": [
+              "1",
+              "60"
+            ],
+            "rewards": [
+              {
+                "id": "3242",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "30083",
+                "count": 5,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "30053",
+                "count": 5,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "3302",
+                "count": 5,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "2003",
+                "count": 40,
+                "type": "CARD_EXP"
+              },
+              {
+                "id": "4001",
+                "count": 40000,
+                "type": "GOLD"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "key": "char_1027_greyy2",
+      "value": [
+        {
+          "key": "mission_char_1027_greyy2_0",
+          "value": {
+            "charId": "char_1027_greyy2",
+            "missionId": "mission_char_1027_greyy2_0",
+            "sortId": 0,
+            "condType": "EVOLVE_PHASE",
+            "param": [
+              "1",
+              "1"
+            ],
+            "rewards": [
+              {
+                "id": "3251",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "3301",
+                "count": 8,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "2003",
+                "count": 30,
+                "type": "CARD_EXP"
+              },
+              {
+                "id": "4001",
+                "count": 30000,
+                "type": "GOLD"
+              }
+            ]
+          }
+        },
+        {
+          "key": "mission_char_1027_greyy2_1",
+          "value": {
+            "charId": "char_1027_greyy2",
+            "missionId": "mission_char_1027_greyy2_1",
+            "sortId": 1,
+            "condType": "EVOLVE_PHASE",
+            "param": [
+              "2",
+              "1"
+            ],
+            "rewards": [
+              {
+                "id": "3252",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "30094",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "31023",
+                "count": 4,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "3302",
+                "count": 8,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "2003",
+                "count": 80,
+                "type": "CARD_EXP"
+              },
+              {
+                "id": "4001",
+                "count": 80000,
+                "type": "GOLD"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "key": "char_187_ccheal",
+      "value": [
+        {
+          "key": "mission_char_187_ccheal_0",
+          "value": {
+            "charId": "char_187_ccheal",
+            "missionId": "mission_char_187_ccheal_0",
+            "sortId": 0,
+            "condType": "EVOLVE_PHASE",
+            "param": [
+              "1",
+              "1"
+            ],
+            "rewards": [
+              {
+                "id": "3221",
+                "count": 1,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "3301",
+                "count": 5,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "2003",
+                "count": 20,
+                "type": "CARD_EXP"
+              },
+              {
+                "id": "4001",
+                "count": 20000,
+                "type": "GOLD"
+              }
+            ]
+          }
+        },
+        {
+          "key": "mission_char_187_ccheal_1",
+          "value": {
+            "charId": "char_187_ccheal",
+            "missionId": "mission_char_187_ccheal_1",
+            "sortId": 1,
+            "condType": "EVOLVE_PHASE",
+            "param": [
+              "1",
+              "60"
+            ],
+            "rewards": [
+              {
+                "id": "3222",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "30063",
+                "count": 5,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "30043",
+                "count": 5,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "3302",
+                "count": 5,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "2003",
+                "count": 40,
+                "type": "CARD_EXP"
+              },
+              {
+                "id": "4001",
+                "count": 40000,
+                "type": "GOLD"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "key": "char_1026_gvial2",
+      "value": [
+        {
+          "key": "mission_char_1026_gvial2_0",
+          "value": {
+            "charId": "char_1026_gvial2",
+            "missionId": "mission_char_1026_gvial2_0",
+            "sortId": 0,
+            "condType": "EVOLVE_PHASE",
+            "param": [
+              "1",
+              "1"
+            ],
+            "rewards": [
+              {
+                "id": "3261",
+                "count": 3,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "3301",
+                "count": 10,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "2003",
+                "count": 50,
+                "type": "CARD_EXP"
+              },
+              {
+                "id": "4001",
+                "count": 50000,
+                "type": "GOLD"
+              }
+            ]
+          }
+        },
+        {
+          "key": "mission_char_1026_gvial2_1",
+          "value": {
+            "charId": "char_1026_gvial2",
+            "missionId": "mission_char_1026_gvial2_1",
+            "sortId": 1,
+            "condType": "EVOLVE_PHASE",
+            "param": [
+              "2",
+              "1"
+            ],
+            "rewards": [
+              {
+                "id": "3262",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "30125",
+                "count": 1,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "31014",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "3302",
+                "count": 10,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "2003",
+                "count": 100,
+                "type": "CARD_EXP"
+              },
+              {
+                "id": "4001",
+                "count": 100000,
+                "type": "GOLD"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "key": "char_102_texas",
+      "value": [
+        {
+          "key": "mission_char_102_texas_0",
+          "value": {
+            "charId": "char_102_texas",
+            "missionId": "mission_char_102_texas_0",
+            "sortId": 0,
+            "condType": "EVOLVE_PHASE",
+            "param": [
+              "1",
+              "1"
+            ],
+            "rewards": [
+              {
+                "id": "3281",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "3301",
+                "count": 8,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "2003",
+                "count": 30,
+                "type": "CARD_EXP"
+              },
+              {
+                "id": "4001",
+                "count": 30000,
+                "type": "GOLD"
+              }
+            ]
+          }
+        },
+        {
+          "key": "mission_char_102_texas_1",
+          "value": {
+            "charId": "char_102_texas",
+            "missionId": "mission_char_102_texas_1",
+            "sortId": 1,
+            "condType": "EVOLVE_PHASE",
+            "param": [
+              "1",
+              "70"
+            ],
+            "rewards": [
+              {
+                "id": "3282",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "30034",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "30013",
+                "count": 4,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "3302",
+                "count": 8,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "2003",
+                "count": 80,
+                "type": "CARD_EXP"
+              },
+              {
+                "id": "4001",
+                "count": 80000,
+                "type": "GOLD"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "key": "char_1028_texas2",
+      "value": [
+        {
+          "key": "mission_char_1028_texas2_0",
+          "value": {
+            "charId": "char_1028_texas2",
+            "missionId": "mission_char_1028_texas2_0",
+            "sortId": 0,
+            "condType": "EVOLVE_PHASE",
+            "param": [
+              "1",
+              "1"
+            ],
+            "rewards": [
+              {
+                "id": "3211",
+                "count": 3,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "3301",
+                "count": 10,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "2003",
+                "count": 50,
+                "type": "CARD_EXP"
+              },
+              {
+                "id": "4001",
+                "count": 50000,
+                "type": "GOLD"
+              }
+            ]
+          }
+        },
+        {
+          "key": "mission_char_1028_texas2_1",
+          "value": {
+            "charId": "char_1028_texas2",
+            "missionId": "mission_char_1028_texas2_1",
+            "sortId": 1,
+            "condType": "EVOLVE_PHASE",
+            "param": [
+              "2",
+              "1"
+            ],
+            "rewards": [
+              {
+                "id": "3212",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "30125",
+                "count": 1,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "30044",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "3302",
+                "count": 10,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "2003",
+                "count": 100,
+                "type": "CARD_EXP"
+              },
+              {
+                "id": "4001",
+                "count": 100000,
+                "type": "GOLD"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "spCharVoucherSkinTime": [
+    {
+      "key": "char_1011_lava2",
+      "value": 1612512000
+    },
+    {
+      "key": "char_1012_skadi2",
+      "value": 1619856000
+    },
+    {
+      "key": "char_1013_chen2",
+      "value": 1627963200
+    },
+    {
+      "key": "char_1014_nearl2",
+      "value": 1635739200
+    },
+    {
+      "key": "char_1021_kroos2",
+      "value": 1643083200
+    },
+    {
+      "key": "char_1023_ghost2",
+      "value": 1651388400
+    },
+    {
+      "key": "char_1024_hbisc2",
+      "value": 1654747200
+    },
+    {
+      "key": "char_1027_greyy2",
+      "value": 1656993600
+    },
+    {
+      "key": "char_1026_gvial2",
+      "value": 1660190400
+    },
+    {
+      "key": "char_1028_texas2",
+      "value": 1667275200
+    }
+  ]
+}

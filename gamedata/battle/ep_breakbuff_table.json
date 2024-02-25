@@ -1,0 +1,40 @@
+{
+  "ep_breakbuffs": [
+    {
+      "key": "SANITY",
+      "value": {
+        "elementBreakDuration": 10,
+        "elementBuffs": [
+          "ep_break_sanity"
+        ]
+      }
+    },
+    {
+      "key": "WATER",
+      "value": {
+        "elementBreakDuration": 10,
+        "elementBuffs": [
+          "ep_break_water"
+        ]
+      }
+    },
+    {
+      "key": "FIRE",
+      "value": {
+        "elementBreakDuration": 10,
+        "elementBuffs": [
+          "ep_break_fire"
+        ]
+      }
+    },
+    {
+      "key": "DARK",
+      "value": {
+        "elementBreakDuration": 15,
+        "elementBuffs": [
+          "ep_break_dark"
+        ]
+      }
+    }
+  ]
+}
