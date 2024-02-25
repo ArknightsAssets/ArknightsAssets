@@ -1,0 +1,178 @@
+// This file is auto-generated, see https://github.com/MooncellWiki/OpenArknightsFBS for details.
+enum enum__Torappu_CharWordVoiceType : int {
+    ONLY_TEXT = 0,
+    HAVE_CV = 1,
+    ENUM = 2,
+}
+
+enum enum__Torappu_DataUnlockType : int {
+    DIRECT = 0,
+    AWAKE = 1,
+    FAVOR = 2,
+    STAGE = 3,
+    ITEM = 4,
+    NEVER = 5,
+    PATCH = 6,
+    NONE = 7,
+}
+
+table clz_Torappu_CharWordUnlockParam {
+    valueStr: string; 
+    valueInt: int; 
+}
+
+enum enum__Torappu_CharWordShowType : int {
+    HOME_SHOW = 0,
+    HOME_PLACE = 1,
+    HOME_WAIT = 2,
+    GACHA = 3,
+    EVOLVE_ONE = 4,
+    EVOLVE_TWO = 5,
+    FOUR_STAR = 6,
+    THREE_STAR = 7,
+    TWO_STAR = 8,
+    LOSE = 9,
+    LEVEL_UP = 10,
+    SQUAD = 11,
+    SQUAD_FIRST = 12,
+    BATTLE_START = 13,
+    BATTLE_FACE_ENEMY = 14,
+    BATTLE_SELECT = 15,
+    BATTLE_PLACE = 16,
+    BATTLE_SKILL_1 = 17,
+    BATTLE_SKILL_2 = 18,
+    BATTLE_SKILL_3 = 19,
+    BATTLE_SKILL_4 = 20,
+    BUILDING_PLACE = 21,
+    BUILDING_DRAGGING = 22,
+    BUILDING_FAVOR_BUBBLE = 23,
+    BUILDING_TOUCHING = 24,
+    LOADING_PANEL = 25,
+    BIRTHDAY = 26,
+    NEW_YEAR = 27,
+    VALENT_DAY = 28,
+    DRAGON_BOAT_FESTIVAL = 29,
+    HALLOWEEN_DAY = 30,
+    CHRISMATS_DAY = 31,
+    GREETING = 32,
+    UNUSED = 33,
+    E_ALL = 34,
+}
+
+table clz_Torappu_CharWordData {
+    charWordId: string; 
+    wordKey: string; 
+    charId: string; 
+    voiceId: string; 
+    voiceText: string; 
+    voiceTitle: string; 
+    voiceIndex: int; 
+    voiceType: enum__Torappu_CharWordVoiceType; 
+    unlockType: enum__Torappu_DataUnlockType; 
+    unlockParam: [clz_Torappu_CharWordUnlockParam]; 
+    lockDescription: string; 
+    placeType: enum__Torappu_CharWordShowType; 
+    voiceAsset: string; 
+}
+
+table dict__string__clz_Torappu_CharWordData {
+    key: string(key);
+    value: clz_Torappu_CharWordData;
+}
+
+enum enum__Torappu_VoiceLangType : int {
+    NONE = 0,
+    JP = 1,
+    CN_MANDARIN = 2,
+    EN = 3,
+    KR = 4,
+    CN_TOPOLECT = 5,
+    LINKAGE = 6,
+    ITA = 7,
+    GER = 8,
+    RUS = 9,
+}
+
+table clz_Torappu_VoiceLangInfoData {
+    wordkey: string; 
+    voiceLangType: enum__Torappu_VoiceLangType; 
+    cvName: [string]; 
+    voicePath: string; 
+}
+
+table dict__enum__Torappu_VoiceLangType__clz_Torappu_VoiceLangInfoData {
+    key: enum__Torappu_VoiceLangType(key);
+    value: clz_Torappu_VoiceLangInfoData;
+}
+
+table clz_Torappu_VoiceLangData {
+    wordkeys: [string]; 
+    charId: string; 
+    dict: [dict__enum__Torappu_VoiceLangType__clz_Torappu_VoiceLangInfoData]; // __prts__check_required__voiceLangInfoDataDict__
+}
+
+table dict__string__clz_Torappu_VoiceLangData {
+    key: string(key);
+    value: clz_Torappu_VoiceLangData;
+}
+
+enum enum__Torappu_VoiceLangGroupType : int {
+    NONE = 0,
+    CN_MANDARIN = 1,
+    JP = 2,
+    EN = 3,
+    KR = 4,
+    CUSTOM = 5,
+    LINKAGE = 6,
+}
+
+table clz_Torappu_VoiceLangTypeData {
+    name: string; 
+    groupType: enum__Torappu_VoiceLangGroupType; 
+}
+
+table dict__enum__Torappu_VoiceLangType__clz_Torappu_VoiceLangTypeData {
+    key: enum__Torappu_VoiceLangType(key);
+    value: clz_Torappu_VoiceLangTypeData;
+}
+
+table clz_Torappu_VoiceLangGroupData {
+    name: string; 
+    members: [enum__Torappu_VoiceLangType]; 
+}
+
+table dict__enum__Torappu_VoiceLangGroupType__clz_Torappu_VoiceLangGroupData {
+    key: enum__Torappu_VoiceLangGroupType(key);
+    value: clz_Torappu_VoiceLangGroupData;
+}
+
+table dict__string__enum__Torappu_VoiceLangType {
+    key: string(key);
+    value: enum__Torappu_VoiceLangType;
+}
+
+table clz_Torappu_NewVoiceTimeData {
+    timestamp: long; 
+    charSet: [string]; 
+}
+
+table dict__enum__Torappu_VoiceLangType__list_clz_Torappu_NewVoiceTimeData {
+    key: enum__Torappu_VoiceLangType(key);
+    value: [clz_Torappu_NewVoiceTimeData];
+}
+
+table clz_Torappu_CharWordTable {
+    charWords: [dict__string__clz_Torappu_CharWordData]; 
+    voiceLangDict: [dict__string__clz_Torappu_VoiceLangData]; 
+    defaultLangType: enum__Torappu_VoiceLangType; 
+    newTagList: [string]; 
+    voiceLangTypeDict: [dict__enum__Torappu_VoiceLangType__clz_Torappu_VoiceLangTypeData]; 
+    voiceLangGroupTypeDict: [dict__enum__Torappu_VoiceLangGroupType__clz_Torappu_VoiceLangGroupData]; 
+    charDefaultTypeDict: [dict__string__enum__Torappu_VoiceLangType]; 
+    startTimeWithTypeDict: [dict__enum__Torappu_VoiceLangType__list_clz_Torappu_NewVoiceTimeData]; 
+    displayGroupTypeList: [enum__Torappu_VoiceLangGroupType]; 
+    displayTypeList: [enum__Torappu_VoiceLangType]; 
+    playVoiceRange: enum__Torappu_CharWordShowType; 
+}
+
+root_type clz_Torappu_CharWordTable;

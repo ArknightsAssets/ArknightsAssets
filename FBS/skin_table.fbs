@@ -1,0 +1,124 @@
+// This file is auto-generated, see https://github.com/MooncellWiki/OpenArknightsFBS for details.
+table clz_Torappu_CharSkinData_TokenSkinInfo {
+    tokenId: string; 
+    tokenSkinId: string; 
+}
+
+table clz_Torappu_CharSkinData_BattleSkin {
+    overwritePrefab: bool; 
+    skinOrPrefabId: string; 
+}
+
+enum enum__Torappu_SkinVoiceType : int {
+    NONE = 0,
+    ILLUST = 1,
+    ALL = 2,
+}
+
+table clz_Torappu_CharSkinData_DisplaySkin {
+    skinName: string; 
+    colorList: [string]; 
+    titleList: [string]; 
+    modelName: string; 
+    drawerList: [string]; 
+    designerList: [string]; 
+    skinGroupId: string; 
+    skinGroupName: string; 
+    skinGroupSortIndex: int; 
+    content: string; 
+    dialog: string; 
+    usage: string; 
+    description: string; 
+    obtainApproach: string; 
+    sortId: int; 
+    displayTagId: string; 
+    getTime: long; 
+    onYear: int; 
+    onPeriod: int; 
+}
+
+table clz_Torappu_CharSkinData {
+    skinId: string; 
+    charId: string; 
+    tokenSkinMap: [clz_Torappu_CharSkinData_TokenSkinInfo]; 
+    illustId: string; // __prts__check_required__m_illustId__
+    dynIllustId: string; // __prts__check_required__m_dynIllustId__
+    avatarId: string; // __prts__check_required__m_avatarId__
+    portraitId: string; // __prts__check_required__m_portraitId__
+    dynPortraitId: string; // __prts__check_required__m_dynPortraitId__
+    dynEntranceId: string; // __prts__check_required__m_dynEntranceId__
+    buildingId: string; // __prts__check_required__m_buildingId__
+    battleSkin: clz_Torappu_CharSkinData_BattleSkin; // __prts__check_required__m_battleSkin__
+    isBuySkin: bool; // __prts__check_required__m_isBuyAble__
+    tmplId: string; 
+    voiceId: string; 
+    voiceType: enum__Torappu_SkinVoiceType; 
+    displaySkin: clz_Torappu_CharSkinData_DisplaySkin; 
+}
+
+table dict__string__clz_Torappu_CharSkinData {
+    key: string(key);
+    value: clz_Torappu_CharSkinData;
+}
+
+table dict__int__string {
+    key: int(key);
+    value: string;
+}
+
+table dict__string__list_dict__int__string {
+    key: string(key);
+    value: [dict__int__string];
+}
+
+table dict__string__string {
+    key: string(key);
+    value: string;
+}
+
+table dict__string__list_dict__string__string {
+    key: string(key);
+    value: [dict__string__string];
+}
+
+table clz_Torappu_CharSkinGroupInfo {
+    skinGroupId: string; 
+    publishTime: long; 
+}
+
+table clz_Torappu_CharSkinKvImgInfo {
+    kvImgId: string; 
+    linkedSkinGroupId: string; 
+}
+
+table clz_Torappu_CharSkinBrandInfo {
+    brandId: string; 
+    groupList: [clz_Torappu_CharSkinGroupInfo]; 
+    kvImgIdList: [clz_Torappu_CharSkinKvImgInfo]; 
+    brandName: string; 
+    brandCapitalName: string; 
+    description: string; 
+    publishTime: long; 
+    sortId: int; 
+}
+
+table dict__string__clz_Torappu_CharSkinBrandInfo {
+    key: string(key);
+    value: clz_Torappu_CharSkinBrandInfo;
+}
+
+table clz_Torappu_SpecialSkinInfo {
+    skinId: string; 
+    startTime: long; 
+    endTime: long; 
+}
+
+table clz_Torappu_SkinTable {
+    charSkins: [dict__string__clz_Torappu_CharSkinData]; 
+    buildinEvolveMap: [dict__string__list_dict__int__string]; 
+    buildinPatchMap: [dict__string__list_dict__string__string]; 
+    brandList: [dict__string__clz_Torappu_CharSkinBrandInfo]; 
+    specialSkinInfoList: [clz_Torappu_SpecialSkinInfo]; 
+}
+
+root_type clz_Torappu_SkinTable;

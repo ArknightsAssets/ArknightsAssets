@@ -51,28 +51,28 @@ try_bson() {
 for file in $(find "${gamedata}" -type f); do
     target="${file##${gamedata}/}"
     mkdir -p $(dirname "${savedir}/${target}")
+    echo $target
 
     if [[ $file == *.txt ]]; then
         cat "${file}" > "${savedir}/${target}"
     elif [[ $file == *.json ]]; then
-        jq . "${file}" > "${savedir}/${target}"
+        jq '.' --indent 4 "${file}" > "${savedir}/${target}"
     elif [[ $file == *.lua ]]; then
         decrypt_aes "$file" > "${savedir}/${target}"
     elif [[ $file == */levels/obt/*.bytes || $file == */levels/activities/*.bytes ]]; then
         echo $file
-        xxd -p -c 256 "$file" | ./bsondump --quiet --bsonFile="$file" > "${savedir}/${target%.bytes}.json"
+        xxd -p -c 256 "$file" | ./bsondump --pretty --quiet --outFile="${savedir}/${target%.bytes}.json"
         if [ $? -ne 0 ]; then
-            decode_fbs "${file}" "${fbsdir}/prts___levels.fbs" | jq '.' > "${savedir}/${target%.bytes}.json"
+            decode_fbs "${file}" "${fbsdir}/prts___levels.fbs" | jq '.' --indent 4 > "${savedir}/${target%.bytes}.json"
         fi
     elif [[ $file =~ gamedata/(.+_(table|data|const|database))([0-9a-fA-F]{6})? ]]; then
-        echo $file
         name="${BASH_REMATCH[1]}"
         if [[ ${BASH_REMATCH[3]} ]]; then
-            decode_fbs "${file}" "${fbsdir}/$(basename $name).fbs" | jq '.' > "${savedir}/${name}.json"
+            decode_fbs "${file}" "${fbsdir}/$(basename $name).fbs" | jq '.' --indent 4 > "${savedir}/${name}.json"
         elif [[ $name == "battle/buff_template_data" ]]; then
-            ./bsondump --quiet --bsonFile="${file}" | jq '.' > "${savedir}/${name}.json"
+            ./bsondump --pretty --quiet --bsonFile="${file}" --outFile="${savedir}/${name}.json"
         else
-            decrypt_aes "${file}" "$([[ $name == enemy_database ]] && false)" | try_bson | jq '.' > "${savedir}/${name}.json"
+            decrypt_aes "${file}" "$([[ $name == enemy_database ]] && false)" | try_bson | jq '.' --indent 4 > "${savedir}/${name}.json"
         fi
     fi || >&2 echo "error parsing $file"
 done
