@@ -146,6 +146,10 @@
                         "occPer": "ALWAYS"
                     },
                     {
+                        "stageId": "camp_r_19",
+                        "occPer": "ALWAYS"
+                    },
+                    {
                         "stageId": "camp_r_18",
                         "occPer": "ALWAYS"
                     },
@@ -182,11 +186,11 @@
                         "occPer": "ALWAYS"
                     },
                     {
-                        "stageId": "camp_r_19",
+                        "stageId": "camp_r_09",
                         "occPer": "ALWAYS"
                     },
                     {
-                        "stageId": "camp_r_09",
+                        "stageId": "camp_r_08",
                         "occPer": "ALWAYS"
                     },
                     {
@@ -226,11 +230,11 @@
                         "occPer": "ALWAYS"
                     },
                     {
-                        "stageId": "camp_r_08",
+                        "stageId": "camp_r_20",
                         "occPer": "ALWAYS"
                     },
                     {
-                        "stageId": "camp_r_20",
+                        "stageId": "camp_r_21",
                         "occPer": "ALWAYS"
                     }
                 ],
@@ -30877,6 +30881,10 @@
             "value": 1
         },
         {
+            "key": "furni_annihilation_s21_01",
+            "value": 1
+        },
+        {
             "key": "furni_team001_blackSteel_target_01",
             "value": 1
         },
@@ -30937,6 +30945,14 @@
             "value": 1
         },
         {
+            "key": "furni_animation_monitor_01",
+            "value": 1
+        },
+        {
+            "key": "furni_animation_frostnovaDevice_01",
+            "value": 1
+        },
+        {
             "key": "char_002_amiya@winter#1",
             "value": 1
         },
@@ -30982,6 +30998,10 @@
         },
         {
             "key": "char_121_lava@sale#9",
+            "value": 1
+        },
+        {
+            "key": "char_010_chen@sale#10",
             "value": 1
         },
         {
