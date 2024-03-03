@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # download and extract arknights assets
-# $1 = server
+# $1 = server, $2 = force
 
 script_dir=$(dirname "${BASH_SOURCE[0]}")
 
@@ -15,7 +15,7 @@ if [[ $server == audio ]]; then
 fi
 
 echo "Installing latest assets"
-source "${script_dir}/download_bundles.sh" "./bundles" $server $mode
+source "${script_dir}/download_bundles.sh" "./bundles" $server $mode $2
 
 echo "Installing latest asset studio"
 source "${script_dir}/download_studio.sh" "./ArknightsStudioCLI"

@@ -1,10 +1,11 @@
 #!/bin/bash
 
 # download arknights asset bundles, requires jq
-# $1 = savedir, $2 = server, $3 = mode (sprite/audio)
+# $1 = savedir, $2 = server, $3 = mode (sprite/audio), $4 = force
 
 savedir="${1:-"./bundles"}"
 mode="${3:-"all"}"
+force="${4:-""}"
 
 # base_url = hu of network config
 case $2 in
@@ -42,7 +43,7 @@ download_file() {
     echo "${path}"
 }
 
-if [[ $(cat "${savedir}/hot_update_list.json" | jq -r ".versionId") == $res_version ]]; then
+if [[ $(cat "${savedir}/hot_update_list.json" | jq -r ".versionId") == $res_version && $force != "--force" ]]; then
     >&2 echo "Up to date!"
     exit 2
 fi;

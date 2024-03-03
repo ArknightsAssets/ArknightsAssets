@@ -20,10 +20,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
       - name: Set env
-        run: echo "SERVER=${GITHUB_REF##*/}" >> $GITHUB_ENV
+        run: |
+            echo "SERVER=${GITHUB_REF##*/}" >> $GITHUB_ENV
+            if [[ $GITHUB_EVENT_NAME == 'workflow_dispatch' ]]; then echo "FORCE=--force" >> $GITHUB_ENV; fi
 
       - name: Update files
-        run: sudo bash scripts/download.sh $SERVER
+        run: sudo bash scripts/download.sh ${{ env.SERVER }} ${{ env.FORCE }}
       - name: Set env
         run: echo "VERSION_ID=$(jq .versionId "bundles/hot_update_list.json")" >> $GITHUB_ENV
 
