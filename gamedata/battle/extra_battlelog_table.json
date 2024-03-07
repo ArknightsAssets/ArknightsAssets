@@ -650,6 +650,22 @@
                     {
                         "sourceId": "char_328_cammou",
                         "enemyId": "enemy_1266_nhapos"
+                    },
+                    {
+                        "sourceId": "char_1034_jesca2",
+                        "enemyId": "enemy_1500_skulsr"
+                    },
+                    {
+                        "sourceId": "char_457_blitz",
+                        "enemyId": "enemy_1034_laxe"
+                    },
+                    {
+                        "sourceId": "char_456_ash",
+                        "enemyId": "enemy_1152_dsurch"
+                    },
+                    {
+                        "sourceId": "char_4123_ela",
+                        "enemyId": "enemy_1072_dlancer"
                     }
                 ]
             }

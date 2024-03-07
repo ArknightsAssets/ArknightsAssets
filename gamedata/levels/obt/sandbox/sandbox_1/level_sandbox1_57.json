@@ -8485,6 +8485,14 @@
                         "m_defined": false,
                         "m_value": 0
                     },
+                    "damageHitratePhysical": {
+                        "m_defined": false,
+                        "m_value": 0
+                    },
+                    "damageHitrateMagical": {
+                        "m_defined": false,
+                        "m_value": 0
+                    },
                     "stunImmune": {
                         "m_defined": false,
                         "m_value": false
@@ -8631,6 +8639,14 @@
                         "m_value": 0
                     },
                     "epResistance": {
+                        "m_defined": false,
+                        "m_value": 0
+                    },
+                    "damageHitratePhysical": {
+                        "m_defined": false,
+                        "m_value": 0
+                    },
+                    "damageHitrateMagical": {
                         "m_defined": false,
                         "m_value": 0
                     },
@@ -8812,6 +8828,14 @@
                         "m_defined": false,
                         "m_value": 0
                     },
+                    "damageHitratePhysical": {
+                        "m_defined": false,
+                        "m_value": 0
+                    },
+                    "damageHitrateMagical": {
+                        "m_defined": false,
+                        "m_value": 0
+                    },
                     "stunImmune": {
                         "m_defined": false,
                         "m_value": false
@@ -8963,6 +8987,14 @@
                         "m_value": 0
                     },
                     "epResistance": {
+                        "m_defined": false,
+                        "m_value": 0
+                    },
+                    "damageHitratePhysical": {
+                        "m_defined": false,
+                        "m_value": 0
+                    },
+                    "damageHitrateMagical": {
                         "m_defined": false,
                         "m_value": 0
                     },
@@ -9186,7 +9218,7 @@
                             "isUnharmfulAndAlwaysCountAsKilled": true,
                             "randomSpawnGroupKey": "g1",
                             "randomSpawnGroupPackKey": "a",
-                            "randomType": "ALWAYS",
+                            "randomType": "PER_SETTLE_DAY",
                             "refreshType": "ALWAYS",
                             "weight": 50,
                             "dontBlockWave": true,
@@ -9205,7 +9237,7 @@
                             "autoDisplayEnemyInfo": false,
                             "isUnharmfulAndAlwaysCountAsKilled": true,
                             "randomSpawnGroupPackKey": "a",
-                            "randomType": "ALWAYS",
+                            "randomType": "PER_SETTLE_DAY",
                             "refreshType": "ALWAYS",
                             "weight": 0,
                             "dontBlockWave": true,
@@ -9224,7 +9256,7 @@
                             "autoDisplayEnemyInfo": false,
                             "isUnharmfulAndAlwaysCountAsKilled": true,
                             "randomSpawnGroupPackKey": "a",
-                            "randomType": "ALWAYS",
+                            "randomType": "PER_SETTLE_DAY",
                             "refreshType": "ALWAYS",
                             "weight": 0,
                             "dontBlockWave": true,
@@ -9282,7 +9314,7 @@
                             "isUnharmfulAndAlwaysCountAsKilled": true,
                             "randomSpawnGroupKey": "g1",
                             "randomSpawnGroupPackKey": "b",
-                            "randomType": "ALWAYS",
+                            "randomType": "PER_SETTLE_DAY",
                             "refreshType": "ALWAYS",
                             "weight": 50,
                             "dontBlockWave": true,
@@ -9301,7 +9333,7 @@
                             "autoDisplayEnemyInfo": false,
                             "isUnharmfulAndAlwaysCountAsKilled": true,
                             "randomSpawnGroupPackKey": "b",
-                            "randomType": "ALWAYS",
+                            "randomType": "PER_SETTLE_DAY",
                             "refreshType": "ALWAYS",
                             "weight": 0,
                             "dontBlockWave": true,
@@ -9320,7 +9352,7 @@
                             "autoDisplayEnemyInfo": false,
                             "isUnharmfulAndAlwaysCountAsKilled": true,
                             "randomSpawnGroupPackKey": "b",
-                            "randomType": "ALWAYS",
+                            "randomType": "PER_SETTLE_DAY",
                             "refreshType": "ALWAYS",
                             "weight": 0,
                             "dontBlockWave": true,
