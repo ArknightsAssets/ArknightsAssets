@@ -624,6 +624,26 @@
             }
         },
         {
+            "key": "act1r6sre_zone1",
+            "value": {
+                "zoneID": "act1r6sre_zone1",
+                "zoneIndex": 0,
+                "type": "ACTIVITY",
+                "zoneNameSecond": "行动记录",
+                "canPreview": false
+            }
+        },
+        {
+            "key": "act1r6sre_zone2",
+            "value": {
+                "zoneID": "act1r6sre_zone2",
+                "zoneIndex": 1,
+                "type": "ACTIVITY",
+                "zoneNameSecond": "备战训练",
+                "canPreview": false
+            }
+        },
+        {
             "key": "act4bossrush_zone1",
             "value": {
                 "zoneID": "act4bossrush_zone1",
@@ -2929,6 +2949,20 @@
             "value": {
                 "startTs": 1710403200,
                 "endTs": 1710964799
+            }
+        },
+        {
+            "key": "act1r6sre_zone1",
+            "value": {
+                "startTs": 1711008000,
+                "endTs": 1711828799
+            }
+        },
+        {
+            "key": "act1r6sre_zone2",
+            "value": {
+                "startTs": 1711008000,
+                "endTs": 1711828799
             }
         },
         {
