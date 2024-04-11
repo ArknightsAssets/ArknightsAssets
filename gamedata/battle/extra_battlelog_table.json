@@ -666,6 +666,14 @@
                     {
                         "sourceId": "char_4123_ela",
                         "enemyId": "enemy_1072_dlancer"
+                    },
+                    {
+                        "sourceId": "char_427_vigil",
+                        "enemyId": "enemy_1500_skulsr"
+                    },
+                    {
+                        "sourceId": "token_10028_vigil_wolf",
+                        "enemyId": "enemy_1500_skulsr"
                     }
                 ]
             }

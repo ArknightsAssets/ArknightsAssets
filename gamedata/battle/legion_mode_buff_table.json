@@ -85,6 +85,54 @@
                                 }
                             }
                         ]
+                    },
+                    {
+                        "blackboard": [
+                            {
+                                "key": "tomb_buff[tank_0].def_raw_multi",
+                                "value": {
+                                    "$numberDouble": "2.4"
+                                }
+                            },
+                            {
+                                "key": "tomb_buff[tank_0].block_cnt",
+                                "value": {
+                                    "$numberLong": "6"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "blackboard": [
+                            {
+                                "key": "tomb_buff[tank_0].def_raw_multi",
+                                "value": {
+                                    "$numberDouble": "2.8"
+                                }
+                            },
+                            {
+                                "key": "tomb_buff[tank_0].block_cnt",
+                                "value": {
+                                    "$numberLong": "7"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "blackboard": [
+                            {
+                                "key": "tomb_buff[tank_0].def_raw_multi",
+                                "value": {
+                                    "$numberDouble": "3.2"
+                                }
+                            },
+                            {
+                                "key": "tomb_buff[tank_0].block_cnt",
+                                "value": {
+                                    "$numberLong": "8"
+                                }
+                            }
+                        ]
                     }
                 ]
             },
@@ -172,6 +220,54 @@
                                 }
                             }
                         ]
+                    },
+                    {
+                        "blackboard": [
+                            {
+                                "key": "tomb_buff[tank_1].max_hp_raw_multi",
+                                "value": {
+                                    "$numberDouble": "1.5"
+                                }
+                            },
+                            {
+                                "key": "tomb_buff[tank_1].def_raw_multi",
+                                "value": {
+                                    "$numberDouble": "1.5"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "blackboard": [
+                            {
+                                "key": "tomb_buff[tank_1].max_hp_raw_multi",
+                                "value": {
+                                    "$numberDouble": "1.75"
+                                }
+                            },
+                            {
+                                "key": "tomb_buff[tank_1].def_raw_multi",
+                                "value": {
+                                    "$numberDouble": "1.75"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "blackboard": [
+                            {
+                                "key": "tomb_buff[tank_1].max_hp_raw_multi",
+                                "value": {
+                                    "$numberLong": "2"
+                                }
+                            },
+                            {
+                                "key": "tomb_buff[tank_1].def_raw_multi",
+                                "value": {
+                                    "$numberLong": "2"
+                                }
+                            }
+                        ]
                     }
                 ]
             }
@@ -230,6 +326,36 @@
                                 "key": "tomb_buff[warrior_0].atk_raw_multi",
                                 "value": {
                                     "$numberDouble": "2.0"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "blackboard": [
+                            {
+                                "key": "tomb_buff[warrior_0].atk_raw_multi",
+                                "value": {
+                                    "$numberDouble": "2.4"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "blackboard": [
+                            {
+                                "key": "tomb_buff[warrior_0].atk_raw_multi",
+                                "value": {
+                                    "$numberDouble": "2.8"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "blackboard": [
+                            {
+                                "key": "tomb_buff[warrior_0].atk_raw_multi",
+                                "value": {
+                                    "$numberDouble": "3.2"
                                 }
                             }
                         ]
@@ -317,6 +443,54 @@
                                 "key": "tomb_buff[warrior_1].atk_raw_multi",
                                 "value": {
                                     "$numberDouble": "1.0"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "blackboard": [
+                            {
+                                "key": "tomb_buff[warrior_1].attack_speed",
+                                "value": {
+                                    "$numberLong": "120"
+                                }
+                            },
+                            {
+                                "key": "tomb_buff[warrior_1].atk_raw_multi",
+                                "value": {
+                                    "$numberDouble": "1.2"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "blackboard": [
+                            {
+                                "key": "tomb_buff[warrior_1].attack_speed",
+                                "value": {
+                                    "$numberLong": "140"
+                                }
+                            },
+                            {
+                                "key": "tomb_buff[warrior_1].atk_raw_multi",
+                                "value": {
+                                    "$numberDouble": "1.4"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "blackboard": [
+                            {
+                                "key": "tomb_buff[warrior_1].attack_speed",
+                                "value": {
+                                    "$numberLong": "160"
+                                }
+                            },
+                            {
+                                "key": "tomb_buff[warrior_1].atk_raw_multi",
+                                "value": {
+                                    "$numberDouble": "1.6"
                                 }
                             }
                         ]
@@ -438,6 +612,72 @@
                                 "key": "tomb_buff[pioneer_0].atk_raw_multi",
                                 "value": {
                                     "$numberDouble": "1.0"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "blackboard": [
+                            {
+                                "key": "tomb_buff[pioneer_0].interval",
+                                "value": {
+                                    "$numberLong": "3"
+                                }
+                            },
+                            {
+                                "key": "tomb_buff[pioneer_0].sp",
+                                "value": {
+                                    "$numberLong": "6"
+                                }
+                            },
+                            {
+                                "key": "tomb_buff[pioneer_0].atk_raw_multi",
+                                "value": {
+                                    "$numberDouble": "1.2"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "blackboard": [
+                            {
+                                "key": "tomb_buff[pioneer_0].interval",
+                                "value": {
+                                    "$numberLong": "3"
+                                }
+                            },
+                            {
+                                "key": "tomb_buff[pioneer_0].sp",
+                                "value": {
+                                    "$numberLong": "7"
+                                }
+                            },
+                            {
+                                "key": "tomb_buff[pioneer_0].atk_raw_multi",
+                                "value": {
+                                    "$numberDouble": "1.4"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "blackboard": [
+                            {
+                                "key": "tomb_buff[pioneer_0].interval",
+                                "value": {
+                                    "$numberLong": "3"
+                                }
+                            },
+                            {
+                                "key": "tomb_buff[pioneer_0].sp",
+                                "value": {
+                                    "$numberLong": "8"
+                                }
+                            },
+                            {
+                                "key": "tomb_buff[pioneer_0].atk_raw_multi",
+                                "value": {
+                                    "$numberDouble": "1.6"
                                 }
                             }
                         ]
@@ -805,6 +1045,72 @@
                                 }
                             }
                         ]
+                    },
+                    {
+                        "blackboard": [
+                            {
+                                "key": "tomb_buff[caster_0].interval",
+                                "value": {
+                                    "$numberLong": "3"
+                                }
+                            },
+                            {
+                                "key": "tomb_buff[caster_0].sp",
+                                "value": {
+                                    "$numberLong": "6"
+                                }
+                            },
+                            {
+                                "key": "tomb_buff[caster_0].atk_raw_multi",
+                                "value": {
+                                    "$numberDouble": "1.2"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "blackboard": [
+                            {
+                                "key": "tomb_buff[caster_0].interval",
+                                "value": {
+                                    "$numberLong": "3"
+                                }
+                            },
+                            {
+                                "key": "tomb_buff[caster_0].sp",
+                                "value": {
+                                    "$numberLong": "7"
+                                }
+                            },
+                            {
+                                "key": "tomb_buff[caster_0].atk_raw_multi",
+                                "value": {
+                                    "$numberDouble": "1.4"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "blackboard": [
+                            {
+                                "key": "tomb_buff[caster_0].interval",
+                                "value": {
+                                    "$numberLong": "3"
+                                }
+                            },
+                            {
+                                "key": "tomb_buff[caster_0].sp",
+                                "value": {
+                                    "$numberLong": "8"
+                                }
+                            },
+                            {
+                                "key": "tomb_buff[caster_0].atk_raw_multi",
+                                "value": {
+                                    "$numberDouble": "1.6"
+                                }
+                            }
+                        ]
                     }
                 ]
             },
@@ -859,6 +1165,36 @@
                                 "key": "tomb_buff[caster_1].atk_raw_multi",
                                 "value": {
                                     "$numberDouble": "2.0"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "blackboard": [
+                            {
+                                "key": "tomb_buff[caster_1].atk_raw_multi",
+                                "value": {
+                                    "$numberDouble": "2.4"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "blackboard": [
+                            {
+                                "key": "tomb_buff[caster_1].atk_raw_multi",
+                                "value": {
+                                    "$numberDouble": "2.8"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "blackboard": [
+                            {
+                                "key": "tomb_buff[caster_1].atk_raw_multi",
+                                "value": {
+                                    "$numberDouble": "3.2"
                                 }
                             }
                         ]
@@ -920,6 +1256,36 @@
                                 "key": "tomb_buff[medic_0].damage_resistance",
                                 "value": {
                                     "$numberDouble": "0.5"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "blackboard": [
+                            {
+                                "key": "tomb_buff[medic_0].damage_resistance",
+                                "value": {
+                                    "$numberDouble": "0.6"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "blackboard": [
+                            {
+                                "key": "tomb_buff[medic_0].damage_resistance",
+                                "value": {
+                                    "$numberDouble": "0.7"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "blackboard": [
+                            {
+                                "key": "tomb_buff[medic_0].damage_resistance",
+                                "value": {
+                                    "$numberDouble": "0.8"
                                 }
                             }
                         ]
@@ -1115,6 +1481,72 @@
                                 "key": "tomb_buff[special_1].attack_speed",
                                 "value": {
                                     "$numberLong": "100"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "blackboard": [
+                            {
+                                "key": "tomb_buff[special_1].interval",
+                                "value": {
+                                    "$numberLong": "3"
+                                }
+                            },
+                            {
+                                "key": "tomb_buff[special_1].sp",
+                                "value": {
+                                    "$numberLong": "6"
+                                }
+                            },
+                            {
+                                "key": "tomb_buff[special_1].attack_speed",
+                                "value": {
+                                    "$numberLong": "120"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "blackboard": [
+                            {
+                                "key": "tomb_buff[special_1].interval",
+                                "value": {
+                                    "$numberLong": "3"
+                                }
+                            },
+                            {
+                                "key": "tomb_buff[special_1].sp",
+                                "value": {
+                                    "$numberLong": "7"
+                                }
+                            },
+                            {
+                                "key": "tomb_buff[special_1].attack_speed",
+                                "value": {
+                                    "$numberLong": "140"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "blackboard": [
+                            {
+                                "key": "tomb_buff[special_1].interval",
+                                "value": {
+                                    "$numberLong": "3"
+                                }
+                            },
+                            {
+                                "key": "tomb_buff[special_1].sp",
+                                "value": {
+                                    "$numberLong": "8"
+                                }
+                            },
+                            {
+                                "key": "tomb_buff[special_1].attack_speed",
+                                "value": {
+                                    "$numberLong": "160"
                                 }
                             }
                         ]

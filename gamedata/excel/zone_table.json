@@ -541,6 +541,24 @@
             }
         },
         {
+            "key": "tower_n_13",
+            "value": {
+                "zoneID": "tower_n_13",
+                "zoneIndex": 0,
+                "type": "CLIMB_TOWER",
+                "canPreview": false
+            }
+        },
+        {
+            "key": "tower_n_14",
+            "value": {
+                "zoneID": "tower_n_14",
+                "zoneIndex": 0,
+                "type": "CLIMB_TOWER",
+                "canPreview": false
+            }
+        },
+        {
             "key": "tower_n_01",
             "value": {
                 "zoneID": "tower_n_01",
@@ -600,6 +618,36 @@
                 "zoneID": "rogue_3",
                 "zoneIndex": 3,
                 "type": "ROGUELIKE",
+                "canPreview": false
+            }
+        },
+        {
+            "key": "act33side_zone1",
+            "value": {
+                "zoneID": "act33side_zone1",
+                "zoneIndex": 0,
+                "type": "ACTIVITY",
+                "zoneNameSecond": "我赠予未来",
+                "canPreview": false
+            }
+        },
+        {
+            "key": "act33side_zone2",
+            "value": {
+                "zoneID": "act33side_zone2",
+                "zoneIndex": 1,
+                "type": "ACTIVITY",
+                "zoneNameSecond": "我驻留往昔",
+                "canPreview": false
+            }
+        },
+        {
+            "key": "act33side_zone3",
+            "value": {
+                "zoneID": "act33side_zone3",
+                "zoneIndex": 2,
+                "type": "ACTIVITY",
+                "zoneNameSecond": "我始终如一",
                 "canPreview": false
             }
         },
@@ -2937,6 +2985,27 @@
         }
     ],
     "zoneValidInfo": [
+        {
+            "key": "act33side_zone1",
+            "value": {
+                "startTs": 1712808000,
+                "endTs": 1714679999
+            }
+        },
+        {
+            "key": "act33side_zone2",
+            "value": {
+                "startTs": 1713427200,
+                "endTs": 1714679999
+            }
+        },
+        {
+            "key": "act33side_zone3",
+            "value": {
+                "startTs": 1714032000,
+                "endTs": 1714679999
+            }
+        },
         {
             "key": "act32side_zone1",
             "value": {
