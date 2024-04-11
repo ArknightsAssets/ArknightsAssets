@@ -1293,7 +1293,7 @@
                         {
                             "actionType": "ACTIVATE_PREDEFINED",
                             "managedByScheduler": true,
-                            "key": "char_235_jesica",
+                            "key": "char_130_doberm",
                             "count": 1,
                             "preDelay": 7,
                             "interval": 1,
@@ -1307,13 +1307,18 @@
                             "weight": 0,
                             "dontBlockWave": false,
                             "isValid": false
-                        },
+                        }
+                    ]
+                },
+                {
+                    "preDelay": 1,
+                    "actions": [
                         {
                             "actionType": "ACTIVATE_PREDEFINED",
                             "managedByScheduler": true,
-                            "key": "char_130_doberm",
+                            "key": "char_235_jesica",
                             "count": 1,
-                            "preDelay": 7,
+                            "preDelay": 0,
                             "interval": 1,
                             "routeIndex": 5,
                             "blockFragment": false,
@@ -1325,13 +1330,18 @@
                             "weight": 0,
                             "dontBlockWave": false,
                             "isValid": false
-                        },
+                        }
+                    ]
+                },
+                {
+                    "preDelay": 0,
+                    "actions": [
                         {
                             "actionType": "STORY",
                             "managedByScheduler": true,
                             "key": "Activities/act33side/Training/training_act33side_01_c",
                             "count": 1,
-                            "preDelay": 8,
+                            "preDelay": 0,
                             "interval": 1,
                             "routeIndex": 6,
                             "blockFragment": false,
@@ -1343,13 +1353,18 @@
                             "weight": 0,
                             "dontBlockWave": false,
                             "isValid": false
-                        },
+                        }
+                    ]
+                },
+                {
+                    "preDelay": 4,
+                    "actions": [
                         {
                             "actionType": "STORY",
                             "managedByScheduler": true,
                             "key": "Activities/act33side/Training/training_act33side_01_d",
                             "count": 1,
-                            "preDelay": 10,
+                            "preDelay": 2,
                             "interval": 1,
                             "routeIndex": 7,
                             "blockFragment": false,
@@ -1367,7 +1382,7 @@
                             "managedByScheduler": true,
                             "key": "Activities/act33side/Training/training_act33side_01_e",
                             "count": 1,
-                            "preDelay": 15,
+                            "preDelay": 7,
                             "interval": 1,
                             "routeIndex": 8,
                             "blockFragment": false,
@@ -1433,13 +1448,18 @@
                             "weight": 0,
                             "dontBlockWave": false,
                             "isValid": false
-                        },
+                        }
+                    ]
+                },
+                {
+                    "preDelay": 2,
+                    "actions": [
                         {
                             "actionType": "ACTIVATE_PREDEFINED",
                             "managedByScheduler": true,
                             "key": "char_123_fang",
                             "count": 1,
-                            "preDelay": 20,
+                            "preDelay": 0,
                             "interval": 1,
                             "routeIndex": 12,
                             "blockFragment": false,
@@ -1451,13 +1471,18 @@
                             "weight": 0,
                             "dontBlockWave": false,
                             "isValid": false
-                        },
+                        }
+                    ]
+                },
+                {
+                    "preDelay": 0,
+                    "actions": [
                         {
                             "actionType": "STORY",
                             "managedByScheduler": true,
                             "key": "Activities/act33side/Training/training_act33side_01_f",
                             "count": 1,
-                            "preDelay": 21,
+                            "preDelay": 0,
                             "interval": 1,
                             "routeIndex": 13,
                             "blockFragment": false,
