@@ -2411,6 +2411,36 @@
             }
         },
         {
+            "key": "permanent_sub_6_zone1",
+            "value": {
+                "zoneID": "permanent_sub_6_zone1",
+                "zoneIndex": 0,
+                "type": "BRANCHLINE",
+                "zoneNameSecond": "我赠予未来",
+                "canPreview": false
+            }
+        },
+        {
+            "key": "permanent_sub_6_zone2",
+            "value": {
+                "zoneID": "permanent_sub_6_zone2",
+                "zoneIndex": 1,
+                "type": "BRANCHLINE",
+                "zoneNameSecond": "我驻留往昔",
+                "canPreview": false
+            }
+        },
+        {
+            "key": "permanent_sub_6_zone3",
+            "value": {
+                "zoneID": "permanent_sub_6_zone3",
+                "zoneIndex": 2,
+                "type": "BRANCHLINE",
+                "zoneNameSecond": "我始终如一",
+                "canPreview": false
+            }
+        },
+        {
             "key": "permanent_sidestory_1_zone1",
             "value": {
                 "zoneID": "permanent_sidestory_1_zone1",
