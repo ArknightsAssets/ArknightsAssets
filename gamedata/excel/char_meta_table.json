@@ -43,6 +43,12 @@
             ]
         },
         {
+            "key": "char_4136_phonor",
+            "value": [
+                "char_4136_phonor"
+            ]
+        },
+        {
             "key": "char_502_nblade",
             "value": [
                 "char_502_nblade",
@@ -77,7 +83,8 @@
         {
             "key": "char_123_fang",
             "value": [
-                "char_123_fang"
+                "char_123_fang",
+                "char_1036_fang2"
             ]
         },
         {
@@ -1440,7 +1447,8 @@
         {
             "key": "char_113_cqbw",
             "value": [
-                "char_113_cqbw"
+                "char_113_cqbw",
+                "char_1035_wisdel"
             ]
         },
         {
@@ -1553,6 +1561,12 @@
             ]
         },
         {
+            "key": "char_4133_logos",
+            "value": [
+                "char_4133_logos"
+            ]
+        },
+        {
             "key": "char_2015_dusk",
             "value": [
                 "char_2015_dusk"
@@ -1610,6 +1624,12 @@
             "key": "char_248_mgllan",
             "value": [
                 "char_248_mgllan"
+            ]
+        },
+        {
+            "key": "char_4134_cetsyr",
+            "value": [
+                "char_4134_cetsyr"
             ]
         },
         {

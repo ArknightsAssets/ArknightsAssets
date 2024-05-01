@@ -5878,7 +5878,7 @@
                 "detail": "克丽斯腾的失踪牵动了所有人的思绪。\n军方与梅兰德基金会齐聚特里蒙，\n凯尔希选择主动介入。\n乌云密布，暴雨将至。\n是阴谋，是闹剧，还是独醒？\n往昔的恩怨于此地交会，过去与未来在此地碰撞。\n这一夜，无人入眠。",
                 "haveTrail": false,
                 "customActId": "act25side",
-                "customActType": "TYPE_ACT25SIDE"
+                "customActType": "FLIP_ONLY"
             }
         },
         {
@@ -6183,7 +6183,7 @@
                 "name": "理想城：长夏狂欢季",
                 "detail": "因一封从丛林寄来的求援信，嘉维尔和森蚺动身返乡。\n极境与阿卡胡拉众人深入地下，准备解决一场大麻烦。\n当他们抵达地底城市，才发现真实情况远超预料。\n破碎的穹顶之下，杜林们在飞溅的水花中欢度夏日。\n竞争？矛盾？危机？通通靠边站！\n以清凉与畅饮为夏日续笔，狂欢尽头正是继续狂欢！",
                 "haveTrail": false,
-                "customActType": "TYPE_ACT20SIDE"
+                "customActType": "BOSS_RUSH"
             }
         },
         {
@@ -6201,7 +6201,7 @@
                 "name": "叙拉古人",
                 "detail": "这是一个意料之外的邀请，但她知道它迟早会来。\n这是一场蓄谋已久的爆炸，但他清楚它早晚会发生。\n这是一声响彻云霄的铳响，而他等待了几十年。\n这是一次迟来许久的诀别，她背过身，没有任何停留。\n这是一座正逢雨季的城市，来的时候，别忘了带伞。",
                 "haveTrail": false,
-                "customActType": "TYPE_ACT21SIDE"
+                "customActType": "FLOAT_PARADE"
             }
         },
         {
@@ -89557,7 +89557,8 @@
                                             "key": "env_gbuff_new",
                                             "selector": {
                                                 "professionMask": 581,
-                                                "buildableMask": "MELEE"
+                                                "buildableMask": "MELEE",
+                                                "playerSideMask": "ALL"
                                             },
                                             "blackboard": [
                                                 {
@@ -89596,7 +89597,8 @@
                                             "key": "char_attribute_mul",
                                             "selector": {
                                                 "professionMask": 58,
-                                                "buildableMask": "ALL"
+                                                "buildableMask": "ALL",
+                                                "playerSideMask": "ALL"
                                             },
                                             "blackboard": [
                                                 {
@@ -89609,7 +89611,8 @@
                                             "key": "char_attribute_add",
                                             "selector": {
                                                 "professionMask": 634,
-                                                "buildableMask": "RANGED"
+                                                "buildableMask": "RANGED",
+                                                "playerSideMask": "ALL"
                                             },
                                             "blackboard": [
                                                 {
@@ -89639,7 +89642,8 @@
                                             "key": "level_predefines_skill_replace",
                                             "selector": {
                                                 "professionMask": 1023,
-                                                "buildableMask": "ALL"
+                                                "buildableMask": "ALL",
+                                                "playerSideMask": "ALL"
                                             },
                                             "blackboard": [
                                                 {
@@ -89674,7 +89678,8 @@
                                             "key": "level_predefines_skill_replace",
                                             "selector": {
                                                 "professionMask": 1023,
-                                                "buildableMask": "ALL"
+                                                "buildableMask": "ALL",
+                                                "playerSideMask": "ALL"
                                             },
                                             "blackboard": [
                                                 {
@@ -89709,7 +89714,8 @@
                                             "key": "char_blockcnt_add",
                                             "selector": {
                                                 "professionMask": 1023,
-                                                "buildableMask": "ALL"
+                                                "buildableMask": "ALL",
+                                                "playerSideMask": "ALL"
                                             },
                                             "blackboard": [
                                                 {
@@ -89739,7 +89745,8 @@
                                             "key": "env_gbuff_new",
                                             "selector": {
                                                 "professionMask": 1023,
-                                                "buildableMask": "ALL"
+                                                "buildableMask": "ALL",
+                                                "playerSideMask": "ALL"
                                             },
                                             "blackboard": [
                                                 {
@@ -89774,7 +89781,8 @@
                                             "key": "level_predefines_enable",
                                             "selector": {
                                                 "professionMask": 1023,
-                                                "buildableMask": "ALL"
+                                                "buildableMask": "ALL",
+                                                "playerSideMask": "ALL"
                                             },
                                             "blackboard": [
                                                 {
@@ -89812,7 +89820,8 @@
                                             "key": "level_predefines_enable",
                                             "selector": {
                                                 "professionMask": 1023,
-                                                "buildableMask": "ALL"
+                                                "buildableMask": "ALL",
+                                                "playerSideMask": "ALL"
                                             },
                                             "blackboard": [
                                                 {
@@ -89850,7 +89859,8 @@
                                             "key": "env_gbuff_new",
                                             "selector": {
                                                 "professionMask": 581,
-                                                "buildableMask": "MELEE"
+                                                "buildableMask": "MELEE",
+                                                "playerSideMask": "ALL"
                                             },
                                             "blackboard": [
                                                 {
@@ -89913,7 +89923,8 @@
                                             "key": "env_gbuff_new",
                                             "selector": {
                                                 "professionMask": 58,
-                                                "buildableMask": "RANGED"
+                                                "buildableMask": "RANGED",
+                                                "playerSideMask": "ALL"
                                             },
                                             "blackboard": [
                                                 {
@@ -91526,7 +91537,8 @@
                                             "key": "enemy_talent_blackb_add",
                                             "selector": {
                                                 "professionMask": "NONE",
-                                                "buildableMask": "NONE"
+                                                "buildableMask": "NONE",
+                                                "playerSideMask": "ALL"
                                             },
                                             "blackboard": [
                                                 {
@@ -91539,7 +91551,8 @@
                                             "key": "enemy_talent_blackb_add",
                                             "selector": {
                                                 "professionMask": "NONE",
-                                                "buildableMask": "NONE"
+                                                "buildableMask": "NONE",
+                                                "playerSideMask": "ALL"
                                             },
                                             "blackboard": [
                                                 {
@@ -91570,7 +91583,8 @@
                                             "key": "enemy_talent_blackb_add",
                                             "selector": {
                                                 "professionMask": "NONE",
-                                                "buildableMask": "NONE"
+                                                "buildableMask": "NONE",
+                                                "playerSideMask": "ALL"
                                             },
                                             "blackboard": [
                                                 {
@@ -91583,7 +91597,8 @@
                                             "key": "enemy_talent_blackb_add",
                                             "selector": {
                                                 "professionMask": "NONE",
-                                                "buildableMask": "NONE"
+                                                "buildableMask": "NONE",
+                                                "playerSideMask": "ALL"
                                             },
                                             "blackboard": [
                                                 {
@@ -91614,7 +91629,8 @@
                                             "key": "enemy_talent_blackb_add",
                                             "selector": {
                                                 "professionMask": "NONE",
-                                                "buildableMask": "NONE"
+                                                "buildableMask": "NONE",
+                                                "playerSideMask": "ALL"
                                             },
                                             "blackboard": [
                                                 {
@@ -91627,7 +91643,8 @@
                                             "key": "enemy_talent_blackb_add",
                                             "selector": {
                                                 "professionMask": "NONE",
-                                                "buildableMask": "NONE"
+                                                "buildableMask": "NONE",
+                                                "playerSideMask": "ALL"
                                             },
                                             "blackboard": [
                                                 {
@@ -91658,7 +91675,8 @@
                                             "key": "enemy_talent_blackb_add",
                                             "selector": {
                                                 "professionMask": "NONE",
-                                                "buildableMask": "NONE"
+                                                "buildableMask": "NONE",
+                                                "playerSideMask": "ALL"
                                             },
                                             "blackboard": [
                                                 {
@@ -91671,7 +91689,8 @@
                                             "key": "enemy_talent_blackb_add",
                                             "selector": {
                                                 "professionMask": "NONE",
-                                                "buildableMask": "NONE"
+                                                "buildableMask": "NONE",
+                                                "playerSideMask": "ALL"
                                             },
                                             "blackboard": [
                                                 {
@@ -91702,7 +91721,8 @@
                                             "key": "enemy_talent_blackb_add",
                                             "selector": {
                                                 "professionMask": "NONE",
-                                                "buildableMask": "NONE"
+                                                "buildableMask": "NONE",
+                                                "playerSideMask": "ALL"
                                             },
                                             "blackboard": [
                                                 {
@@ -91733,7 +91753,8 @@
                                             "key": "enemy_talent_blackb_add",
                                             "selector": {
                                                 "professionMask": "NONE",
-                                                "buildableMask": "NONE"
+                                                "buildableMask": "NONE",
+                                                "playerSideMask": "ALL"
                                             },
                                             "blackboard": [
                                                 {
@@ -91764,7 +91785,8 @@
                                             "key": "enemy_weight_add",
                                             "selector": {
                                                 "professionMask": "NONE",
-                                                "buildableMask": "NONE"
+                                                "buildableMask": "NONE",
+                                                "playerSideMask": "ALL"
                                             },
                                             "blackboard": [
                                                 {
@@ -91782,7 +91804,8 @@
                                             "key": "enemy_talent_blackb_add",
                                             "selector": {
                                                 "professionMask": "NONE",
-                                                "buildableMask": "NONE"
+                                                "buildableMask": "NONE",
+                                                "playerSideMask": "ALL"
                                             },
                                             "blackboard": [
                                                 {
@@ -91813,7 +91836,8 @@
                                             "key": "enemy_weight_add",
                                             "selector": {
                                                 "professionMask": "NONE",
-                                                "buildableMask": "NONE"
+                                                "buildableMask": "NONE",
+                                                "playerSideMask": "ALL"
                                             },
                                             "blackboard": [
                                                 {
@@ -91831,7 +91855,8 @@
                                             "key": "enemy_talent_blackb_add",
                                             "selector": {
                                                 "professionMask": "NONE",
-                                                "buildableMask": "NONE"
+                                                "buildableMask": "NONE",
+                                                "playerSideMask": "ALL"
                                             },
                                             "blackboard": [
                                                 {

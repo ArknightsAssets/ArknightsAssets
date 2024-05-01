@@ -674,6 +674,18 @@
                     {
                         "sourceId": "token_10028_vigil_wolf",
                         "enemyId": "enemy_1500_skulsr"
+                    },
+                    {
+                        "sourceId": "char_172_svrash",
+                        "enemyId": "enemy_1194_krgmtr"
+                    },
+                    {
+                        "sourceId": "char_4082_qiubai",
+                        "enemyId": "enemy_1301_ymcnon"
+                    },
+                    {
+                        "sourceId": "char_140_whitew",
+                        "enemyId": "enemy_1021_bslime"
                     }
                 ]
             }
@@ -716,6 +728,12 @@
                     },
                     {
                         "sourceId": "char_1033_swire2"
+                    },
+                    {
+                        "sourceId": "char_1035_wisdel"
+                    },
+                    {
+                        "sourceId": "token_10035_wisdel_wward"
                     }
                 ]
             }

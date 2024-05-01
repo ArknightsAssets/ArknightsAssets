@@ -8811,7 +8811,8 @@
                             "key": "char_attribute_mul",
                             "selector": {
                                 "professionMask": 767,
-                                "buildableMask": "ALL"
+                                "buildableMask": "ALL",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -8861,7 +8862,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": 639,
-                                "buildableMask": "ALL"
+                                "buildableMask": "ALL",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -8903,7 +8905,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": "NONE",
-                                "buildableMask": "NONE"
+                                "buildableMask": "NONE",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -8953,7 +8956,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": "NONE",
-                                "buildableMask": "NONE"
+                                "buildableMask": "NONE",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -8995,7 +8999,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": "NONE",
-                                "buildableMask": "NONE"
+                                "buildableMask": "NONE",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -9037,7 +9042,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": 1023,
-                                "buildableMask": "ALL"
+                                "buildableMask": "ALL",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -9096,7 +9102,8 @@
                             "key": "char_attribute_mul",
                             "selector": {
                                 "professionMask": 5,
-                                "buildableMask": "ALL"
+                                "buildableMask": "ALL",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -9113,7 +9120,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": "NONE",
-                                "buildableMask": "NONE"
+                                "buildableMask": "NONE",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -9168,7 +9176,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": 639,
-                                "buildableMask": "RANGED"
+                                "buildableMask": "RANGED",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -9219,7 +9228,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": "NONE",
-                                "buildableMask": "NONE"
+                                "buildableMask": "NONE",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -9266,7 +9276,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": "NONE",
-                                "buildableMask": "NONE"
+                                "buildableMask": "NONE",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -9284,7 +9295,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": "NONE",
-                                "buildableMask": "NONE"
+                                "buildableMask": "NONE",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -9331,7 +9343,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": "NONE",
-                                "buildableMask": "NONE"
+                                "buildableMask": "NONE",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -9374,7 +9387,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": "NONE",
-                                "buildableMask": "NONE"
+                                "buildableMask": "NONE",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -9421,7 +9435,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": "NONE",
-                                "buildableMask": "NONE"
+                                "buildableMask": "NONE",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -9464,7 +9479,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": "NONE",
-                                "buildableMask": "NONE"
+                                "buildableMask": "NONE",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -9511,7 +9527,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": 1023,
-                                "buildableMask": "ALL"
+                                "buildableMask": "ALL",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -9554,7 +9571,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": 1023,
-                                "buildableMask": "ALL"
+                                "buildableMask": "ALL",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -9598,7 +9616,8 @@
                             "key": "char_attribute_mul",
                             "selector": {
                                 "professionMask": 767,
-                                "buildableMask": "ALL"
+                                "buildableMask": "ALL",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -9644,7 +9663,8 @@
                             "key": "char_attribute_mul",
                             "selector": {
                                 "professionMask": 767,
-                                "buildableMask": "ALL"
+                                "buildableMask": "ALL",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -9690,7 +9710,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": "CASTER",
-                                "buildableMask": "ALL"
+                                "buildableMask": "ALL",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -9712,7 +9733,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": "SNIPER",
-                                "buildableMask": "ALL"
+                                "buildableMask": "ALL",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -9734,7 +9756,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": 639,
-                                "buildableMask": "ALL"
+                                "buildableMask": "ALL",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -9772,7 +9795,8 @@
                             "key": "char_attribute_mul",
                             "selector": {
                                 "professionMask": 68,
-                                "buildableMask": "ALL"
+                                "buildableMask": "ALL",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -9785,7 +9809,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": "NONE",
-                                "buildableMask": "NONE"
+                                "buildableMask": "NONE",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -9823,7 +9848,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": "NONE",
-                                "buildableMask": "NONE"
+                                "buildableMask": "NONE",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -9841,7 +9867,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": "NONE",
-                                "buildableMask": "NONE"
+                                "buildableMask": "NONE",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -9887,7 +9914,8 @@
                             "key": "enemy_attribute_add",
                             "selector": {
                                 "professionMask": "NONE",
-                                "buildableMask": "NONE"
+                                "buildableMask": "NONE",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -9900,7 +9928,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": "NONE",
-                                "buildableMask": "NONE"
+                                "buildableMask": "NONE",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -9946,7 +9975,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": "NONE",
-                                "buildableMask": "NONE"
+                                "buildableMask": "NONE",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -9972,7 +10002,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": "NONE",
-                                "buildableMask": "NONE"
+                                "buildableMask": "NONE",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -10010,7 +10041,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": "NONE",
-                                "buildableMask": "NONE"
+                                "buildableMask": "NONE",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -10036,7 +10068,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": "NONE",
-                                "buildableMask": "NONE"
+                                "buildableMask": "NONE",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -10074,7 +10107,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": "NONE",
-                                "buildableMask": "NONE"
+                                "buildableMask": "NONE",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -10093,7 +10127,8 @@
                             "key": "char_cost_add",
                             "selector": {
                                 "professionMask": "PIONEER",
-                                "buildableMask": "ALL"
+                                "buildableMask": "ALL",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -10106,7 +10141,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": "NONE",
-                                "buildableMask": "NONE"
+                                "buildableMask": "NONE",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -10144,7 +10180,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": "NONE",
-                                "buildableMask": "NONE"
+                                "buildableMask": "NONE",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -10170,7 +10207,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": "NONE",
-                                "buildableMask": "NONE"
+                                "buildableMask": "NONE",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -10208,7 +10246,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": 1023,
-                                "buildableMask": "ALL"
+                                "buildableMask": "ALL",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -10270,7 +10309,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": 1023,
-                                "buildableMask": "ALL"
+                                "buildableMask": "ALL",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -10324,7 +10364,8 @@
                             "key": "char_attribute_mul",
                             "selector": {
                                 "professionMask": 5,
-                                "buildableMask": "ALL"
+                                "buildableMask": "ALL",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -10341,7 +10382,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": "NONE",
-                                "buildableMask": "NONE"
+                                "buildableMask": "NONE",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -10392,7 +10434,8 @@
                             "key": "char_attribute_mul",
                             "selector": {
                                 "professionMask": 5,
-                                "buildableMask": "ALL"
+                                "buildableMask": "ALL",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -10409,7 +10452,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": "NONE",
-                                "buildableMask": "NONE"
+                                "buildableMask": "NONE",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -10459,7 +10503,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": 639,
-                                "buildableMask": "RANGED"
+                                "buildableMask": "RANGED",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -10506,7 +10551,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": 767,
-                                "buildableMask": "ALL"
+                                "buildableMask": "ALL",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -10528,7 +10574,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": 639,
-                                "buildableMask": "RANGED"
+                                "buildableMask": "RANGED",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -10575,7 +10622,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": "NONE",
-                                "buildableMask": "NONE"
+                                "buildableMask": "NONE",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -10617,7 +10665,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": "NONE",
-                                "buildableMask": "NONE"
+                                "buildableMask": "NONE",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -10647,7 +10696,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": "NONE",
-                                "buildableMask": "NONE"
+                                "buildableMask": "NONE",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -10689,7 +10739,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": "NONE",
-                                "buildableMask": "NONE"
+                                "buildableMask": "NONE",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -10707,7 +10758,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": "NONE",
-                                "buildableMask": "NONE"
+                                "buildableMask": "NONE",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -10725,7 +10777,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": "NONE",
-                                "buildableMask": "NONE"
+                                "buildableMask": "NONE",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -10767,7 +10820,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": "NONE",
-                                "buildableMask": "NONE"
+                                "buildableMask": "NONE",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -10789,7 +10843,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": "NONE",
-                                "buildableMask": "NONE"
+                                "buildableMask": "NONE",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -10807,7 +10862,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": "NONE",
-                                "buildableMask": "NONE"
+                                "buildableMask": "NONE",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -10849,7 +10905,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": "NONE",
-                                "buildableMask": "NONE"
+                                "buildableMask": "NONE",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -10887,7 +10944,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": "NONE",
-                                "buildableMask": "NONE"
+                                "buildableMask": "NONE",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -10905,7 +10963,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": "NONE",
-                                "buildableMask": "NONE"
+                                "buildableMask": "NONE",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -10951,7 +11010,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": "NONE",
-                                "buildableMask": "NONE"
+                                "buildableMask": "NONE",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -10973,7 +11033,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": "NONE",
-                                "buildableMask": "NONE"
+                                "buildableMask": "NONE",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -11011,7 +11072,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": "NONE",
-                                "buildableMask": "NONE"
+                                "buildableMask": "NONE",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -11053,7 +11115,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": "NONE",
-                                "buildableMask": "NONE"
+                                "buildableMask": "NONE",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -11095,7 +11158,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": "NONE",
-                                "buildableMask": "NONE"
+                                "buildableMask": "NONE",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -11133,7 +11197,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": "NONE",
-                                "buildableMask": "NONE"
+                                "buildableMask": "NONE",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -11155,7 +11220,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": "NONE",
-                                "buildableMask": "NONE"
+                                "buildableMask": "NONE",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -11197,7 +11263,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": "NONE",
-                                "buildableMask": "NONE"
+                                "buildableMask": "NONE",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -11239,7 +11306,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": 1023,
-                                "buildableMask": "ALL"
+                                "buildableMask": "ALL",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -11277,7 +11345,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": 1023,
-                                "buildableMask": "ALL"
+                                "buildableMask": "ALL",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -11315,7 +11384,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": 1023,
-                                "buildableMask": "ALL"
+                                "buildableMask": "ALL",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {
@@ -11357,7 +11427,8 @@
                             "key": "env_gbuff_new",
                             "selector": {
                                 "professionMask": 1023,
-                                "buildableMask": "ALL"
+                                "buildableMask": "ALL",
+                                "playerSideMask": "ALL"
                             },
                             "blackboard": [
                                 {

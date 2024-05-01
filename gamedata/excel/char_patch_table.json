@@ -737,7 +737,8 @@
                 "conds": [
                     {
                         "stageId": "main_08-16",
-                        "completeState": "PASS"
+                        "completeState": "PASS",
+                        "unlockTs": 0
                     }
                 ]
             }
@@ -749,7 +750,8 @@
             "value": {
                 "patchId": "char_002_amiya",
                 "sortId": 0,
-                "infoParam": "术师"
+                "infoParam": "术师",
+                "transSortId": 0
             }
         },
         {
@@ -757,7 +759,8 @@
             "value": {
                 "patchId": "char_1001_amiya2",
                 "sortId": 1,
-                "infoParam": "近卫"
+                "infoParam": "近卫",
+                "transSortId": 0
             }
         }
     ]

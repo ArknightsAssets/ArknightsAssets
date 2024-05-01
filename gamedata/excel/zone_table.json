@@ -13,7 +13,8 @@
                 "zoneNameTitleEx": "EPISODE",
                 "zoneNameThird": "EPISODE 00",
                 "lockedText": "",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -29,7 +30,8 @@
                 "zoneNameTitleEx": "EPISODE",
                 "zoneNameThird": "EPISODE 01",
                 "lockedText": "完成上一章以解锁",
-                "canPreview": true
+                "canPreview": true,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -45,7 +47,8 @@
                 "zoneNameTitleEx": "EPISODE",
                 "zoneNameThird": "EPISODE 02",
                 "lockedText": "完成上一章以解锁",
-                "canPreview": true
+                "canPreview": true,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -61,7 +64,8 @@
                 "zoneNameTitleEx": "EPISODE",
                 "zoneNameThird": "EPISODE 03",
                 "lockedText": "完成上一章以解锁",
-                "canPreview": true
+                "canPreview": true,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -71,7 +75,8 @@
                 "zoneIndex": 0,
                 "type": "GUIDE",
                 "lockedText": "",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -87,7 +92,8 @@
                 "zoneNameTitleEx": "EPISODE",
                 "zoneNameThird": "EPISODE 04",
                 "lockedText": "完成上一章以解锁",
-                "canPreview": true
+                "canPreview": true,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -103,7 +109,8 @@
                 "zoneNameTitleEx": "EPISODE",
                 "zoneNameThird": "EPISODE 05",
                 "lockedText": "完成上一章以解锁",
-                "canPreview": true
+                "canPreview": true,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -119,7 +126,8 @@
                 "zoneNameTitleEx": "EPISODE",
                 "zoneNameThird": "EPISODE 06",
                 "lockedText": "完成上一章以解锁",
-                "canPreview": true
+                "canPreview": true,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -135,7 +143,8 @@
                 "zoneNameTitleEx": "EPISODE",
                 "zoneNameThird": "EPISODE 07",
                 "lockedText": "完成上一章以解锁",
-                "canPreview": true
+                "canPreview": true,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -151,7 +160,8 @@
                 "zoneNameTitleEx": "EPISODE",
                 "zoneNameThird": "EPISODE 08",
                 "lockedText": "完成上一章以解锁",
-                "canPreview": true
+                "canPreview": true,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -167,7 +177,8 @@
                 "zoneNameTitleEx": "EPISODE",
                 "zoneNameThird": "EPISODE 09",
                 "lockedText": "完成上一章以解锁",
-                "canPreview": true
+                "canPreview": true,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -183,7 +194,8 @@
                 "zoneNameTitleEx": "EPISODE",
                 "zoneNameThird": "EPISODE 10",
                 "lockedText": "完成上一章以解锁",
-                "canPreview": true
+                "canPreview": true,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -199,7 +211,8 @@
                 "zoneNameTitleEx": "EPISODE",
                 "zoneNameThird": "EPISODE 11",
                 "lockedText": "完成上一章以解锁",
-                "canPreview": true
+                "canPreview": true,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -215,7 +228,8 @@
                 "zoneNameTitleEx": "EPISODE",
                 "zoneNameThird": "EPISODE 12",
                 "lockedText": "完成上一章以解锁",
-                "canPreview": true
+                "canPreview": true,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -231,7 +245,8 @@
                 "zoneNameTitleEx": "EPISODE",
                 "zoneNameThird": "EPISODE 13",
                 "lockedText": "完成上一章以解锁",
-                "canPreview": true
+                "canPreview": true,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -242,7 +257,8 @@
                 "type": "WEEKLY",
                 "zoneNameSecond": "固若金汤",
                 "lockedText": "当前不可进入",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -253,7 +269,8 @@
                 "type": "WEEKLY",
                 "zoneNameSecond": "摧枯拉朽",
                 "lockedText": "当前不可进入",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -264,7 +281,8 @@
                 "type": "WEEKLY",
                 "zoneNameSecond": "势不可挡",
                 "lockedText": "当前不可进入",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -275,7 +293,8 @@
                 "type": "WEEKLY",
                 "zoneNameSecond": "身先士卒",
                 "lockedText": "当前不可进入",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -286,7 +305,8 @@
                 "type": "WEEKLY",
                 "zoneNameSecond": "粉碎防御",
                 "lockedText": "当前不可进入",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -297,7 +317,8 @@
                 "type": "WEEKLY",
                 "zoneNameSecond": "空中威胁",
                 "lockedText": "当前不可进入",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -308,7 +329,8 @@
                 "type": "WEEKLY",
                 "zoneNameSecond": "战术演习",
                 "lockedText": "当前不可进入",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -319,7 +341,8 @@
                 "type": "WEEKLY",
                 "zoneNameSecond": "资源保障",
                 "lockedText": "当前不可进入",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -330,7 +353,8 @@
                 "type": "WEEKLY",
                 "zoneNameSecond": "货物运送",
                 "lockedText": "当前不可进入",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -339,7 +363,8 @@
                 "zoneID": "camp_zone_1",
                 "zoneIndex": 0,
                 "type": "CAMPAIGN",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -348,7 +373,8 @@
                 "zoneID": "camp_zone_2",
                 "zoneIndex": 0,
                 "type": "CAMPAIGN",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -357,7 +383,8 @@
                 "zoneID": "camp_zone_3",
                 "zoneIndex": 0,
                 "type": "CAMPAIGN",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -366,7 +393,8 @@
                 "zoneID": "camp_zone_4",
                 "zoneIndex": 0,
                 "type": "CAMPAIGN",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -375,7 +403,8 @@
                 "zoneID": "camp_zone_5",
                 "zoneIndex": 0,
                 "type": "CAMPAIGN",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -384,7 +413,8 @@
                 "zoneID": "camp_zone_6",
                 "zoneIndex": 0,
                 "type": "CAMPAIGN",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -393,7 +423,8 @@
                 "zoneID": "camp_zone_7",
                 "zoneIndex": 0,
                 "type": "CAMPAIGN",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -402,7 +433,8 @@
                 "zoneID": "camp_zone_8",
                 "zoneIndex": 0,
                 "type": "CAMPAIGN",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -411,7 +443,8 @@
                 "zoneID": "camp_zone_9",
                 "zoneIndex": 0,
                 "type": "CAMPAIGN",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -420,7 +453,8 @@
                 "zoneID": "camp_zone_10",
                 "zoneIndex": 0,
                 "type": "CAMPAIGN",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -429,7 +463,8 @@
                 "zoneID": "camp_zone_11",
                 "zoneIndex": 0,
                 "type": "CAMPAIGN",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -438,7 +473,8 @@
                 "zoneID": "camp_zone_12",
                 "zoneIndex": 0,
                 "type": "CAMPAIGN",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -447,7 +483,8 @@
                 "zoneID": "tower_tr_01",
                 "zoneIndex": 0,
                 "type": "CLIMB_TOWER",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -456,7 +493,8 @@
                 "zoneID": "tower_tr_02",
                 "zoneIndex": 0,
                 "type": "CLIMB_TOWER",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -465,7 +503,8 @@
                 "zoneID": "tower_tr_03",
                 "zoneIndex": 0,
                 "type": "CLIMB_TOWER",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -474,7 +513,8 @@
                 "zoneID": "tower_n_05",
                 "zoneIndex": 0,
                 "type": "CLIMB_TOWER",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -483,7 +523,8 @@
                 "zoneID": "tower_n_06",
                 "zoneIndex": 0,
                 "type": "CLIMB_TOWER",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -492,7 +533,8 @@
                 "zoneID": "tower_n_07",
                 "zoneIndex": 0,
                 "type": "CLIMB_TOWER",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -501,7 +543,8 @@
                 "zoneID": "tower_n_08",
                 "zoneIndex": 0,
                 "type": "CLIMB_TOWER",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -510,7 +553,8 @@
                 "zoneID": "tower_n_09",
                 "zoneIndex": 0,
                 "type": "CLIMB_TOWER",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -519,7 +563,8 @@
                 "zoneID": "tower_n_10",
                 "zoneIndex": 0,
                 "type": "CLIMB_TOWER",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -528,7 +573,8 @@
                 "zoneID": "tower_n_11",
                 "zoneIndex": 0,
                 "type": "CLIMB_TOWER",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -537,7 +583,8 @@
                 "zoneID": "tower_n_12",
                 "zoneIndex": 0,
                 "type": "CLIMB_TOWER",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -546,7 +593,8 @@
                 "zoneID": "tower_n_13",
                 "zoneIndex": 0,
                 "type": "CLIMB_TOWER",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -555,7 +603,8 @@
                 "zoneID": "tower_n_14",
                 "zoneIndex": 0,
                 "type": "CLIMB_TOWER",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -564,7 +613,8 @@
                 "zoneID": "tower_n_01",
                 "zoneIndex": 0,
                 "type": "CLIMB_TOWER",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -573,7 +623,8 @@
                 "zoneID": "tower_n_02",
                 "zoneIndex": 0,
                 "type": "CLIMB_TOWER",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -582,7 +633,8 @@
                 "zoneID": "tower_n_03",
                 "zoneIndex": 0,
                 "type": "CLIMB_TOWER",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -591,7 +643,8 @@
                 "zoneID": "tower_n_04",
                 "zoneIndex": 0,
                 "type": "CLIMB_TOWER",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -600,7 +653,8 @@
                 "zoneID": "rogue_1",
                 "zoneIndex": 1,
                 "type": "ROGUELIKE",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -609,7 +663,8 @@
                 "zoneID": "rogue_2",
                 "zoneIndex": 2,
                 "type": "ROGUELIKE",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -618,7 +673,8 @@
                 "zoneID": "rogue_3",
                 "zoneIndex": 3,
                 "type": "ROGUELIKE",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -628,7 +684,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "我赠予未来",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -638,7 +695,8 @@
                 "zoneIndex": 1,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "我驻留往昔",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -648,7 +706,8 @@
                 "zoneIndex": 2,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "我始终如一",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -658,7 +717,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "展厅漫游",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -668,7 +728,8 @@
                 "zoneIndex": 1,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "高速空降",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -678,7 +739,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "行动记录",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -688,7 +750,8 @@
                 "zoneIndex": 1,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "备战训练",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -698,7 +761,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "强敌当前",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -708,7 +772,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "种植地块",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -718,7 +783,8 @@
                 "zoneIndex": 1,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "荒城核心",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -728,7 +794,8 @@
                 "zoneIndex": 2,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "大江北岸",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -738,7 +805,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "城中调查",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -748,7 +816,8 @@
                 "zoneIndex": 1,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "关外追凶",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -758,7 +827,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "“下井”",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -768,7 +838,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "荒烟林沼",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -778,7 +849,8 @@
                 "zoneIndex": 1,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "记忆灰烬",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -788,7 +860,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "三号站台",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -798,7 +871,8 @@
                 "zoneIndex": 1,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "特快列车",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -808,7 +882,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "朝见双塔",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -818,7 +893,8 @@
                 "zoneIndex": 1,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "恩典永恒",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -828,7 +904,8 @@
                 "zoneIndex": 2,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "权威无情",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -838,7 +915,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "连阴雨季",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -848,7 +926,8 @@
                 "zoneIndex": 1,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "铳与秩序",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -858,7 +937,8 @@
                 "zoneIndex": 2,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "自诩荒野",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -868,7 +948,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "苍白平台",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -878,7 +959,8 @@
                 "zoneIndex": 1,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "黑色舰船",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -888,7 +970,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "地底观光",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -898,7 +981,8 @@
                 "zoneIndex": 1,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "文化冲击",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -908,7 +992,8 @@
                 "zoneIndex": 2,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "升降梯整备",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -918,7 +1003,8 @@
                 "zoneIndex": 3,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "表演赛道",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -928,7 +1014,8 @@
                 "zoneIndex": 4,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "终极赛道",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -938,7 +1025,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "强敌当前",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -948,7 +1036,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "温泉假日",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -958,7 +1047,8 @@
                 "zoneIndex": 1,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "城市寻宝",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -968,7 +1058,8 @@
                 "zoneIndex": 2,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "岩浆冲浪",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -978,7 +1069,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "实验基地",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -988,7 +1080,8 @@
                 "zoneIndex": 1,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "莱茵总部",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -998,7 +1091,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "冻原狩猎",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1008,7 +1102,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "安布罗修修道院",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1018,7 +1113,8 @@
                 "zoneIndex": 1,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "废弃圣堂",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1028,7 +1124,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "夕照大厅",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1038,7 +1135,8 @@
                 "zoneIndex": 1,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "小巷深处",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1048,7 +1146,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "未来将至",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1058,7 +1157,8 @@
                 "zoneIndex": 1,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "过往未尽",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1068,7 +1168,8 @@
                 "zoneIndex": 2,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "紧握当下",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1078,7 +1179,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "格兰法洛",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1088,7 +1190,8 @@
                 "zoneIndex": 1,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "失落旗舰",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1098,7 +1201,8 @@
                 "zoneIndex": 2,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "无名之海",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1108,7 +1212,8 @@
                 "zoneIndex": 3,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "蒙尘图册",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1118,7 +1223,8 @@
                 "zoneIndex": 4,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "镜前映像",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1128,7 +1234,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "苍暮山地",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1138,7 +1245,8 @@
                 "zoneIndex": 1,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "艾露猫的委托柜台",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1148,7 +1256,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "万国峰会",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1158,7 +1267,8 @@
                 "zoneIndex": 1,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "圣殿之路",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1168,7 +1278,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "仗剑何为",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1178,7 +1289,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "城中调查",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1188,7 +1300,8 @@
                 "zoneIndex": 1,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "关外追凶",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1198,7 +1311,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "三山奇闻",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1208,7 +1322,8 @@
                 "zoneIndex": 1,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "一十八峰",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1218,7 +1333,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "荒烟林沼",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1228,7 +1344,8 @@
                 "zoneIndex": 1,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "记忆灰烬",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1238,7 +1355,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "强敌当前",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1248,7 +1366,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "连阴雨季",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1258,7 +1377,8 @@
                 "zoneIndex": 1,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "铳与秩序",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1268,7 +1388,8 @@
                 "zoneIndex": 2,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "自诩荒野",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1278,7 +1399,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "雪山大典",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1288,7 +1410,8 @@
                 "zoneIndex": 1,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "圣猎",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1298,7 +1421,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "大骑士领",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1308,7 +1432,8 @@
                 "zoneIndex": 1,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "零号地块",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1318,7 +1443,8 @@
                 "zoneIndex": 2,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "城市霓虹",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1328,7 +1454,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "晚安，咪！",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1338,7 +1465,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "假日旅程",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1348,7 +1476,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "地底观光",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1358,7 +1487,8 @@
                 "zoneIndex": 1,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "文化冲击",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1368,7 +1498,8 @@
                 "zoneIndex": 2,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "升降梯整备",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1378,7 +1509,8 @@
                 "zoneIndex": 3,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "表演赛道",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1388,7 +1520,8 @@
                 "zoneIndex": 4,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "终极赛道",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1398,7 +1531,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "强敌当前",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1408,7 +1542,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "极限铁人大奖赛",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1418,7 +1553,8 @@
                 "zoneIndex": 1,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "赛后余波",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1428,7 +1564,8 @@
                 "zoneIndex": 2,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "暗流涌动",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1438,7 +1575,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "行动摘选",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1448,7 +1586,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "实验基地",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1458,7 +1597,8 @@
                 "zoneIndex": 1,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "莱茵总部",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1468,7 +1608,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "夕照大厅",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1478,7 +1619,8 @@
                 "zoneIndex": 1,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "小巷深处",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1488,7 +1630,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "荒败盐风",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1498,7 +1641,8 @@
                 "zoneIndex": 1,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "浪蚀哀墟",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1508,7 +1652,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "格兰法洛",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1518,7 +1663,8 @@
                 "zoneIndex": 1,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "失落旗舰",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1528,7 +1674,8 @@
                 "zoneIndex": 2,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "无名之海",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1538,7 +1685,8 @@
                 "zoneIndex": 3,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "蒙尘图册",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1548,7 +1696,8 @@
                 "zoneIndex": 4,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "镜前映像",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1558,7 +1707,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "漫漫独行",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1568,7 +1718,8 @@
                 "zoneIndex": 1,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "浩瀚之旅",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1578,7 +1729,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "万国峰会",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1588,7 +1740,8 @@
                 "zoneIndex": 1,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "圣殿之路",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1598,7 +1751,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "沸区",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1608,7 +1762,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "三山奇闻",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1618,7 +1773,8 @@
                 "zoneIndex": 1,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "一十八峰",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1628,7 +1784,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "入画",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1638,7 +1795,8 @@
                 "zoneIndex": 1,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "出画",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1648,7 +1806,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "雪山大典",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1658,7 +1817,8 @@
                 "zoneIndex": 1,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "圣猎",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1668,7 +1828,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "越狱计划",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1678,7 +1839,8 @@
                 "zoneIndex": 1,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "狱中生活",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1688,7 +1850,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "大骑士领",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1698,7 +1861,8 @@
                 "zoneIndex": 1,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "零号地块",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1708,7 +1872,8 @@
                 "zoneIndex": 2,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "城市霓虹",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1718,7 +1883,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "“林”中漫游",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1728,7 +1894,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "大竞技场",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1738,7 +1905,8 @@
                 "zoneIndex": 1,
                 "type": "ACTIVITY",
                 "zoneNameSecond": " 钳兽牢笼",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1748,7 +1916,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "极限铁人大奖赛",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1758,7 +1927,8 @@
                 "zoneIndex": 1,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "赛后余波",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1768,7 +1938,8 @@
                 "zoneIndex": 2,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "暗流涌动",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1778,7 +1949,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "大酋长之路",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1788,7 +1960,8 @@
                 "zoneIndex": 1,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "嘉维尔足迹",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1798,7 +1971,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "同我所历",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1808,7 +1982,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "始发营地",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1818,7 +1993,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "议事高塔",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1828,7 +2004,8 @@
                 "zoneIndex": 1,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "沉寂边陲",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1838,7 +2015,8 @@
                 "zoneIndex": 2,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "冬灵栈道",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1848,7 +2026,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "路线安排",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1858,7 +2037,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "荒败盐风",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1868,7 +2048,8 @@
                 "zoneIndex": 1,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "浪蚀哀墟",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1878,7 +2059,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "漫漫独行",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1888,7 +2070,8 @@
                 "zoneIndex": 1,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "浩瀚之旅",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1897,7 +2080,8 @@
                 "zoneID": "act17d7_zone1",
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1907,7 +2091,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "阵中往事",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1917,7 +2102,8 @@
                 "zoneIndex": 1,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "破败前线",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1927,7 +2113,8 @@
                 "zoneIndex": 2,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "战火回想",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1937,7 +2124,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "行动记录",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1947,7 +2135,8 @@
                 "zoneIndex": 1,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "备战训练",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1957,7 +2146,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "入画",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1967,7 +2157,8 @@
                 "zoneIndex": 1,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "出画",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1977,7 +2168,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "异地派遣",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1987,7 +2179,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "越狱计划",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -1997,7 +2190,8 @@
                 "zoneIndex": 1,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "狱中生活",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2007,7 +2201,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "下城区",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2017,7 +2212,8 @@
                 "zoneIndex": 1,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "东部郊区",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2027,7 +2223,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "大竞技场",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2037,7 +2234,8 @@
                 "zoneIndex": 1,
                 "type": "ACTIVITY",
                 "zoneNameSecond": " 钳兽牢笼",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2047,7 +2245,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "滴水村周边",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2057,7 +2256,8 @@
                 "zoneIndex": 1,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "宝藏之路",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2067,7 +2267,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "时光长河",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2077,7 +2278,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "大酋长之路",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2087,7 +2289,8 @@
                 "zoneIndex": 1,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "嘉维尔足迹",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2097,7 +2300,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "主舞台",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2107,7 +2311,8 @@
                 "zoneIndex": 1,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "嘉年华",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2117,7 +2322,8 @@
                 "zoneIndex": 2,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "额外节目",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2127,7 +2333,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "议事高塔",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2137,7 +2344,8 @@
                 "zoneIndex": 1,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "沉寂边陲",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2147,7 +2355,8 @@
                 "zoneIndex": 2,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "冬灵栈道",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2157,7 +2366,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "课程安排",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2167,7 +2377,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "阵中往事",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2177,7 +2388,8 @@
                 "zoneIndex": 1,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "破败前线",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2187,7 +2399,8 @@
                 "zoneIndex": 2,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "战火回想",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2197,7 +2410,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "下城区",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2207,7 +2421,8 @@
                 "zoneIndex": 1,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "东部郊区",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2217,7 +2432,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "主舞台",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2227,7 +2443,8 @@
                 "zoneIndex": 1,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "嘉年华",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2237,7 +2454,8 @@
                 "zoneIndex": 2,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "额外节目",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2247,7 +2465,8 @@
                 "zoneIndex": 0,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "滴水村周边",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2257,7 +2476,8 @@
                 "zoneIndex": 1,
                 "type": "ACTIVITY",
                 "zoneNameSecond": "宝藏之路",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2267,7 +2487,8 @@
                 "zoneIndex": 0,
                 "type": "BRANCHLINE",
                 "zoneNameSecond": "阵中往事",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2277,7 +2498,8 @@
                 "zoneIndex": 1,
                 "type": "BRANCHLINE",
                 "zoneNameSecond": "破败前线",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2287,7 +2509,8 @@
                 "zoneIndex": 2,
                 "type": "BRANCHLINE",
                 "zoneNameSecond": "战火回想",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2297,7 +2520,8 @@
                 "zoneIndex": 0,
                 "type": "BRANCHLINE",
                 "zoneNameSecond": "漫漫独行",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2307,7 +2531,8 @@
                 "zoneIndex": 1,
                 "type": "BRANCHLINE",
                 "zoneNameSecond": "浩瀚之旅",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2317,7 +2542,8 @@
                 "zoneIndex": 0,
                 "type": "BRANCHLINE",
                 "zoneNameSecond": "荒败盐风",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2327,7 +2553,8 @@
                 "zoneIndex": 1,
                 "type": "BRANCHLINE",
                 "zoneNameSecond": "浪蚀哀墟",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2337,7 +2564,8 @@
                 "zoneIndex": 0,
                 "type": "BRANCHLINE",
                 "zoneNameSecond": "格兰法洛",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2347,7 +2575,8 @@
                 "zoneIndex": 1,
                 "type": "BRANCHLINE",
                 "zoneNameSecond": "失落旗舰",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2357,7 +2586,8 @@
                 "zoneIndex": 2,
                 "type": "BRANCHLINE",
                 "zoneNameSecond": "无名之海",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2367,7 +2597,8 @@
                 "zoneIndex": 3,
                 "type": "BRANCHLINE",
                 "zoneNameSecond": "蒙尘图册",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2377,7 +2608,8 @@
                 "zoneIndex": 4,
                 "type": "BRANCHLINE",
                 "zoneNameSecond": "镜前映像",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2387,7 +2619,8 @@
                 "zoneIndex": 0,
                 "type": "BRANCHLINE",
                 "zoneNameSecond": "未来将至",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2397,7 +2630,8 @@
                 "zoneIndex": 1,
                 "type": "BRANCHLINE",
                 "zoneNameSecond": "过往未尽",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2407,7 +2641,8 @@
                 "zoneIndex": 2,
                 "type": "BRANCHLINE",
                 "zoneNameSecond": "紧握当下",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2417,7 +2652,8 @@
                 "zoneIndex": 0,
                 "type": "BRANCHLINE",
                 "zoneNameSecond": "我赠予未来",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2427,7 +2663,8 @@
                 "zoneIndex": 1,
                 "type": "BRANCHLINE",
                 "zoneNameSecond": "我驻留往昔",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2437,7 +2674,8 @@
                 "zoneIndex": 2,
                 "type": "BRANCHLINE",
                 "zoneNameSecond": "我始终如一",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2447,7 +2685,8 @@
                 "zoneIndex": 0,
                 "type": "SIDESTORY",
                 "zoneNameSecond": "滴水村周边",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2457,7 +2696,8 @@
                 "zoneIndex": 1,
                 "type": "SIDESTORY",
                 "zoneNameSecond": "宝藏之路",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2467,7 +2707,8 @@
                 "zoneIndex": 0,
                 "type": "SIDESTORY",
                 "zoneNameSecond": "主舞台",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2477,7 +2718,8 @@
                 "zoneIndex": 1,
                 "type": "SIDESTORY",
                 "zoneNameSecond": "嘉年华",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2487,7 +2729,8 @@
                 "zoneIndex": 2,
                 "type": "SIDESTORY",
                 "zoneNameSecond": "额外节目",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2497,7 +2740,8 @@
                 "zoneIndex": 0,
                 "type": "SIDESTORY",
                 "zoneNameSecond": "下城区",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2507,7 +2751,8 @@
                 "zoneIndex": 1,
                 "type": "SIDESTORY",
                 "zoneNameSecond": "东部郊区",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2517,7 +2762,8 @@
                 "zoneIndex": 0,
                 "type": "SIDESTORY",
                 "zoneNameSecond": "议事高塔",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2527,7 +2773,8 @@
                 "zoneIndex": 1,
                 "type": "SIDESTORY",
                 "zoneNameSecond": "沉寂边陲",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2537,7 +2784,8 @@
                 "zoneIndex": 2,
                 "type": "SIDESTORY",
                 "zoneNameSecond": "冬灵栈道",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2547,7 +2795,8 @@
                 "zoneIndex": 0,
                 "type": "SIDESTORY",
                 "zoneNameSecond": "大酋长之路",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2557,7 +2806,8 @@
                 "zoneIndex": 1,
                 "type": "SIDESTORY",
                 "zoneNameSecond": "嘉维尔足迹",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2567,7 +2817,8 @@
                 "zoneIndex": 0,
                 "type": "SIDESTORY",
                 "zoneNameSecond": "大竞技场",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2577,7 +2828,8 @@
                 "zoneIndex": 1,
                 "type": "SIDESTORY",
                 "zoneNameSecond": " 钳兽牢笼",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2587,7 +2839,8 @@
                 "zoneIndex": 0,
                 "type": "SIDESTORY",
                 "zoneNameSecond": "越狱计划",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2597,7 +2850,8 @@
                 "zoneIndex": 1,
                 "type": "SIDESTORY",
                 "zoneNameSecond": "狱中生活",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2607,7 +2861,8 @@
                 "zoneIndex": 0,
                 "type": "SIDESTORY",
                 "zoneNameSecond": "入画",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2617,7 +2872,8 @@
                 "zoneIndex": 1,
                 "type": "SIDESTORY",
                 "zoneNameSecond": "出画",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2627,7 +2883,8 @@
                 "zoneIndex": 0,
                 "type": "SIDESTORY",
                 "zoneNameSecond": "极限铁人大奖赛",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2637,7 +2894,8 @@
                 "zoneIndex": 1,
                 "type": "SIDESTORY",
                 "zoneNameSecond": "赛后余波",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2647,7 +2905,8 @@
                 "zoneIndex": 2,
                 "type": "SIDESTORY",
                 "zoneNameSecond": "暗流涌动",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2657,7 +2916,8 @@
                 "zoneIndex": 0,
                 "type": "SIDESTORY",
                 "zoneNameSecond": "大骑士领",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2667,7 +2927,8 @@
                 "zoneIndex": 1,
                 "type": "SIDESTORY",
                 "zoneNameSecond": "零号地块",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2677,7 +2938,8 @@
                 "zoneIndex": 2,
                 "type": "SIDESTORY",
                 "zoneNameSecond": "城市霓虹",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2687,7 +2949,8 @@
                 "zoneIndex": 0,
                 "type": "SIDESTORY",
                 "zoneNameSecond": "雪山大典",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2697,7 +2960,8 @@
                 "zoneIndex": 1,
                 "type": "SIDESTORY",
                 "zoneNameSecond": "圣猎",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2707,7 +2971,8 @@
                 "zoneIndex": 0,
                 "type": "SIDESTORY",
                 "zoneNameSecond": "三山奇闻",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2717,7 +2982,8 @@
                 "zoneIndex": 1,
                 "type": "SIDESTORY",
                 "zoneNameSecond": "一十八峰",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2727,7 +2993,8 @@
                 "zoneIndex": 0,
                 "type": "SIDESTORY",
                 "zoneNameSecond": "万国峰会",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2737,7 +3004,8 @@
                 "zoneIndex": 1,
                 "type": "SIDESTORY",
                 "zoneNameSecond": "圣殿之路",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2747,7 +3015,8 @@
                 "zoneIndex": 0,
                 "type": "SIDESTORY",
                 "zoneNameSecond": "夕照大厅",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2757,7 +3026,8 @@
                 "zoneIndex": 1,
                 "type": "SIDESTORY",
                 "zoneNameSecond": "小巷深处",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2767,7 +3037,8 @@
                 "zoneIndex": 0,
                 "type": "SIDESTORY",
                 "zoneNameSecond": "实验基地",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2777,7 +3048,8 @@
                 "zoneIndex": 1,
                 "type": "SIDESTORY",
                 "zoneNameSecond": "莱茵总部",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2787,7 +3059,8 @@
                 "zoneIndex": 0,
                 "type": "SIDESTORY",
                 "zoneNameSecond": "地底观光",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2797,7 +3070,8 @@
                 "zoneIndex": 1,
                 "type": "SIDESTORY",
                 "zoneNameSecond": "文化冲击",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2807,7 +3081,8 @@
                 "zoneIndex": 2,
                 "type": "SIDESTORY",
                 "zoneNameSecond": "升降梯整备",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2817,7 +3092,8 @@
                 "zoneIndex": 3,
                 "type": "SIDESTORY",
                 "zoneNameSecond": "表演赛道",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2827,7 +3103,8 @@
                 "zoneIndex": 4,
                 "type": "SIDESTORY",
                 "zoneNameSecond": "终极赛道",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2837,7 +3114,8 @@
                 "zoneIndex": 0,
                 "type": "SIDESTORY",
                 "zoneNameSecond": "连阴雨季",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2847,7 +3125,8 @@
                 "zoneIndex": 1,
                 "type": "SIDESTORY",
                 "zoneNameSecond": "铳与秩序",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2857,7 +3136,8 @@
                 "zoneIndex": 2,
                 "type": "SIDESTORY",
                 "zoneNameSecond": "自诩荒野",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2867,7 +3147,8 @@
                 "zoneIndex": 0,
                 "type": "SIDESTORY",
                 "zoneNameSecond": "荒烟林沼",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2877,7 +3158,8 @@
                 "zoneIndex": 1,
                 "type": "SIDESTORY",
                 "zoneNameSecond": "记忆灰烬",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2887,7 +3169,8 @@
                 "zoneIndex": 0,
                 "type": "SIDESTORY",
                 "zoneNameSecond": "城中调查",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -2897,7 +3180,8 @@
                 "zoneIndex": 1,
                 "type": "SIDESTORY",
                 "zoneNameSecond": "关外追凶",
-                "canPreview": false
+                "canPreview": false,
+                "hasAdditionalPanel": false
             }
         }
     ],

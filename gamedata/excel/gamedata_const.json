@@ -913,7 +913,7 @@
     "reMax": 100,
     "diamondToShdRate": 180,
     "requestSameFriendCD": 14400,
-    "baseMaxFriendNum": 15,
+    "baseMaxFriendNum": 65,
     "hardDiamondDrop": 1,
     "instFinDmdShdCost": 80,
     "easyCrystalBonus": 0,
@@ -1283,6 +1283,54 @@
             "value": "<color=#8F7156>{0}</color>"
         },
         {
+            "key": "ping.low",
+            "value": "<color=#7fa826>{0}</color>"
+        },
+        {
+            "key": "ping.medium",
+            "value": "<color=#ec7a00>{0}</color>"
+        },
+        {
+            "key": "ping.high",
+            "value": "<color=#ff3d3d>{0}</color>"
+        },
+        {
+            "key": "match.success",
+            "value": "<color=#36BBCC>{0}</color>"
+        },
+        {
+            "key": "map.normal",
+            "value": "<color=#36BBCC>{0}</color>"
+        },
+        {
+            "key": "map.football",
+            "value": "<color=#36BBCC>{0}</color>"
+        },
+        {
+            "key": "map.defence",
+            "value": "<color=#36BBCC>{0}</color>"
+        },
+        {
+            "key": "milestone",
+            "value": "<color=#D4133C>{0}</color>"
+        },
+        {
+            "key": "dm.award",
+            "value": "<color=#36BBCC>{0}</color>"
+        },
+        {
+            "key": "dm.condition",
+            "value": "<color=#C9C9C9>{0}</color>"
+        },
+        {
+            "key": "tutor",
+            "value": "<color=#36BBCC>{0}</color>"
+        },
+        {
+            "key": "lv.muitem",
+            "value": "<color=#D4133C>{0}</color>"
+        },
+        {
             "key": "ba.grt",
             "value": "<color=#FFAB27>{0}</color>"
         },
@@ -1330,7 +1378,7 @@
     "commonPotentialLvlUpCount": 4,
     "weeklyOverrideDesc": "",
     "voucherDiv": 5,
-    "recruitPoolVersion": 14,
+    "recruitPoolVersion": 15,
     "v006RecruitTimeStep1Refresh": 1577172600,
     "v006RecruitTimeStep2Check": 1577154600,
     "v006RecruitTimeStep2Flush": 1577649600,
@@ -1640,6 +1688,14 @@
             }
         },
         {
+            "key": "ba.elementfragile",
+            "value": {
+                "termId": "ba.elementfragile",
+                "termName": "元素脆弱",
+                "description": "受到的元素伤害提升相应比例（同名效果取最高）"
+            }
+        },
+        {
             "key": "ba.dying",
             "value": {
                 "termId": "ba.dying",
@@ -1932,7 +1988,15 @@
             "value": {
                 "termId": "cc.g.ussg",
                 "termName": "乌萨斯学生自治团",
-                "description": "包含以下干员\r\n早露、凛冬、真理、古米、烈夏"
+                "description": "包含以下干员\n早露、凛冬、真理、古米、烈夏"
+            }
+        },
+        {
+            "key": "cc.g.A1",
+            "value": {
+                "termId": "cc.g.A1",
+                "termName": "A1小队",
+                "description": "包含以下干员\n芙蓉、炎熔、米格鲁、芬、克洛丝"
             }
         },
         {
@@ -2100,7 +2164,7 @@
             "value": {
                 "termId": "cc.c.sui2_1",
                 "termName": "特殊比较规则",
-                "description": "与控制中枢内其他干员技能提供的<$cc.c.room2><@cc.kw>其他设施</></>每小时心情恢复值总和进行对比，取最高生效"
+                "description": "在<@cc.kw>公事公办</>，<@cc.kw>孤光共照</>，<@cc.kw>巴别塔之帜</>提供的<$cc.c.room2><@cc.kw>其他设施</></>每小时心情恢复值中取最高生效"
             }
         },
         {
@@ -2196,7 +2260,7 @@
             "value": {
                 "termId": "cc.tag.op",
                 "termName": "作业平台",
-                "description": "包含以下干员\nLancet-2、Castle-3、THRM-EX、正义骑士号、Friston-3"
+                "description": "包含以下干员\nLancet-2、Castle-3、THRM-EX、正义骑士号、Friston-3、PhonoR-0"
             }
         },
         {
@@ -2233,8 +2297,8 @@
         }
     ],
     "storyReviewUnlockItemLackTip": "事相碎片数量不足，请前往采购凭证区或活动期间商店获取",
-    "dataVersion": "49.6.0",
-    "resPrefVersion": "49d0d0",
+    "dataVersion": "50.0.0",
+    "resPrefVersion": "50d0d0",
     "announceWebBusType": "ak_announcement",
     "defaultMinContinuousBattleTimes": 1,
     "defaultMaxContinuousBattleTimes": 6,
