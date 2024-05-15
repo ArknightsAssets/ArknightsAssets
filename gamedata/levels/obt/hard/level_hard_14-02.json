@@ -973,6 +973,28 @@
         ]
     },
     "tilesDisallowToLocate": [],
+    "runes": [
+        {
+            "difficultyMask": "ALL",
+            "key": "enemy_attribute_mul",
+            "professionMask": 1023,
+            "buildableMask": "ALL",
+            "blackboard": [
+                {
+                    "key": "atk",
+                    "value": 1.2
+                },
+                {
+                    "key": "def",
+                    "value": 1.2
+                },
+                {
+                    "key": "max_hp",
+                    "value": 1.2
+                }
+            ]
+        }
+    ],
     "routes": [
         {
             "motionMode": "WALK",

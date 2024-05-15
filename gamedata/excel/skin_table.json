@@ -34462,6 +34462,206 @@
             }
         },
         {
+            "key": "trap_151_muruinw#1",
+            "value": {
+                "skinId": "trap_151_muruinw#1",
+                "charId": "trap_151_muruinw",
+                "illustId": "illust_trap_151_muruinw_1",
+                "avatarId": "trap_151_muruinw",
+                "portraitId": "trap_151_muruinw_1",
+                "buildingId": "",
+                "battleSkin": {
+                    "overwritePrefab": false
+                },
+                "isBuySkin": false,
+                "voiceType": "NONE",
+                "displaySkin": {
+                    "skinGroupId": "ILLUST_0",
+                    "skinGroupName": "默认服装",
+                    "skinGroupSortIndex": -50,
+                    "sortId": -3,
+                    "getTime": 0,
+                    "onYear": 0,
+                    "onPeriod": 0
+                }
+            }
+        },
+        {
+            "key": "trap_152_muruino#1",
+            "value": {
+                "skinId": "trap_152_muruino#1",
+                "charId": "trap_152_muruino",
+                "illustId": "illust_trap_152_muruino_1",
+                "avatarId": "trap_152_muruino",
+                "portraitId": "trap_152_muruino_1",
+                "buildingId": "",
+                "battleSkin": {
+                    "overwritePrefab": false
+                },
+                "isBuySkin": false,
+                "voiceType": "NONE",
+                "displaySkin": {
+                    "skinGroupId": "ILLUST_0",
+                    "skinGroupName": "默认服装",
+                    "skinGroupSortIndex": -50,
+                    "sortId": -3,
+                    "getTime": 0,
+                    "onYear": 0,
+                    "onPeriod": 0
+                }
+            }
+        },
+        {
+            "key": "trap_154_mugtps#1",
+            "value": {
+                "skinId": "trap_154_mugtps#1",
+                "charId": "trap_154_mugtps",
+                "illustId": "illust_trap_154_mugtps_1",
+                "avatarId": "trap_154_mugtps",
+                "portraitId": "trap_154_mugtps_1",
+                "buildingId": "",
+                "battleSkin": {
+                    "overwritePrefab": false
+                },
+                "isBuySkin": false,
+                "voiceType": "NONE",
+                "displaySkin": {
+                    "skinGroupId": "ILLUST_0",
+                    "skinGroupName": "默认服装",
+                    "skinGroupSortIndex": -50,
+                    "sortId": -3,
+                    "getTime": 0,
+                    "onYear": 0,
+                    "onPeriod": 0
+                }
+            }
+        },
+        {
+            "key": "trap_165_muftbl#1",
+            "value": {
+                "skinId": "trap_165_muftbl#1",
+                "charId": "trap_165_muftbl",
+                "illustId": "illust_trap_165_muftbl_1",
+                "avatarId": "trap_165_muftbl",
+                "portraitId": "trap_165_muftbl_1",
+                "buildingId": "",
+                "battleSkin": {
+                    "overwritePrefab": false
+                },
+                "isBuySkin": false,
+                "voiceType": "NONE",
+                "displaySkin": {
+                    "skinGroupId": "ILLUST_0",
+                    "skinGroupName": "默认服装",
+                    "skinGroupSortIndex": -50,
+                    "sortId": -3,
+                    "getTime": 0,
+                    "onYear": 0,
+                    "onPeriod": 0
+                }
+            }
+        },
+        {
+            "key": "trap_166_muwork#1",
+            "value": {
+                "skinId": "trap_166_muwork#1",
+                "charId": "trap_166_muwork",
+                "illustId": "illust_trap_166_muwork_1",
+                "avatarId": "trap_166_muwork",
+                "portraitId": "trap_166_muwork_1",
+                "buildingId": "",
+                "battleSkin": {
+                    "overwritePrefab": false
+                },
+                "isBuySkin": false,
+                "voiceType": "NONE",
+                "displaySkin": {
+                    "skinGroupId": "ILLUST_0",
+                    "skinGroupName": "默认服装",
+                    "skinGroupSortIndex": -50,
+                    "sortId": -3,
+                    "getTime": 0,
+                    "onYear": 0,
+                    "onPeriod": 0
+                }
+            }
+        },
+        {
+            "key": "trap_167_muruinf#1",
+            "value": {
+                "skinId": "trap_167_muruinf#1",
+                "charId": "trap_167_muruinf",
+                "illustId": "illust_trap_167_muruinf_1",
+                "avatarId": "trap_167_muruinf",
+                "portraitId": "trap_167_muruinf_1",
+                "buildingId": "",
+                "battleSkin": {
+                    "overwritePrefab": false
+                },
+                "isBuySkin": false,
+                "voiceType": "NONE",
+                "displaySkin": {
+                    "skinGroupId": "ILLUST_0",
+                    "skinGroupName": "默认服装",
+                    "skinGroupSortIndex": -50,
+                    "sortId": -3,
+                    "getTime": 0,
+                    "onYear": 0,
+                    "onPeriod": 0
+                }
+            }
+        },
+        {
+            "key": "trap_169_muruinb#1",
+            "value": {
+                "skinId": "trap_169_muruinb#1",
+                "charId": "trap_169_muruinb",
+                "illustId": "illust_trap_169_muruinb_1",
+                "avatarId": "trap_169_muruinb",
+                "portraitId": "trap_169_muruinb_1",
+                "buildingId": "",
+                "battleSkin": {
+                    "overwritePrefab": false
+                },
+                "isBuySkin": false,
+                "voiceType": "NONE",
+                "displaySkin": {
+                    "skinGroupId": "ILLUST_0",
+                    "skinGroupName": "默认服装",
+                    "skinGroupSortIndex": -50,
+                    "sortId": -3,
+                    "getTime": 0,
+                    "onYear": 0,
+                    "onPeriod": 0
+                }
+            }
+        },
+        {
+            "key": "trap_179_muctrl#1",
+            "value": {
+                "skinId": "trap_179_muctrl#1",
+                "charId": "trap_179_muctrl",
+                "illustId": "illust_trap_179_muctrl_1",
+                "avatarId": "trap_179_muctrl",
+                "portraitId": "trap_179_muctrl_1",
+                "buildingId": "",
+                "battleSkin": {
+                    "overwritePrefab": false
+                },
+                "isBuySkin": false,
+                "voiceType": "NONE",
+                "displaySkin": {
+                    "skinGroupId": "ILLUST_0",
+                    "skinGroupName": "默认服装",
+                    "skinGroupSortIndex": -50,
+                    "sortId": -3,
+                    "getTime": 0,
+                    "onYear": 0,
+                    "onPeriod": 0
+                }
+            }
+        },
+        {
             "key": "trap_158_lrsteam#1",
             "value": {
                 "skinId": "trap_158_lrsteam#1",
@@ -42797,6 +42997,53 @@
                     "getTime": 1711612800,
                     "onYear": 4,
                     "onPeriod": 27
+                }
+            }
+        },
+        {
+            "key": "char_376_therex@marthe#7",
+            "value": {
+                "skinId": "char_376_therex@marthe#7",
+                "charId": "char_376_therex",
+                "illustId": "illust_char_376_therex_marthe#7",
+                "avatarId": "char_376_therex_marthe#7",
+                "portraitId": "char_376_therex_marthe#7",
+                "buildingId": "char_376_therex_marthe#7",
+                "battleSkin": {
+                    "overwritePrefab": false,
+                    "skinOrPrefabId": "char_376_therex_marthe#7"
+                },
+                "isBuySkin": true,
+                "voiceType": "NONE",
+                "displaySkin": {
+                    "skinName": "双料四分卫",
+                    "colorList": [
+                        "#b52e1a",
+                        "#b52e1a",
+                        "#1977c7",
+                        "#616161",
+                        "#b52e1a",
+                        "",
+                        ""
+                    ],
+                    "titleList": [],
+                    "modelName": "Thermal-EX",
+                    "drawerList": [
+                        "Anisotropy"
+                    ],
+                    "skinGroupId": "2024#marthe#2",
+                    "skinGroupName": "玛尔特/VII",
+                    "skinGroupSortIndex": 85,
+                    "content": "<color name=#ffffff>MARTHE运动系列新款/双料四分卫。无论将这项运动传开的是谁，THRM-EX都成了它的忠实拥趸。他的队友......主要是其他作业平台。</color>",
+                    "dialog": "MARTHE运动系列新款/双料四分卫。无论将这项运动传开的是谁，THRM-EX都成了它的忠实拥趸。他的队友......主要是其他作业平台。",
+                    "usage": "THRM-EX的改装之一。",
+                    "description": "四分卫需要负责组织每一场进攻，但THRM-EX更喜欢持球冲锋！",
+                    "obtainApproach": "活动获得",
+                    "sortId": 169,
+                    "displayTagId": "活动获得",
+                    "getTime": 1715760000,
+                    "onYear": 5,
+                    "onPeriod": 2
                 }
             }
         },
@@ -57878,6 +58125,78 @@
             ]
         },
         {
+            "key": "trap_151_muruinw",
+            "value": [
+                {
+                    "key": 0,
+                    "value": "trap_151_muruinw#1"
+                }
+            ]
+        },
+        {
+            "key": "trap_152_muruino",
+            "value": [
+                {
+                    "key": 0,
+                    "value": "trap_152_muruino#1"
+                }
+            ]
+        },
+        {
+            "key": "trap_154_mugtps",
+            "value": [
+                {
+                    "key": 0,
+                    "value": "trap_154_mugtps#1"
+                }
+            ]
+        },
+        {
+            "key": "trap_165_muftbl",
+            "value": [
+                {
+                    "key": 0,
+                    "value": "trap_165_muftbl#1"
+                }
+            ]
+        },
+        {
+            "key": "trap_166_muwork",
+            "value": [
+                {
+                    "key": 0,
+                    "value": "trap_166_muwork#1"
+                }
+            ]
+        },
+        {
+            "key": "trap_167_muruinf",
+            "value": [
+                {
+                    "key": 0,
+                    "value": "trap_167_muruinf#1"
+                }
+            ]
+        },
+        {
+            "key": "trap_169_muruinb",
+            "value": [
+                {
+                    "key": 0,
+                    "value": "trap_169_muruinb#1"
+                }
+            ]
+        },
+        {
+            "key": "trap_179_muctrl",
+            "value": [
+                {
+                    "key": 0,
+                    "value": "trap_179_muctrl#1"
+                }
+            ]
+        },
+        {
             "key": "trap_158_lrsteam",
             "value": [
                 {
@@ -58450,6 +58769,10 @@
                 "brandId": "marthe",
                 "groupList": [
                     {
+                        "skinGroupId": "2024#marthe#2",
+                        "publishTime": 0
+                    },
+                    {
                         "skinGroupId": "2024#marthe",
                         "publishTime": 0
                     },
@@ -58479,7 +58802,7 @@
                 "brandCapitalName": "MARTHE",
                 "description": "全力以赴\n著名运动潮流品牌，卡兹戴尔著名设计师操刀，人气在各国运动服饰品牌市场中长盛不衰，特别受到乌萨斯目标人群的喜爱。旗下拥有众多子品牌，贴心迎合客户们复杂的实际需求。",
                 "publishTime": 0,
-                "sortId": 84
+                "sortId": 85
             }
         },
         {

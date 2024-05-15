@@ -14256,6 +14256,58 @@
             }
         },
         {
+            "key": "activities/act2vmulti/Guide/guide_act2vmulti_entry",
+            "value": {
+                "id": "activities/act2vmulti/Guide/guide_act2vmulti_entry",
+                "needCommit": true,
+                "repeatable": false,
+                "disabled": false,
+                "videoResource": false,
+                "trigger": {
+                    "type": "ACTIVITY_LOADED",
+                    "key": "act2vmulti",
+                    "useRegex": false
+                },
+                "condition": {
+                    "minProgress": -1,
+                    "maxProgress": -1,
+                    "minPlayerLevel": 1,
+                    "requiredFlags": [],
+                    "excludedFlags": [],
+                    "requiredStages": []
+                },
+                "setProgress": -1,
+                "setFlags": [],
+                "completedRewards": []
+            }
+        },
+        {
+            "key": "activities/act2vmulti/Guide/guide_act2vmulti_squad",
+            "value": {
+                "id": "activities/act2vmulti/Guide/guide_act2vmulti_squad",
+                "needCommit": true,
+                "repeatable": false,
+                "disabled": false,
+                "videoResource": false,
+                "trigger": {
+                    "type": "CUSTOM_OPERATION",
+                    "key": "act2vmulti_squad",
+                    "useRegex": false
+                },
+                "condition": {
+                    "minProgress": -1,
+                    "maxProgress": -1,
+                    "minPlayerLevel": 1,
+                    "requiredFlags": [],
+                    "excludedFlags": [],
+                    "requiredStages": []
+                },
+                "setProgress": -1,
+                "setFlags": [],
+                "completedRewards": []
+            }
+        },
+        {
             "key": "activities/act33side/level_act33side_st01",
             "value": {
                 "id": "activities/act33side/level_act33side_st01",

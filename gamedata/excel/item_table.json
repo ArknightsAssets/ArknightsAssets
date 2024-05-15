@@ -28156,6 +28156,24 @@
                 "stageDropList": [],
                 "buildingProductList": []
             }
+        },
+        {
+            "key": "act2vmulti_token_cap",
+            "value": {
+                "itemId": "act2vmulti_token_cap",
+                "name": "参赛纪念",
+                "description": "参赛纪念的累积代表了赛事热度的攀升，达到一定热度等级即可获取对应奖励",
+                "rarity": "TIER_5",
+                "iconId": "act2vmulti_token_cap",
+                "sortId": -10000,
+                "usage": "留在赛场上的是汗水，从赛场带走的是友谊",
+                "obtainApproach": "活动获得",
+                "hideInItemGet": false,
+                "classifyType": "NONE",
+                "itemType": "ACTIVITY_ITEM",
+                "stageDropList": [],
+                "buildingProductList": []
+            }
         }
     ],
     "expItems": [
@@ -33607,6 +33625,10 @@
         },
         {
             "key": "char_192_falco@marthe#6",
+            "value": 1
+        },
+        {
+            "key": "char_376_therex@marthe#7",
             "value": 1
         },
         {
