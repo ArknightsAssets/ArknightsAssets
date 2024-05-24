@@ -8530,6 +8530,271 @@
                 }
             },
             {
+                "key": "act25sre",
+                "value": {
+                    "pic": {
+                        "pics": [
+                            {
+                                "key": "act25side_pic_1",
+                                "value": {
+                                    "picId": "act25side_pic_1",
+                                    "picSortId": 1
+                                }
+                            },
+                            {
+                                "key": "act25side_pic_2",
+                                "value": {
+                                    "picId": "act25side_pic_2",
+                                    "picSortId": 2
+                                }
+                            },
+                            {
+                                "key": "act25side_pic_3",
+                                "value": {
+                                    "picId": "act25side_pic_3",
+                                    "picSortId": 3
+                                }
+                            },
+                            {
+                                "key": "act25side_pic_4",
+                                "value": {
+                                    "picId": "act25side_pic_4",
+                                    "picSortId": 4
+                                }
+                            },
+                            {
+                                "key": "act25side_pic_5",
+                                "value": {
+                                    "picId": "act25side_pic_5",
+                                    "picSortId": 5
+                                }
+                            },
+                            {
+                                "key": "act25side_pic_6",
+                                "value": {
+                                    "picId": "act25side_pic_6",
+                                    "picSortId": 6
+                                }
+                            },
+                            {
+                                "key": "act25side_pic_7",
+                                "value": {
+                                    "picId": "act25side_pic_7",
+                                    "picSortId": 7
+                                }
+                            },
+                            {
+                                "key": "act25side_pic_8",
+                                "value": {
+                                    "picId": "act25side_pic_8",
+                                    "picSortId": 8
+                                }
+                            },
+                            {
+                                "key": "act25side_pic_9",
+                                "value": {
+                                    "picId": "act25side_pic_9",
+                                    "picSortId": 9
+                                }
+                            },
+                            {
+                                "key": "act25side_pic_10",
+                                "value": {
+                                    "picId": "act25side_pic_10",
+                                    "picSortId": 10
+                                }
+                            },
+                            {
+                                "key": "act25side_pic_11",
+                                "value": {
+                                    "picId": "act25side_pic_11",
+                                    "picSortId": 11
+                                }
+                            },
+                            {
+                                "key": "act25side_pic_12",
+                                "value": {
+                                    "picId": "act25side_pic_12",
+                                    "picSortId": 12
+                                }
+                            },
+                            {
+                                "key": "act25side_pic_13",
+                                "value": {
+                                    "picId": "act25side_pic_13",
+                                    "picSortId": 13
+                                }
+                            },
+                            {
+                                "key": "act25side_pic_14",
+                                "value": {
+                                    "picId": "act25side_pic_14",
+                                    "picSortId": 14
+                                }
+                            },
+                            {
+                                "key": "act25side_pic_15",
+                                "value": {
+                                    "picId": "act25side_pic_15",
+                                    "picSortId": 15
+                                }
+                            },
+                            {
+                                "key": "act25side_pic_16",
+                                "value": {
+                                    "picId": "act25side_pic_16",
+                                    "picSortId": 16
+                                }
+                            },
+                            {
+                                "key": "act25side_pic_17",
+                                "value": {
+                                    "picId": "act25side_pic_17",
+                                    "picSortId": 17
+                                }
+                            },
+                            {
+                                "key": "act25side_pic_18",
+                                "value": {
+                                    "picId": "act25side_pic_18",
+                                    "picSortId": 18
+                                }
+                            },
+                            {
+                                "key": "act25side_pic_19",
+                                "value": {
+                                    "picId": "act25side_pic_19",
+                                    "picSortId": 19
+                                }
+                            },
+                            {
+                                "key": "act25side_pic_20",
+                                "value": {
+                                    "picId": "act25side_pic_20",
+                                    "picSortId": 20
+                                }
+                            },
+                            {
+                                "key": "act25side_pic_21",
+                                "value": {
+                                    "picId": "act25side_pic_21",
+                                    "picSortId": 21
+                                }
+                            },
+                            {
+                                "key": "act25side_pic_22",
+                                "value": {
+                                    "picId": "act25side_pic_22",
+                                    "picSortId": 22
+                                }
+                            },
+                            {
+                                "key": "act25side_pic_23",
+                                "value": {
+                                    "picId": "act25side_pic_23",
+                                    "picSortId": 23
+                                }
+                            },
+                            {
+                                "key": "act25side_pic_24",
+                                "value": {
+                                    "picId": "act25side_pic_24",
+                                    "picSortId": 24
+                                }
+                            }
+                        ]
+                    },
+                    "story": {
+                        "stories": [
+                            {
+                                "key": "act25side_file_1",
+                                "value": {
+                                    "storyId": "act25side_file_1",
+                                    "storySortId": 1
+                                }
+                            },
+                            {
+                                "key": "act25side_file_2",
+                                "value": {
+                                    "storyId": "act25side_file_2",
+                                    "storySortId": 2
+                                }
+                            },
+                            {
+                                "key": "act25side_file_3",
+                                "value": {
+                                    "storyId": "act25side_file_3",
+                                    "storySortId": 3
+                                }
+                            },
+                            {
+                                "key": "act25side_file_4",
+                                "value": {
+                                    "storyId": "act25side_file_4",
+                                    "storySortId": 4
+                                }
+                            },
+                            {
+                                "key": "act25side_file_5",
+                                "value": {
+                                    "storyId": "act25side_file_5",
+                                    "storySortId": 5
+                                }
+                            },
+                            {
+                                "key": "act25side_file_6",
+                                "value": {
+                                    "storyId": "act25side_file_6",
+                                    "storySortId": 6
+                                }
+                            },
+                            {
+                                "key": "act25side_file_7",
+                                "value": {
+                                    "storyId": "act25side_file_7",
+                                    "storySortId": 7
+                                }
+                            },
+                            {
+                                "key": "act25side_file_8",
+                                "value": {
+                                    "storyId": "act25side_file_8",
+                                    "storySortId": 8
+                                }
+                            },
+                            {
+                                "key": "act25side_file_9",
+                                "value": {
+                                    "storyId": "act25side_file_9",
+                                    "storySortId": 9
+                                }
+                            },
+                            {
+                                "key": "act25side_file_10",
+                                "value": {
+                                    "storyId": "act25side_file_10",
+                                    "storySortId": 10
+                                }
+                            },
+                            {
+                                "key": "act25side_file_11",
+                                "value": {
+                                    "storyId": "act25side_file_11",
+                                    "storySortId": 11
+                                }
+                            },
+                            {
+                                "key": "act25side_file_12",
+                                "value": {
+                                    "storyId": "act25side_file_12",
+                                    "storySortId": 12
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
                 "key": "act25side",
                 "value": {
                     "pic": {
