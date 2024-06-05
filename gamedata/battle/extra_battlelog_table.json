@@ -686,6 +686,16 @@
                     {
                         "sourceId": "char_140_whitew",
                         "enemyId": "enemy_1021_bslime"
+                    },
+                    {
+                        "sourceId": "char_4117_ray",
+                        "enemyLevelType": "BOSS",
+                        "logAlias": "char_4117_ray,BOSS,ELITE"
+                    },
+                    {
+                        "sourceId": "char_4117_ray",
+                        "enemyLevelType": "ELITE",
+                        "logAlias": "char_4117_ray,BOSS,ELITE"
                     }
                 ]
             }
