@@ -32727,6 +32727,14 @@
             "value": 1
         },
         {
+            "key": "furni_sanrio_cinnamoroll_01",
+            "value": 1
+        },
+        {
+            "key": "furni_sanrio_melody_01",
+            "value": 1
+        },
+        {
             "key": "furni_duanwu2024_01",
             "value": 1
         },
@@ -34508,6 +34516,18 @@
         },
         {
             "key": "char_4019_ncdeer@ncdeer#1",
+            "value": 1
+        },
+        {
+            "key": "char_322_lmlee@sanrio#1",
+            "value": 1
+        },
+        {
+            "key": "char_377_gdglow@sanrio#1",
+            "value": 1
+        },
+        {
+            "key": "char_4091_ulika@sanrio#1",
             "value": 1
         },
         {

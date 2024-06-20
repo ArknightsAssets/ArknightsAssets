@@ -195,7 +195,7 @@
                 "zoneNameThird": "EPISODE 10",
                 "lockedText": "完成上一章以解锁",
                 "canPreview": true,
-                "hasAdditionalPanel": false
+                "hasAdditionalPanel": true
             }
         },
         {
@@ -212,7 +212,7 @@
                 "zoneNameThird": "EPISODE 11",
                 "lockedText": "完成上一章以解锁",
                 "canPreview": true,
-                "hasAdditionalPanel": false
+                "hasAdditionalPanel": true
             }
         },
         {
@@ -229,7 +229,7 @@
                 "zoneNameThird": "EPISODE 12",
                 "lockedText": "完成上一章以解锁",
                 "canPreview": true,
-                "hasAdditionalPanel": false
+                "hasAdditionalPanel": true
             }
         },
         {
@@ -246,7 +246,24 @@
                 "zoneNameThird": "EPISODE 13",
                 "lockedText": "完成上一章以解锁",
                 "canPreview": true,
-                "hasAdditionalPanel": false
+                "hasAdditionalPanel": true
+            }
+        },
+        {
+            "key": "main_14",
+            "value": {
+                "zoneID": "main_14",
+                "zoneIndex": 5,
+                "type": "MAINLINE",
+                "zoneNameFirst": "第十四章",
+                "zoneNameSecond": "慈悲灯塔",
+                "zoneNameTitleCurrent": "14",
+                "zoneNameTitleUnCurrent": "14",
+                "zoneNameTitleEx": "EPISODE",
+                "zoneNameThird": "EPISODE 14",
+                "lockedText": "完成上一章以解锁",
+                "canPreview": true,
+                "hasAdditionalPanel": true
             }
         },
         {
@@ -673,6 +690,71 @@
                 "zoneID": "rogue_3",
                 "zoneIndex": 3,
                 "type": "ROGUELIKE",
+                "canPreview": false,
+                "hasAdditionalPanel": false
+            }
+        },
+        {
+            "key": "act34side_zone1",
+            "value": {
+                "zoneID": "act34side_zone1",
+                "zoneIndex": 0,
+                "type": "ACTIVITY",
+                "zoneNameSecond": "信标投放",
+                "canPreview": false,
+                "hasAdditionalPanel": false
+            }
+        },
+        {
+            "key": "act34side_zone2",
+            "value": {
+                "zoneID": "act34side_zone2",
+                "zoneIndex": 1,
+                "type": "ACTIVITY",
+                "zoneNameSecond": "防线巩固",
+                "canPreview": false,
+                "hasAdditionalPanel": false
+            }
+        },
+        {
+            "key": "act25sre_zone1",
+            "value": {
+                "zoneID": "act25sre_zone1",
+                "zoneIndex": 0,
+                "type": "ACTIVITY",
+                "zoneNameSecond": "未来将至",
+                "canPreview": false,
+                "hasAdditionalPanel": false
+            }
+        },
+        {
+            "key": "act25sre_zone2",
+            "value": {
+                "zoneID": "act25sre_zone2",
+                "zoneIndex": 1,
+                "type": "ACTIVITY",
+                "zoneNameSecond": "过往未尽",
+                "canPreview": false,
+                "hasAdditionalPanel": false
+            }
+        },
+        {
+            "key": "act25sre_zone3",
+            "value": {
+                "zoneID": "act25sre_zone3",
+                "zoneIndex": 2,
+                "type": "ACTIVITY",
+                "zoneNameSecond": "紧握当下",
+                "canPreview": false,
+                "hasAdditionalPanel": false
+            }
+        },
+        {
+            "key": "act2vmulti_zone1",
+            "value": {
+                "zoneID": "act2vmulti_zone1",
+                "zoneIndex": 0,
+                "type": "ACTIVITY",
                 "canPreview": false,
                 "hasAdditionalPanel": false
             }
@@ -3300,6 +3382,48 @@
     ],
     "zoneValidInfo": [
         {
+            "key": "act34side_zone1",
+            "value": {
+                "startTs": 1717560000,
+                "endTs": 1718740799
+            }
+        },
+        {
+            "key": "act34side_zone2",
+            "value": {
+                "startTs": 1718179200,
+                "endTs": 1718740799
+            }
+        },
+        {
+            "key": "act25sre_zone1",
+            "value": {
+                "startTs": 1716537600,
+                "endTs": 1717358399
+            }
+        },
+        {
+            "key": "act25sre_zone2",
+            "value": {
+                "startTs": 1716537600,
+                "endTs": 1717358399
+            }
+        },
+        {
+            "key": "act25sre_zone3",
+            "value": {
+                "startTs": 1716537600,
+                "endTs": 1717358399
+            }
+        },
+        {
+            "key": "act2vmulti_zone1",
+            "value": {
+                "startTs": 1715760000,
+                "endTs": 1716926399
+            }
+        },
+        {
             "key": "act33side_zone1",
             "value": {
                 "startTs": 1712808000,
@@ -4743,6 +4867,29 @@
                 "buttonStyle": "NONE",
                 "spoilAlert": false,
                 "zoneOpenTime": 1696737600,
+                "diffGroup": [
+                    "EASY",
+                    "NORMAL",
+                    "TOUGH"
+                ]
+            }
+        },
+        {
+            "key": "main_14",
+            "value": {
+                "zoneId": "main_14",
+                "chapterId": "chapter_2",
+                "preposedZoneId": "main_13",
+                "zoneIndex": 5,
+                "startStageId": "st_14-01",
+                "endStageId": "st_14-03",
+                "mainlneBgName": "mbg_chapter_2_6",
+                "recapId": "",
+                "recapPreStageId": "st_13-03",
+                "buttonName": "",
+                "buttonStyle": "NONE",
+                "spoilAlert": false,
+                "zoneOpenTime": 1714536000,
                 "diffGroup": [
                     "EASY",
                     "NORMAL",
