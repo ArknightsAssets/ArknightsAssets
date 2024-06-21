@@ -20,5 +20,6 @@ mv "${fbsdirectory}" "${savedir}"
 rm -r "/tmp/OpenArknightsFBS-${branch}"
 
 # mooncell flatbuffers unfortunately do not work
-apt-get -qq install -y flatbuffers-compiler openssl xxd
+apt-get -qq install -y openssl xxd
+chmod +x ./flatc
 chmod +x ./bsondump
