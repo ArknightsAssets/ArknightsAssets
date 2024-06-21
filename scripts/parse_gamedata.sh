@@ -34,7 +34,7 @@ decode_fbs() {
     mkdir -p "/var/tmp/fbsout"
 
     dd if=$1 bs=128 skip=1 of=$input 2>/dev/null
-    >/dev/null flatc -o "/var/tmp/fbsout" "$2" -- "$input" --json --strict-json --natural-utf8 --defaults-json --unknown-json --raw-binary --force-empty
+    >/dev/null ./flatc -o "/var/tmp/fbsout" "$2" -- "$input" --json --strict-json --natural-utf8 --defaults-json --unknown-json --raw-binary --force-empty
     cat "$output"
 }
 
