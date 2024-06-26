@@ -66,3 +66,5 @@ while IFS="," read -r path hash; do
     fi
 done < <(cat "${savedir}/hot_update_list.json" | jq -r -c '.abInfos[] | "\(.name),\(.hash)"')
 wait
+
+echo $(cat "${savedir}/hot_update_list.json" | jq -r ".versionId")
