@@ -18512,7 +18512,7 @@
                 "sortIndex": 9,
                 "rewards": [
                     {
-                        "type": "OPTIONAL_VOUCHER_PICK",
+                        "type": "EXTERMINATION_AGENT",
                         "id": "EXTERMINATION_AGENT",
                         "count": 1
                     }
@@ -18712,7 +18712,7 @@
                 "sortIndex": 9,
                 "rewards": [
                     {
-                        "type": "OPTIONAL_VOUCHER_PICK",
+                        "type": "EXTERMINATION_AGENT",
                         "id": "EXTERMINATION_AGENT",
                         "count": 1
                     }

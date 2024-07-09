@@ -2003,7 +2003,7 @@
                     },
                     {
                         "id": "EXTERMINATION_AGENT",
-                        "type": "OPTIONAL_VOUCHER_PICK",
+                        "type": "EXTERMINATION_AGENT",
                         "count": 1,
                         "sortId": 2
                     },
@@ -2211,7 +2211,7 @@
                         "rewardList": [
                             {
                                 "id": "classic_gacha",
-                                "type": "RETURN_PROGRESS",
+                                "type": "CLASSIC_TKT_GACHA",
                                 "count": 1,
                                 "sortId": 5
                             },
@@ -2319,7 +2319,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 1,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "4001",
@@ -2338,7 +2338,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 1,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "2003",
@@ -2357,7 +2357,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 2,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "4001",
@@ -2376,7 +2376,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 2,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "2003",
@@ -2395,7 +2395,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 2,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "4001",
@@ -2414,7 +2414,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 3,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "2003",
@@ -2433,7 +2433,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 3,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "4001",
@@ -2452,7 +2452,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 4,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "2003",
@@ -2471,7 +2471,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 5,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "4001",
@@ -2504,7 +2504,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 1,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "4001",
@@ -2523,7 +2523,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 1,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "2003",
@@ -2542,7 +2542,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 2,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "4001",
@@ -2561,7 +2561,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 2,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "2003",
@@ -2580,7 +2580,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 2,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "4001",
@@ -2599,7 +2599,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 3,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "2003",
@@ -2618,7 +2618,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 3,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "4001",
@@ -2637,7 +2637,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 4,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "2003",
@@ -2656,7 +2656,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 5,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "4001",
@@ -2689,7 +2689,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 1,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "4001",
@@ -2708,7 +2708,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 1,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "2003",
@@ -2727,7 +2727,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 2,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "4001",
@@ -2746,7 +2746,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 2,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "2003",
@@ -2765,7 +2765,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 2,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "4001",
@@ -2784,7 +2784,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 3,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "2003",
@@ -2803,7 +2803,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 3,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "4001",
@@ -2822,7 +2822,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 4,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "2003",
@@ -2841,7 +2841,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 5,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "4001",
@@ -2874,7 +2874,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 1,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "2004",
@@ -2894,7 +2894,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 3,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "2004",
@@ -2927,7 +2927,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 1,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "2004",
@@ -2947,7 +2947,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 3,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "2004",
@@ -2981,7 +2981,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 3,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "2004",
@@ -3014,7 +3014,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 2,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "mod_unlock_token",
@@ -3047,7 +3047,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 1,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "4001",
@@ -3066,7 +3066,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 1,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "2003",
@@ -3085,7 +3085,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 2,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "4001",
@@ -3104,7 +3104,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 2,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "2003",
@@ -3123,12 +3123,12 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 3,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "classic_gacha",
                                 "count": 1,
-                                "type": "RETURN_PROGRESS"
+                                "type": "CLASSIC_TKT_GACHA"
                             }
                         ]
                     }
@@ -3156,7 +3156,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 1,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "4001",
@@ -3175,7 +3175,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 1,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "2003",
@@ -3194,7 +3194,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 3,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "mod_unlock_token",
@@ -3227,7 +3227,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 1,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "4001",
@@ -3246,7 +3246,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 1,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "2004",
@@ -3265,7 +3265,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 1,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "30033",
@@ -3284,7 +3284,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 2,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "31033",
@@ -3303,7 +3303,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 2,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "30023",
@@ -3322,7 +3322,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 3,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "31063",
@@ -3355,7 +3355,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 1,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "4001",
@@ -3374,7 +3374,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 1,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "2004",
@@ -3393,7 +3393,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 1,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "30033",
@@ -3412,7 +3412,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 2,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "31033",
@@ -3431,7 +3431,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 2,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "30023",
@@ -3450,7 +3450,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 3,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "31063",
@@ -3483,7 +3483,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 1,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "4001",
@@ -3502,7 +3502,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 2,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "2003",
@@ -3521,7 +3521,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 2,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "3401",
@@ -3540,7 +3540,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 3,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "2004",
@@ -3559,7 +3559,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 3,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "4001",
@@ -3592,7 +3592,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 1,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "4001",
@@ -3611,7 +3611,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 1,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "2004",
@@ -3630,7 +3630,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 1,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "30033",
@@ -3649,7 +3649,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 2,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "31033",
@@ -3668,7 +3668,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 2,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "30023",
@@ -3687,7 +3687,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 3,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "31063",
@@ -3720,7 +3720,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 1,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "4001",
@@ -3739,7 +3739,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 1,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "2004",
@@ -3758,7 +3758,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 1,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "30033",
@@ -3777,7 +3777,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 2,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "31033",
@@ -3796,7 +3796,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 2,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "30023",
@@ -3815,7 +3815,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 3,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "31063",
@@ -3848,7 +3848,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 1,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "4001",
@@ -3867,7 +3867,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 1,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "2004",
@@ -3886,7 +3886,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 1,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "30033",
@@ -3905,7 +3905,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 2,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "31033",
@@ -3924,7 +3924,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 2,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "30023",
@@ -3943,7 +3943,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 3,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "31063",
@@ -3976,7 +3976,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 1,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "30013",
@@ -3995,7 +3995,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 1,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "30063",
@@ -4014,7 +4014,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 1,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "30053",
@@ -4033,7 +4033,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 1,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "30073",
@@ -4052,7 +4052,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 1,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "30103",
@@ -4071,7 +4071,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 2,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "31043",
@@ -4090,7 +4090,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 2,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "30043",
@@ -4109,7 +4109,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 2,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "30083",
@@ -4128,7 +4128,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 2,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "30093",
@@ -4147,7 +4147,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 2,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "31013",
@@ -4166,7 +4166,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 2,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "31023",
@@ -4185,7 +4185,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 2,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "31053",
@@ -4218,7 +4218,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 1,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "4001",
@@ -4237,7 +4237,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 1,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "4001",
@@ -4256,7 +4256,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 1,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "4001",
@@ -4275,7 +4275,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 1,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "4001",
@@ -4294,7 +4294,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 1,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "4001",
@@ -4313,7 +4313,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 1,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "4001",
@@ -4346,7 +4346,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 1,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "4001",
@@ -4365,7 +4365,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 1,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "4001",
@@ -4384,7 +4384,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 1,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "4001",
@@ -4403,7 +4403,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 1,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "4001",
@@ -4422,7 +4422,7 @@
                             {
                                 "id": "return_credit_token2",
                                 "count": 1,
-                                "type": "MEDAL"
+                                "type": "RETURN_CREDIT"
                             },
                             {
                                 "id": "4001",
@@ -4469,7 +4469,7 @@
                             },
                             {
                                 "id": "voucher_5chipPackage",
-                                "type": "ACT_CART_COMPONENT",
+                                "type": "OPTIONAL_VOUCHER_PICK",
                                 "count": 1,
                                 "sortId": 2
                             }
@@ -4571,7 +4571,7 @@
                             "itemBundle": {
                                 "id": "voucher_5chipPackage",
                                 "count": 1,
-                                "type": "ACT_CART_COMPONENT"
+                                "type": "OPTIONAL_VOUCHER_PICK"
                             }
                         }
                     ]

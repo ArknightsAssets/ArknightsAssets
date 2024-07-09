@@ -25954,7 +25954,7 @@
                         "monthlyCoin": {
                             "id": "sandbox_1_tokencoin",
                             "count": 2500,
-                            "type": 79
+                            "type": "SANDBOX_TOKEN"
                         },
                         "charRarityColorList": [
                             "cbcbcb",
@@ -61230,7 +61230,7 @@
                                         {
                                             "id": "sandbox_1_tokencoin",
                                             "count": 2500,
-                                            "type": 79
+                                            "type": "SANDBOX_TOKEN"
                                         },
                                         {
                                             "id": "30074",
@@ -61255,7 +61255,7 @@
                                         {
                                             "id": "sandbox_1_tokencoin",
                                             "count": 2500,
-                                            "type": 79
+                                            "type": "SANDBOX_TOKEN"
                                         },
                                         {
                                             "id": "3303",
@@ -61280,7 +61280,7 @@
                                         {
                                             "id": "sandbox_1_tokencoin",
                                             "count": 2500,
-                                            "type": 79
+                                            "type": "SANDBOX_TOKEN"
                                         },
                                         {
                                             "id": "30145",
@@ -61305,7 +61305,7 @@
                                         {
                                             "id": "sandbox_1_tokencoin",
                                             "count": 2500,
-                                            "type": 79
+                                            "type": "SANDBOX_TOKEN"
                                         },
                                         {
                                             "id": "mod_unlock_token",
@@ -61330,7 +61330,7 @@
                                         {
                                             "id": "sandbox_1_tokencoin",
                                             "count": 2500,
-                                            "type": 79
+                                            "type": "SANDBOX_TOKEN"
                                         },
                                         {
                                             "id": "32001",
@@ -61355,7 +61355,7 @@
                                         {
                                             "id": "sandbox_1_tokencoin",
                                             "count": 2500,
-                                            "type": 79
+                                            "type": "SANDBOX_TOKEN"
                                         },
                                         {
                                             "id": "4001",
