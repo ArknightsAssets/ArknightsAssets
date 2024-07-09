@@ -21855,21 +21855,21 @@
                                                 "branchId": "month_route1",
                                                 "count": 10,
                                                 "interval": 20,
-                                                "preDelay": 0
+                                                "preDelay": 1
                                             },
                                             {
                                                 "enemyKey": "enemy_1118_lidbox",
                                                 "branchId": "month_route2",
                                                 "count": 11,
                                                 "interval": 20,
-                                                "preDelay": 0
+                                                "preDelay": 3
                                             },
                                             {
                                                 "enemyKey": "enemy_1118_lidbox",
                                                 "branchId": "month_route3",
                                                 "count": 12,
                                                 "interval": 20,
-                                                "preDelay": 0
+                                                "preDelay": 2
                                             },
                                             {
                                                 "enemyKey": "enemy_1118_lidbox",
@@ -21883,28 +21883,28 @@
                                                 "branchId": "month_route5",
                                                 "count": 12,
                                                 "interval": 20,
-                                                "preDelay": 0
+                                                "preDelay": 1
                                             },
                                             {
                                                 "enemyKey": "enemy_1118_lidbox",
                                                 "branchId": "month_route6",
                                                 "count": 11,
                                                 "interval": 20,
-                                                "preDelay": 0
+                                                "preDelay": 2
                                             },
                                             {
                                                 "enemyKey": "enemy_1116_liprr_2",
                                                 "branchId": "month_route1",
                                                 "count": 18,
                                                 "interval": 11,
-                                                "preDelay": 180
+                                                "preDelay": 181
                                             },
                                             {
                                                 "enemyKey": "enemy_1116_liprr_2",
                                                 "branchId": "month_route2",
                                                 "count": 19,
                                                 "interval": 10,
-                                                "preDelay": 180
+                                                "preDelay": 179
                                             },
                                             {
                                                 "enemyKey": "enemy_1116_liprr_2",
@@ -21918,14 +21918,14 @@
                                                 "branchId": "month_route4",
                                                 "count": 18,
                                                 "interval": 10,
-                                                "preDelay": 180
+                                                "preDelay": 181
                                             },
                                             {
                                                 "enemyKey": "enemy_1116_liprr_2",
                                                 "branchId": "month_route5",
                                                 "count": 18,
                                                 "interval": 12,
-                                                "preDelay": 180
+                                                "preDelay": 179
                                             },
                                             {
                                                 "enemyKey": "enemy_1116_liprr_2",
@@ -21938,8 +21938,22 @@
                                                 "enemyKey": "enemy_1118_lidbox_2",
                                                 "branchId": "month_route_random",
                                                 "count": 13,
+                                                "interval": 31,
+                                                "preDelay": 29
+                                            },
+                                            {
+                                                "enemyKey": "enemy_1118_lidbox_2",
+                                                "branchId": "month_route_random",
+                                                "count": 13,
                                                 "interval": 30,
-                                                "preDelay": 30
+                                                "preDelay": 31
+                                            },
+                                            {
+                                                "enemyKey": "enemy_1118_lidbox_2",
+                                                "branchId": "month_route_random",
+                                                "count": 13,
+                                                "interval": 29,
+                                                "preDelay": 32
                                             },
                                             {
                                                 "enemyKey": "enemy_1118_lidbox_2",
@@ -21952,35 +21966,28 @@
                                                 "enemyKey": "enemy_1118_lidbox_2",
                                                 "branchId": "month_route_random",
                                                 "count": 13,
-                                                "interval": 30,
-                                                "preDelay": 30
+                                                "interval": 29,
+                                                "preDelay": 28
                                             },
                                             {
                                                 "enemyKey": "enemy_1118_lidbox_2",
                                                 "branchId": "month_route_random",
                                                 "count": 13,
-                                                "interval": 30,
-                                                "preDelay": 30
-                                            },
-                                            {
-                                                "enemyKey": "enemy_1118_lidbox_2",
-                                                "branchId": "month_route_random",
-                                                "count": 13,
-                                                "interval": 30,
-                                                "preDelay": 30
-                                            },
-                                            {
-                                                "enemyKey": "enemy_1118_lidbox_2",
-                                                "branchId": "month_route_random",
-                                                "count": 13,
-                                                "interval": 30,
-                                                "preDelay": 30
+                                                "interval": 31,
+                                                "preDelay": 27
                                             },
                                             {
                                                 "enemyKey": "enemy_1119_vofsd_2",
                                                 "branchId": "month_route_random",
                                                 "count": 2,
-                                                "interval": 90,
+                                                "interval": 91,
+                                                "preDelay": 61
+                                            },
+                                            {
+                                                "enemyKey": "enemy_1119_vofsd_2",
+                                                "branchId": "month_route_random",
+                                                "count": 2,
+                                                "interval": 89,
                                                 "preDelay": 60
                                             },
                                             {
@@ -21988,14 +21995,7 @@
                                                 "branchId": "month_route_random",
                                                 "count": 2,
                                                 "interval": 90,
-                                                "preDelay": 60
-                                            },
-                                            {
-                                                "enemyKey": "enemy_1119_vofsd_2",
-                                                "branchId": "month_route_random",
-                                                "count": 2,
-                                                "interval": 90,
-                                                "preDelay": 60
+                                                "preDelay": 59
                                             },
                                             {
                                                 "enemyKey": "enemy_1119_vofsd_2",
@@ -22091,15 +22091,15 @@
                                                 "enemyKey": "enemy_1192_krgscr_2",
                                                 "branchId": "month_route1",
                                                 "count": 11,
-                                                "interval": 30,
-                                                "preDelay": 60
+                                                "interval": 31,
+                                                "preDelay": 61
                                             },
                                             {
                                                 "enemyKey": "enemy_1192_krgscr_2",
                                                 "branchId": "month_route2",
                                                 "count": 11,
-                                                "interval": 30,
-                                                "preDelay": 60
+                                                "interval": 29,
+                                                "preDelay": 59
                                             },
                                             {
                                                 "enemyKey": "enemy_1192_krgscr_2",
@@ -22112,57 +22112,57 @@
                                                 "enemyKey": "enemy_1192_krgscr_2",
                                                 "branchId": "month_route4",
                                                 "count": 11,
-                                                "interval": 30,
-                                                "preDelay": 60
+                                                "interval": 31,
+                                                "preDelay": 61
                                             },
                                             {
                                                 "enemyKey": "enemy_1192_krgscr_2",
                                                 "branchId": "month_route5",
                                                 "count": 11,
                                                 "interval": 30,
-                                                "preDelay": 60
+                                                "preDelay": 59
                                             },
                                             {
                                                 "enemyKey": "enemy_1192_krgscr_2",
                                                 "branchId": "month_route6",
                                                 "count": 11,
-                                                "interval": 30,
+                                                "interval": 29,
                                                 "preDelay": 60
                                             },
                                             {
                                                 "enemyKey": "enemy_1192_krgscr_2",
                                                 "branchId": "month_route_random",
                                                 "count": 10,
-                                                "interval": 30,
+                                                "interval": 31,
                                                 "preDelay": 120
                                             },
                                             {
                                                 "enemyKey": "enemy_1192_krgscr_2",
                                                 "branchId": "month_route_random",
                                                 "count": 8,
-                                                "interval": 30,
-                                                "preDelay": 180
+                                                "interval": 32,
+                                                "preDelay": 181
                                             },
                                             {
                                                 "enemyKey": "enemy_1192_krgscr_2",
                                                 "branchId": "month_route_random",
                                                 "count": 8,
                                                 "interval": 30,
-                                                "preDelay": 180
+                                                "preDelay": 179
                                             },
                                             {
                                                 "enemyKey": "enemy_1192_krgscr_2",
                                                 "branchId": "month_route_random",
                                                 "count": 6,
-                                                "interval": 30,
-                                                "preDelay": 240
+                                                "interval": 29,
+                                                "preDelay": 241
                                             },
                                             {
                                                 "enemyKey": "enemy_1192_krgscr_2",
                                                 "branchId": "month_route_random",
                                                 "count": 6,
-                                                "interval": 30,
-                                                "preDelay": 240
+                                                "interval": 28,
+                                                "preDelay": 239
                                             },
                                             {
                                                 "enemyKey": "enemy_1191_krgrg_2",
@@ -22217,29 +22217,29 @@
                                                 "enemyKey": "enemy_1193_krgbsk_2",
                                                 "branchId": "month_route_random",
                                                 "count": 4,
-                                                "interval": 60,
+                                                "interval": 61,
                                                 "preDelay": 120
                                             },
                                             {
                                                 "enemyKey": "enemy_1193_krgbsk_2",
                                                 "branchId": "month_route_random",
                                                 "count": 4,
-                                                "interval": 60,
+                                                "interval": 59,
                                                 "preDelay": 120
                                             },
                                             {
                                                 "enemyKey": "enemy_1069_icebrk_2",
                                                 "branchId": "month_route_random",
                                                 "count": 3,
-                                                "interval": 80,
-                                                "preDelay": 120
+                                                "interval": 81,
+                                                "preDelay": 121
                                             },
                                             {
                                                 "enemyKey": "enemy_1069_icebrk_2",
                                                 "branchId": "month_route_random",
                                                 "count": 3,
-                                                "interval": 80,
-                                                "preDelay": 120
+                                                "interval": 79,
+                                                "preDelay": 119
                                             },
                                             {
                                                 "enemyKey": "enemy_1069_icebrk_2",
@@ -22252,22 +22252,22 @@
                                                 "enemyKey": "enemy_1069_icebrk_2",
                                                 "branchId": "month_route_random",
                                                 "count": 1,
-                                                "interval": 80,
-                                                "preDelay": 300
+                                                "interval": 81,
+                                                "preDelay": 301
                                             },
                                             {
                                                 "enemyKey": "enemy_1069_icebrk_2",
                                                 "branchId": "month_route_random",
                                                 "count": 1,
                                                 "interval": 80,
-                                                "preDelay": 320
+                                                "preDelay": 321
                                             },
                                             {
                                                 "enemyKey": "enemy_1069_icebrk_2",
                                                 "branchId": "month_route_random",
                                                 "count": 1,
-                                                "interval": 80,
-                                                "preDelay": 340
+                                                "interval": 79,
+                                                "preDelay": 341
                                             }
                                         ],
                                         "dynamicEnemy": []
@@ -25954,7 +25954,7 @@
                         "monthlyCoin": {
                             "id": "sandbox_1_tokencoin",
                             "count": 2500,
-                            "type": "SANDBOX_TOKEN"
+                            "type": 79
                         },
                         "charRarityColorList": [
                             "cbcbcb",
@@ -61230,7 +61230,7 @@
                                         {
                                             "id": "sandbox_1_tokencoin",
                                             "count": 2500,
-                                            "type": "SANDBOX_TOKEN"
+                                            "type": 79
                                         },
                                         {
                                             "id": "30074",
@@ -61255,7 +61255,7 @@
                                         {
                                             "id": "sandbox_1_tokencoin",
                                             "count": 2500,
-                                            "type": "SANDBOX_TOKEN"
+                                            "type": 79
                                         },
                                         {
                                             "id": "3303",
@@ -61280,7 +61280,7 @@
                                         {
                                             "id": "sandbox_1_tokencoin",
                                             "count": 2500,
-                                            "type": "SANDBOX_TOKEN"
+                                            "type": 79
                                         },
                                         {
                                             "id": "30145",
@@ -61305,7 +61305,7 @@
                                         {
                                             "id": "sandbox_1_tokencoin",
                                             "count": 2500,
-                                            "type": "SANDBOX_TOKEN"
+                                            "type": 79
                                         },
                                         {
                                             "id": "mod_unlock_token",
@@ -61330,7 +61330,7 @@
                                         {
                                             "id": "sandbox_1_tokencoin",
                                             "count": 2500,
-                                            "type": "SANDBOX_TOKEN"
+                                            "type": 79
                                         },
                                         {
                                             "id": "32001",
@@ -61355,7 +61355,7 @@
                                         {
                                             "id": "sandbox_1_tokencoin",
                                             "count": 2500,
-                                            "type": "SANDBOX_TOKEN"
+                                            "type": 79
                                         },
                                         {
                                             "id": "4001",

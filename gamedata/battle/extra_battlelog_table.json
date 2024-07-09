@@ -696,6 +696,10 @@
                         "sourceId": "char_4117_ray",
                         "enemyLevelType": "ELITE",
                         "logAlias": "char_4117_ray,BOSS,ELITE"
+                    },
+                    {
+                        "sourceId": "char_213_mostma",
+                        "enemyId": "enemy_1072_dlancer"
                     }
                 ]
             }

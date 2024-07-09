@@ -695,6 +695,17 @@
             }
         },
         {
+            "key": "act17mini_zone1",
+            "value": {
+                "zoneID": "act17mini_zone1",
+                "zoneIndex": 0,
+                "type": "ACTIVITY",
+                "zoneNameSecond": "走入城市",
+                "canPreview": false,
+                "hasAdditionalPanel": false
+            }
+        },
+        {
             "key": "act26sre_zone1",
             "value": {
                 "zoneID": "act26sre_zone1",
@@ -3426,6 +3437,13 @@
     ],
     "zoneValidInfo": [
         {
+            "key": "act17mini_zone1",
+            "value": {
+                "startTs": 1720497600,
+                "endTs": 1721073599
+            }
+        },
+        {
             "key": "act26sre_zone1",
             "value": {
                 "startTs": 1719302400,
@@ -5271,7 +5289,7 @@
                                     {
                                         "id": "avatar_activity_EP10_1",
                                         "count": 1,
-                                        "type": "PLAYER_AVATAR"
+                                        "type": "UNI_COLLECTION"
                                     },
                                     {
                                         "id": "30063",
@@ -5301,7 +5319,7 @@
                                     {
                                         "id": "avatar_activity_EP10_2",
                                         "count": 1,
-                                        "type": "PLAYER_AVATAR"
+                                        "type": "UNI_COLLECTION"
                                     },
                                     {
                                         "id": "31044",
@@ -5767,7 +5785,7 @@
                                     {
                                         "id": "avatar_activity_EP11",
                                         "count": 1,
-                                        "type": "PLAYER_AVATAR"
+                                        "type": "UNI_COLLECTION"
                                     },
                                     {
                                         "id": "furni_dropS022_hamlet_01",
@@ -5974,7 +5992,7 @@
                                     {
                                         "id": "Logistics_Special_Permit",
                                         "count": 2,
-                                        "type": "LIMITED_BUFF"
+                                        "type": "MCARD_VOUCHER"
                                     }
                                 ]
                             },
@@ -6047,7 +6065,7 @@
                                     {
                                         "id": "Logistics_Special_Permit",
                                         "count": 2,
-                                        "type": "LIMITED_BUFF"
+                                        "type": "MCARD_VOUCHER"
                                     }
                                 ]
                             },
@@ -6071,7 +6089,7 @@
                                     {
                                         "id": "Logistics_Special_Permit",
                                         "count": 2,
-                                        "type": "LIMITED_BUFF"
+                                        "type": "MCARD_VOUCHER"
                                     }
                                 ]
                             }
@@ -6130,7 +6148,7 @@
                                     {
                                         "id": "Logistics_Special_Permit",
                                         "count": 2,
-                                        "type": "LIMITED_BUFF"
+                                        "type": "MCARD_VOUCHER"
                                     }
                                 ]
                             },
@@ -6154,7 +6172,7 @@
                                     {
                                         "id": "Logistics_Special_Permit",
                                         "count": 2,
-                                        "type": "LIMITED_BUFF"
+                                        "type": "MCARD_VOUCHER"
                                     }
                                 ]
                             }
@@ -6213,7 +6231,7 @@
                                     {
                                         "id": "Logistics_Special_Permit",
                                         "count": 2,
-                                        "type": "LIMITED_BUFF"
+                                        "type": "MCARD_VOUCHER"
                                     }
                                 ]
                             },
@@ -6262,7 +6280,7 @@
                                     {
                                         "id": "avatar_activity_EP12",
                                         "count": 1,
-                                        "type": "PLAYER_AVATAR"
+                                        "type": "UNI_COLLECTION"
                                     },
                                     {
                                         "id": "30073",
@@ -6296,7 +6314,7 @@
                                     {
                                         "id": "Logistics_Special_Permit",
                                         "count": 2,
-                                        "type": "LIMITED_BUFF"
+                                        "type": "MCARD_VOUCHER"
                                     }
                                 ]
                             },
@@ -6320,7 +6338,7 @@
                                     {
                                         "id": "Logistics_Special_Permit",
                                         "count": 2,
-                                        "type": "LIMITED_BUFF"
+                                        "type": "MCARD_VOUCHER"
                                     }
                                 ]
                             }
@@ -6766,7 +6784,7 @@
                                     {
                                         "id": "avatar_activity_EP13",
                                         "count": 1,
-                                        "type": "PLAYER_AVATAR"
+                                        "type": "UNI_COLLECTION"
                                     },
                                     {
                                         "id": "30093",
