@@ -21855,21 +21855,21 @@
                                                 "branchId": "month_route1",
                                                 "count": 10,
                                                 "interval": 20,
-                                                "preDelay": 1
+                                                "preDelay": 0
                                             },
                                             {
                                                 "enemyKey": "enemy_1118_lidbox",
                                                 "branchId": "month_route2",
                                                 "count": 11,
                                                 "interval": 20,
-                                                "preDelay": 3
+                                                "preDelay": 0
                                             },
                                             {
                                                 "enemyKey": "enemy_1118_lidbox",
                                                 "branchId": "month_route3",
                                                 "count": 12,
                                                 "interval": 20,
-                                                "preDelay": 2
+                                                "preDelay": 0
                                             },
                                             {
                                                 "enemyKey": "enemy_1118_lidbox",
@@ -21883,28 +21883,28 @@
                                                 "branchId": "month_route5",
                                                 "count": 12,
                                                 "interval": 20,
-                                                "preDelay": 1
+                                                "preDelay": 0
                                             },
                                             {
                                                 "enemyKey": "enemy_1118_lidbox",
                                                 "branchId": "month_route6",
                                                 "count": 11,
                                                 "interval": 20,
-                                                "preDelay": 2
+                                                "preDelay": 0
                                             },
                                             {
                                                 "enemyKey": "enemy_1116_liprr_2",
                                                 "branchId": "month_route1",
                                                 "count": 18,
                                                 "interval": 11,
-                                                "preDelay": 181
+                                                "preDelay": 180
                                             },
                                             {
                                                 "enemyKey": "enemy_1116_liprr_2",
                                                 "branchId": "month_route2",
                                                 "count": 19,
                                                 "interval": 10,
-                                                "preDelay": 179
+                                                "preDelay": 180
                                             },
                                             {
                                                 "enemyKey": "enemy_1116_liprr_2",
@@ -21918,14 +21918,14 @@
                                                 "branchId": "month_route4",
                                                 "count": 18,
                                                 "interval": 10,
-                                                "preDelay": 181
+                                                "preDelay": 180
                                             },
                                             {
                                                 "enemyKey": "enemy_1116_liprr_2",
                                                 "branchId": "month_route5",
                                                 "count": 18,
                                                 "interval": 12,
-                                                "preDelay": 179
+                                                "preDelay": 180
                                             },
                                             {
                                                 "enemyKey": "enemy_1116_liprr_2",
@@ -21938,22 +21938,8 @@
                                                 "enemyKey": "enemy_1118_lidbox_2",
                                                 "branchId": "month_route_random",
                                                 "count": 13,
-                                                "interval": 31,
-                                                "preDelay": 29
-                                            },
-                                            {
-                                                "enemyKey": "enemy_1118_lidbox_2",
-                                                "branchId": "month_route_random",
-                                                "count": 13,
                                                 "interval": 30,
-                                                "preDelay": 31
-                                            },
-                                            {
-                                                "enemyKey": "enemy_1118_lidbox_2",
-                                                "branchId": "month_route_random",
-                                                "count": 13,
-                                                "interval": 29,
-                                                "preDelay": 32
+                                                "preDelay": 30
                                             },
                                             {
                                                 "enemyKey": "enemy_1118_lidbox_2",
@@ -21966,28 +21952,35 @@
                                                 "enemyKey": "enemy_1118_lidbox_2",
                                                 "branchId": "month_route_random",
                                                 "count": 13,
-                                                "interval": 29,
-                                                "preDelay": 28
+                                                "interval": 30,
+                                                "preDelay": 30
                                             },
                                             {
                                                 "enemyKey": "enemy_1118_lidbox_2",
                                                 "branchId": "month_route_random",
                                                 "count": 13,
-                                                "interval": 31,
-                                                "preDelay": 27
+                                                "interval": 30,
+                                                "preDelay": 30
+                                            },
+                                            {
+                                                "enemyKey": "enemy_1118_lidbox_2",
+                                                "branchId": "month_route_random",
+                                                "count": 13,
+                                                "interval": 30,
+                                                "preDelay": 30
+                                            },
+                                            {
+                                                "enemyKey": "enemy_1118_lidbox_2",
+                                                "branchId": "month_route_random",
+                                                "count": 13,
+                                                "interval": 30,
+                                                "preDelay": 30
                                             },
                                             {
                                                 "enemyKey": "enemy_1119_vofsd_2",
                                                 "branchId": "month_route_random",
                                                 "count": 2,
-                                                "interval": 91,
-                                                "preDelay": 61
-                                            },
-                                            {
-                                                "enemyKey": "enemy_1119_vofsd_2",
-                                                "branchId": "month_route_random",
-                                                "count": 2,
-                                                "interval": 89,
+                                                "interval": 90,
                                                 "preDelay": 60
                                             },
                                             {
@@ -21995,7 +21988,14 @@
                                                 "branchId": "month_route_random",
                                                 "count": 2,
                                                 "interval": 90,
-                                                "preDelay": 59
+                                                "preDelay": 60
+                                            },
+                                            {
+                                                "enemyKey": "enemy_1119_vofsd_2",
+                                                "branchId": "month_route_random",
+                                                "count": 2,
+                                                "interval": 90,
+                                                "preDelay": 60
                                             },
                                             {
                                                 "enemyKey": "enemy_1119_vofsd_2",
@@ -22091,15 +22091,15 @@
                                                 "enemyKey": "enemy_1192_krgscr_2",
                                                 "branchId": "month_route1",
                                                 "count": 11,
-                                                "interval": 31,
-                                                "preDelay": 61
+                                                "interval": 30,
+                                                "preDelay": 60
                                             },
                                             {
                                                 "enemyKey": "enemy_1192_krgscr_2",
                                                 "branchId": "month_route2",
                                                 "count": 11,
-                                                "interval": 29,
-                                                "preDelay": 59
+                                                "interval": 30,
+                                                "preDelay": 60
                                             },
                                             {
                                                 "enemyKey": "enemy_1192_krgscr_2",
@@ -22112,57 +22112,57 @@
                                                 "enemyKey": "enemy_1192_krgscr_2",
                                                 "branchId": "month_route4",
                                                 "count": 11,
-                                                "interval": 31,
-                                                "preDelay": 61
+                                                "interval": 30,
+                                                "preDelay": 60
                                             },
                                             {
                                                 "enemyKey": "enemy_1192_krgscr_2",
                                                 "branchId": "month_route5",
                                                 "count": 11,
                                                 "interval": 30,
-                                                "preDelay": 59
+                                                "preDelay": 60
                                             },
                                             {
                                                 "enemyKey": "enemy_1192_krgscr_2",
                                                 "branchId": "month_route6",
                                                 "count": 11,
-                                                "interval": 29,
+                                                "interval": 30,
                                                 "preDelay": 60
                                             },
                                             {
                                                 "enemyKey": "enemy_1192_krgscr_2",
                                                 "branchId": "month_route_random",
                                                 "count": 10,
-                                                "interval": 31,
+                                                "interval": 30,
                                                 "preDelay": 120
                                             },
                                             {
                                                 "enemyKey": "enemy_1192_krgscr_2",
                                                 "branchId": "month_route_random",
                                                 "count": 8,
-                                                "interval": 32,
-                                                "preDelay": 181
+                                                "interval": 30,
+                                                "preDelay": 180
                                             },
                                             {
                                                 "enemyKey": "enemy_1192_krgscr_2",
                                                 "branchId": "month_route_random",
                                                 "count": 8,
                                                 "interval": 30,
-                                                "preDelay": 179
+                                                "preDelay": 180
                                             },
                                             {
                                                 "enemyKey": "enemy_1192_krgscr_2",
                                                 "branchId": "month_route_random",
                                                 "count": 6,
-                                                "interval": 29,
-                                                "preDelay": 241
+                                                "interval": 30,
+                                                "preDelay": 240
                                             },
                                             {
                                                 "enemyKey": "enemy_1192_krgscr_2",
                                                 "branchId": "month_route_random",
                                                 "count": 6,
-                                                "interval": 28,
-                                                "preDelay": 239
+                                                "interval": 30,
+                                                "preDelay": 240
                                             },
                                             {
                                                 "enemyKey": "enemy_1191_krgrg_2",
@@ -22217,29 +22217,29 @@
                                                 "enemyKey": "enemy_1193_krgbsk_2",
                                                 "branchId": "month_route_random",
                                                 "count": 4,
-                                                "interval": 61,
+                                                "interval": 60,
                                                 "preDelay": 120
                                             },
                                             {
                                                 "enemyKey": "enemy_1193_krgbsk_2",
                                                 "branchId": "month_route_random",
                                                 "count": 4,
-                                                "interval": 59,
+                                                "interval": 60,
                                                 "preDelay": 120
                                             },
                                             {
                                                 "enemyKey": "enemy_1069_icebrk_2",
                                                 "branchId": "month_route_random",
                                                 "count": 3,
-                                                "interval": 81,
-                                                "preDelay": 121
+                                                "interval": 80,
+                                                "preDelay": 120
                                             },
                                             {
                                                 "enemyKey": "enemy_1069_icebrk_2",
                                                 "branchId": "month_route_random",
                                                 "count": 3,
-                                                "interval": 79,
-                                                "preDelay": 119
+                                                "interval": 80,
+                                                "preDelay": 120
                                             },
                                             {
                                                 "enemyKey": "enemy_1069_icebrk_2",
@@ -22252,22 +22252,22 @@
                                                 "enemyKey": "enemy_1069_icebrk_2",
                                                 "branchId": "month_route_random",
                                                 "count": 1,
-                                                "interval": 81,
-                                                "preDelay": 301
+                                                "interval": 80,
+                                                "preDelay": 300
                                             },
                                             {
                                                 "enemyKey": "enemy_1069_icebrk_2",
                                                 "branchId": "month_route_random",
                                                 "count": 1,
                                                 "interval": 80,
-                                                "preDelay": 321
+                                                "preDelay": 320
                                             },
                                             {
                                                 "enemyKey": "enemy_1069_icebrk_2",
                                                 "branchId": "month_route_random",
                                                 "count": 1,
-                                                "interval": 79,
-                                                "preDelay": 341
+                                                "interval": 80,
+                                                "preDelay": 340
                                             }
                                         ],
                                         "dynamicEnemy": []
@@ -25954,7 +25954,7 @@
                         "monthlyCoin": {
                             "id": "sandbox_1_tokencoin",
                             "count": 2500,
-                            "type": "SANDBOX_TOKEN"
+                            "type": "MCARD_VOUCHER"
                         },
                         "charRarityColorList": [
                             "cbcbcb",
@@ -35448,140 +35448,6 @@
                                             {
                                                 "key": "boom.atk_scale",
                                                 "value": 2
-                                            },
-                                            {
-                                                "key": "disable_in_sandbox_build",
-                                                "value": 1
-                                            }
-                                        ]
-                                    }
-                                ]
-                            }
-                        },
-                        {
-                            "key": "sandbox_1_monthly_4",
-                            "value": {
-                                "id": "sandbox_1_monthly_4",
-                                "points": 0,
-                                "description": "Boss生命值上升至200%",
-                                "runes": [
-                                    {
-                                        "key": "enemy_attribute_mul",
-                                        "selector": {
-                                            "professionMask": "NONE",
-                                            "buildableMask": "NONE",
-                                            "playerSideMask": "ALL"
-                                        },
-                                        "blackboard": [
-                                            {
-                                                "key": "enemy",
-                                                "value": 0,
-                                                "valueStr": "enemy_1525_blkswb"
-                                            },
-                                            {
-                                                "key": "max_hp",
-                                                "value": 2
-                                            },
-                                            {
-                                                "key": "disable_in_sandbox_build",
-                                                "value": 1
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "key": "enemy_attribute_mul",
-                                        "selector": {
-                                            "professionMask": "NONE",
-                                            "buildableMask": "NONE",
-                                            "playerSideMask": "ALL"
-                                        },
-                                        "blackboard": [
-                                            {
-                                                "key": "enemy",
-                                                "value": 0,
-                                                "valueStr": "enemy_1513_dekght"
-                                            },
-                                            {
-                                                "key": "max_hp",
-                                                "value": 2
-                                            },
-                                            {
-                                                "key": "disable_in_sandbox_build",
-                                                "value": 1
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "key": "enemy_attribute_mul",
-                                        "selector": {
-                                            "professionMask": "NONE",
-                                            "buildableMask": "NONE",
-                                            "playerSideMask": "ALL"
-                                        },
-                                        "blackboard": [
-                                            {
-                                                "key": "enemy",
-                                                "value": 0,
-                                                "valueStr": "enemy_1513_dekght_2"
-                                            },
-                                            {
-                                                "key": "max_hp",
-                                                "value": 2
-                                            },
-                                            {
-                                                "key": "disable_in_sandbox_build",
-                                                "value": 1
-                                            }
-                                        ]
-                                    }
-                                ]
-                            }
-                        },
-                        {
-                            "key": "sandbox_1_monthly_5",
-                            "value": {
-                                "id": "sandbox_1_monthly_5",
-                                "points": 0,
-                                "description": "敌人的攻击力增加+20%，寒冷、冰冻、晕眩、束缚、浮空、停顿的敌人受到伤害增加",
-                                "runes": [
-                                    {
-                                        "key": "enemy_attribute_mul",
-                                        "selector": {
-                                            "professionMask": "NONE",
-                                            "buildableMask": "NONE",
-                                            "playerSideMask": "ALL"
-                                        },
-                                        "blackboard": [
-                                            {
-                                                "key": "atk",
-                                                "value": 1.2
-                                            },
-                                            {
-                                                "key": "disable_in_sandbox_build",
-                                                "value": 1
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "key": "env_gbuff_new_with_verify",
-                                        "selector": {
-                                            "professionMask": "NONE",
-                                            "buildableMask": "NONE",
-                                            "playerSideMask": "ALL"
-                                        },
-                                        "blackboard": [
-                                            {
-                                                "key": "key",
-                                                "value": 0,
-                                                "valueStr": "legion_gasbot_buff[weak]"
-                                            },
-                                            {
-                                                "key": "damage_scale_frozen",
-                                                "value": 1.15
-                                            },
-                                            {
-                                                "key": "damage_scale_other",
-                                                "value": 1.15
                                             },
                                             {
                                                 "key": "disable_in_sandbox_build",
@@ -54326,88 +54192,6 @@
                                     "type": "GOLD"
                                 }
                             ]
-                        },
-                        {
-                            "monthlyRushId": "sandbox_1_challenge_04",
-                            "startTime": 1717185600,
-                            "endTime": 1719777599,
-                            "isLast": false,
-                            "sortId": 4,
-                            "rushGroupKey": "monthly_4",
-                            "monthlyRushName": "竞技巡回赛",
-                            "monthlyRushDes": "荒地上迎来了卡西米尔人的竞技巡回赛！但总是不可避免地发生斗殴，这也是竞技的一部分吗？",
-                            "weatherId": "weather_normal",
-                            "nodeId": "n12B9",
-                            "conditionGroup": "server_sandbox_1_monthly_4",
-                            "conditionDesc": "我方无额外增益\n锏、凋零骑士和腐败骑士的最大生命值上升",
-                            "rewardItemList": [
-                                {
-                                    "id": "mod_unlock_token",
-                                    "count": 1,
-                                    "type": "MATERIAL"
-                                },
-                                {
-                                    "id": "32001",
-                                    "count": 1,
-                                    "type": "MATERIAL"
-                                },
-                                {
-                                    "id": "2004",
-                                    "count": 20,
-                                    "type": "CARD_EXP"
-                                },
-                                {
-                                    "id": "3303",
-                                    "count": 20,
-                                    "type": "MATERIAL"
-                                },
-                                {
-                                    "id": "4001",
-                                    "count": 30000,
-                                    "type": "GOLD"
-                                }
-                            ]
-                        },
-                        {
-                            "monthlyRushId": "sandbox_1_challenge_05",
-                            "startTime": 1719777600,
-                            "endTime": 1722455999,
-                            "isLast": false,
-                            "sortId": 5,
-                            "rushGroupKey": "monthly_5",
-                            "monthlyRushName": "横冲直撞",
-                            "monthlyRushDes": "常有人问：在荒地上飙车体验如何？老实说，我回答不了这个问题，但我可以告诉你被撞是一种什么样的体验。",
-                            "weatherId": "weather_heat",
-                            "nodeId": "n12B9",
-                            "conditionGroup": "server_sandbox_1_monthly_5",
-                            "conditionDesc": "寒冷、冰冻、晕眩、束缚、浮空、停顿的敌人受到伤害增加\n敌人的攻击力提升",
-                            "rewardItemList": [
-                                {
-                                    "id": "mod_unlock_token",
-                                    "count": 1,
-                                    "type": "MATERIAL"
-                                },
-                                {
-                                    "id": "32001",
-                                    "count": 1,
-                                    "type": "MATERIAL"
-                                },
-                                {
-                                    "id": "2004",
-                                    "count": 20,
-                                    "type": "CARD_EXP"
-                                },
-                                {
-                                    "id": "3303",
-                                    "count": 20,
-                                    "type": "MATERIAL"
-                                },
-                                {
-                                    "id": "4001",
-                                    "count": 30000,
-                                    "type": "GOLD"
-                                }
-                            ]
                         }
                     ],
                     "riftTerrainParamData": [
@@ -61230,7 +61014,7 @@
                                         {
                                             "id": "sandbox_1_tokencoin",
                                             "count": 2500,
-                                            "type": "SANDBOX_TOKEN"
+                                            "type": "MCARD_VOUCHER"
                                         },
                                         {
                                             "id": "30074",
@@ -61255,7 +61039,7 @@
                                         {
                                             "id": "sandbox_1_tokencoin",
                                             "count": 2500,
-                                            "type": "SANDBOX_TOKEN"
+                                            "type": "MCARD_VOUCHER"
                                         },
                                         {
                                             "id": "3303",
@@ -61280,7 +61064,7 @@
                                         {
                                             "id": "sandbox_1_tokencoin",
                                             "count": 2500,
-                                            "type": "SANDBOX_TOKEN"
+                                            "type": "MCARD_VOUCHER"
                                         },
                                         {
                                             "id": "30145",
@@ -61305,7 +61089,7 @@
                                         {
                                             "id": "sandbox_1_tokencoin",
                                             "count": 2500,
-                                            "type": "SANDBOX_TOKEN"
+                                            "type": "MCARD_VOUCHER"
                                         },
                                         {
                                             "id": "mod_unlock_token",
@@ -61330,7 +61114,7 @@
                                         {
                                             "id": "sandbox_1_tokencoin",
                                             "count": 2500,
-                                            "type": "SANDBOX_TOKEN"
+                                            "type": "MCARD_VOUCHER"
                                         },
                                         {
                                             "id": "32001",
@@ -61355,7 +61139,7 @@
                                         {
                                             "id": "sandbox_1_tokencoin",
                                             "count": 2500,
-                                            "type": "SANDBOX_TOKEN"
+                                            "type": "MCARD_VOUCHER"
                                         },
                                         {
                                             "id": "4001",

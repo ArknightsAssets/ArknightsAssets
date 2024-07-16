@@ -695,6 +695,16 @@
             }
         },
         {
+            "key": "rogue_4",
+            "value": {
+                "zoneID": "rogue_4",
+                "zoneIndex": 4,
+                "type": "ROGUELIKE",
+                "canPreview": false,
+                "hasAdditionalPanel": false
+            }
+        },
+        {
             "key": "act17mini_zone1",
             "value": {
                 "zoneID": "act17mini_zone1",

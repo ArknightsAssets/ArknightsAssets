@@ -47268,6 +47268,14 @@
                 "subProfessionName": "撼地者",
                 "subProfessionCatagory": 66
             }
+        },
+        {
+            "key": "alchemist",
+            "value": {
+                "subProfessionId": "alchemist",
+                "subProfessionName": "炼金师",
+                "subProfessionCatagory": 67
+            }
         }
     ],
     "charEquip": [

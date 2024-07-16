@@ -17798,6 +17798,24 @@
             }
         },
         {
+            "key": "p_char_4151_tinman",
+            "value": {
+                "itemId": "p_char_4151_tinman",
+                "name": "锡人的信物",
+                "description": "一枚平平无奇的螺母。你反复比对它和锡人，试图搞清楚它是从哪个部位卸下来的。",
+                "rarity": "TIER_5",
+                "iconId": "p_char_4151_tinman",
+                "sortId": 700149,
+                "usage": "用于提升锡人的潜能。",
+                "obtainApproach": "干员入职的馈赠",
+                "hideInItemGet": false,
+                "classifyType": "MATERIAL",
+                "itemType": "MATERIAL",
+                "stageDropList": [],
+                "buildingProductList": []
+            }
+        },
+        {
             "key": "p_char_103_angel",
             "value": {
                 "itemId": "p_char_103_angel",
@@ -28645,6 +28663,38 @@
                         "occPer": "ALWAYS"
                     }
                 ],
+                "buildingProductList": []
+            }
+        },
+        {
+            "key": "rogue_4_token_bp",
+            "value": {
+                "itemId": "rogue_4_token_bp",
+                "name": "魂灵书签",
+                "rarity": "TIER_5",
+                "iconId": "rogue_4_token_bp",
+                "sortId": -10000,
+                "obtainApproach": "在集成战略模式中获得",
+                "hideInItemGet": false,
+                "classifyType": "NONE",
+                "itemType": "RL_COIN",
+                "stageDropList": [],
+                "buildingProductList": []
+            }
+        },
+        {
+            "key": "rogue_4_token_grow",
+            "value": {
+                "itemId": "rogue_4_token_grow",
+                "name": "散佚迷思",
+                "rarity": "TIER_5",
+                "iconId": "rogue_4_token_grow",
+                "sortId": -10000,
+                "obtainApproach": "在集成战略模式中获得",
+                "hideInItemGet": false,
+                "classifyType": "NONE",
+                "itemType": "RL_COIN",
+                "stageDropList": [],
                 "buildingProductList": []
             }
         },
