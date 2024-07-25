@@ -13,7 +13,7 @@
         "maxPlayTime": 180,
         "functionDisableMask": "NONE"
     },
-    "bgmEvent": "rl4special",
+    "bgmEvent": "rl4normal2",
     "mapData": {
         "map": {
             "row_size": 6,

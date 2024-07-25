@@ -2431,6 +2431,24 @@
             }
         },
         {
+            "key": "voucher_skill_specialLevelMax_6",
+            "value": {
+                "itemId": "voucher_skill_specialLevelMax_6",
+                "name": "高级资深干员技巧集",
+                "description": "全面详实地记载了专家级技艺的集录，干员经过学习操练，可以快速积累经验，达到专家级的认定标准。",
+                "rarity": "TIER_5",
+                "iconId": "voucher_skill_specialLevelMax_6",
+                "sortId": 50022,
+                "usage": "只限高级资深干员使用，能将1个技能直接提升至专精3级。",
+                "obtainApproach": "采购中心、活动获得",
+                "hideInItemGet": false,
+                "classifyType": "CONSUME",
+                "itemType": "VOUCHER_SKILL_SPECIALLEVELMAX_6",
+                "stageDropList": [],
+                "buildingProductList": []
+            }
+        },
+        {
             "key": "voucher_skill_specialLevelMax_5",
             "value": {
                 "itemId": "voucher_skill_specialLevelMax_5",
@@ -33655,6 +33673,10 @@
         },
         {
             "key": "furni_animation_frostnovaDevice_01",
+            "value": 1
+        },
+        {
+            "key": "furni_sandbox_station_01",
             "value": 1
         },
         {
