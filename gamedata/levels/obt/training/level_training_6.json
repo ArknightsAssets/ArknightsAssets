@@ -798,6 +798,30 @@
         {
             "motionMode": "WALK",
             "startPosition": {
+                "row": 3,
+                "col": 8
+            },
+            "endPosition": {
+                "row": 3,
+                "col": 0
+            },
+            "spawnRandomRange": {
+                "x": 0,
+                "y": 0
+            },
+            "spawnOffset": {
+                "x": 0,
+                "y": 0
+            },
+            "checkpoints": [],
+            "allowDiagonalMove": true,
+            "visitEveryTileCenter": false,
+            "visitEveryNodeCenter": false,
+            "visitEveryCheckPoint": false
+        },
+        {
+            "motionMode": "WALK",
+            "startPosition": {
                 "row": 4,
                 "col": 8
             },
@@ -1098,11 +1122,11 @@
                     "preDelay": 6,
                     "actions": [
                         {
-                            "actionType": "SPAWN",
+                            "actionType": "PLAY_OPERA",
                             "managedByScheduler": true,
-                            "key": "enemy_1007_slime_2",
+                            "key": "effect_warning_fullscreen",
                             "count": 5,
-                            "preDelay": 3,
+                            "preDelay": 1.5,
                             "interval": 4,
                             "routeIndex": 9,
                             "blockFragment": false,
@@ -1120,7 +1144,7 @@
                             "managedByScheduler": true,
                             "key": "enemy_1007_slime_2",
                             "count": 5,
-                            "preDelay": 4,
+                            "preDelay": 3,
                             "interval": 4,
                             "routeIndex": 10,
                             "blockFragment": false,
@@ -1138,9 +1162,27 @@
                             "managedByScheduler": true,
                             "key": "enemy_1007_slime_2",
                             "count": 5,
-                            "preDelay": 5,
+                            "preDelay": 4,
                             "interval": 4,
                             "routeIndex": 11,
+                            "blockFragment": false,
+                            "autoPreviewRoute": true,
+                            "autoDisplayEnemyInfo": false,
+                            "isUnharmfulAndAlwaysCountAsKilled": false,
+                            "randomType": "ALWAYS",
+                            "refreshType": "ALWAYS",
+                            "weight": 0,
+                            "dontBlockWave": false,
+                            "isValid": false
+                        },
+                        {
+                            "actionType": "SPAWN",
+                            "managedByScheduler": true,
+                            "key": "enemy_1007_slime_2",
+                            "count": 5,
+                            "preDelay": 5,
+                            "interval": 4,
+                            "routeIndex": 12,
                             "blockFragment": false,
                             "autoPreviewRoute": true,
                             "autoDisplayEnemyInfo": false,
@@ -1205,5 +1247,6 @@
         ],
         "tokenCards": []
     },
-    "randomSeed": 795215981
+    "randomSeed": 795215981,
+    "operaConfig": "common_guide"
 }

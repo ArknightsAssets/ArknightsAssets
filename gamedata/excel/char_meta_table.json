@@ -1011,6 +1011,12 @@
             ]
         },
         {
+            "key": "char_4140_lasher",
+            "value": [
+                "char_4140_lasher"
+            ]
+        },
+        {
             "key": "char_108_silent",
             "value": [
                 "char_108_silent",
@@ -1081,6 +1087,12 @@
             "key": "char_4071_peper",
             "value": [
                 "char_4071_peper"
+            ]
+        },
+        {
+            "key": "char_4139_papyrs",
+            "value": [
+                "char_4139_papyrs"
             ]
         },
         {
@@ -1506,6 +1518,12 @@
             ]
         },
         {
+            "key": "char_4138_narant",
+            "value": [
+                "char_4138_narant"
+            ]
+        },
+        {
             "key": "char_112_siege",
             "value": [
                 "char_112_siege"
@@ -1852,6 +1870,12 @@
             "key": "char_4145_ulpia",
             "value": [
                 "char_4145_ulpia"
+            ]
+        },
+        {
+            "key": "char_4058_pepe",
+            "value": [
+                "char_4058_pepe"
             ]
         },
         {

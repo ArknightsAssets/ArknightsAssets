@@ -705,6 +705,39 @@
             }
         },
         {
+            "key": "act35side_zone1",
+            "value": {
+                "zoneID": "act35side_zone1",
+                "zoneIndex": 0,
+                "type": "ACTIVITY",
+                "zoneNameSecond": "市民花园",
+                "canPreview": false,
+                "hasAdditionalPanel": false
+            }
+        },
+        {
+            "key": "act35side_zone2",
+            "value": {
+                "zoneID": "act35side_zone2",
+                "zoneIndex": 1,
+                "type": "ACTIVITY",
+                "zoneNameSecond": "丰获集会",
+                "canPreview": false,
+                "hasAdditionalPanel": false
+            }
+        },
+        {
+            "key": "act35side_zone3",
+            "value": {
+                "zoneID": "act35side_zone3",
+                "zoneIndex": 2,
+                "type": "ACTIVITY",
+                "zoneNameSecond": "藏珍宝库",
+                "canPreview": false,
+                "hasAdditionalPanel": false
+            }
+        },
+        {
             "key": "act17mini_zone1",
             "value": {
                 "zoneID": "act17mini_zone1",
@@ -3446,6 +3479,27 @@
         }
     ],
     "zoneValidInfo": [
+        {
+            "key": "act35side_zone1",
+            "value": {
+                "startTs": 1722484800,
+                "endTs": 1724270399
+            }
+        },
+        {
+            "key": "act35side_zone2",
+            "value": {
+                "startTs": 1723104000,
+                "endTs": 1724270399
+            }
+        },
+        {
+            "key": "act35side_zone3",
+            "value": {
+                "startTs": 1723708800,
+                "endTs": 1724270399
+            }
+        },
         {
             "key": "act17mini_zone1",
             "value": {

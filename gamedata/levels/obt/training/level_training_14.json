@@ -13,7 +13,7 @@
         "maxPlayTime": -1,
         "functionDisableMask": "NONE"
     },
-    "bgmEvent": "indust",
+    "bgmEvent": "indust_remix",
     "mapData": {
         "map": {
             "row_size": 7,

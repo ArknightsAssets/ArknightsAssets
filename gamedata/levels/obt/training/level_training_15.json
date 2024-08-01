@@ -13,7 +13,7 @@
         "maxPlayTime": -1,
         "functionDisableMask": "NONE"
     },
-    "bgmEvent": "indust",
+    "bgmEvent": "indust_remix",
     "mapData": {
         "map": {
             "row_size": 7,
@@ -697,6 +697,30 @@
             "visitEveryTileCenter": false,
             "visitEveryNodeCenter": false,
             "visitEveryCheckPoint": false
+        },
+        {
+            "motionMode": "WALK",
+            "startPosition": {
+                "row": 1,
+                "col": 0
+            },
+            "endPosition": {
+                "row": 1,
+                "col": 8
+            },
+            "spawnRandomRange": {
+                "x": 0,
+                "y": 0
+            },
+            "spawnOffset": {
+                "x": 0,
+                "y": 0
+            },
+            "checkpoints": [],
+            "allowDiagonalMove": true,
+            "visitEveryTileCenter": false,
+            "visitEveryNodeCenter": false,
+            "visitEveryCheckPoint": false
         }
     ],
     "extraRoutes": [],
@@ -966,11 +990,11 @@
                     "preDelay": 10,
                     "actions": [
                         {
-                            "actionType": "SPAWN",
+                            "actionType": "PLAY_OPERA",
                             "managedByScheduler": true,
-                            "key": "enemy_1029_shdsbr",
+                            "key": "effect_warning_fullscreen",
                             "count": 1,
-                            "preDelay": 3,
+                            "preDelay": 0,
                             "interval": 1,
                             "routeIndex": 4,
                             "blockFragment": false,
@@ -988,9 +1012,27 @@
                             "managedByScheduler": true,
                             "key": "enemy_1029_shdsbr",
                             "count": 1,
-                            "preDelay": 8,
+                            "preDelay": 3,
                             "interval": 1,
                             "routeIndex": 5,
+                            "blockFragment": false,
+                            "autoPreviewRoute": true,
+                            "autoDisplayEnemyInfo": false,
+                            "isUnharmfulAndAlwaysCountAsKilled": false,
+                            "randomType": "ALWAYS",
+                            "refreshType": "ALWAYS",
+                            "weight": 0,
+                            "dontBlockWave": false,
+                            "isValid": false
+                        },
+                        {
+                            "actionType": "SPAWN",
+                            "managedByScheduler": true,
+                            "key": "enemy_1029_shdsbr",
+                            "count": 1,
+                            "preDelay": 8,
+                            "interval": 1,
+                            "routeIndex": 6,
                             "blockFragment": false,
                             "autoPreviewRoute": false,
                             "autoDisplayEnemyInfo": false,
@@ -1008,7 +1050,7 @@
                             "count": 2,
                             "preDelay": 20,
                             "interval": 5,
-                            "routeIndex": 6,
+                            "routeIndex": 7,
                             "blockFragment": false,
                             "autoPreviewRoute": false,
                             "autoDisplayEnemyInfo": false,
@@ -1103,5 +1145,6 @@
         ],
         "tokenCards": []
     },
-    "randomSeed": 461962328
+    "randomSeed": 461962328,
+    "operaConfig": "common_guide"
 }

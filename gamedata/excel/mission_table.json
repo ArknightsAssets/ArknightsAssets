@@ -17975,6 +17975,46 @@
             }
         },
         {
+            "key": "daily_g_52",
+            "value": {
+                "id": "daily_g_52",
+                "type": "DAILY",
+                "missionIds": [],
+                "startTs": -1,
+                "endTs": -1
+            }
+        },
+        {
+            "key": "daily_g_53",
+            "value": {
+                "id": "daily_g_53",
+                "type": "DAILY",
+                "missionIds": [],
+                "startTs": -1,
+                "endTs": -1
+            }
+        },
+        {
+            "key": "daily_g_54",
+            "value": {
+                "id": "daily_g_54",
+                "type": "DAILY",
+                "missionIds": [],
+                "startTs": -1,
+                "endTs": -1
+            }
+        },
+        {
+            "key": "daily_g_55",
+            "value": {
+                "id": "daily_g_55",
+                "type": "DAILY",
+                "missionIds": [],
+                "startTs": -1,
+                "endTs": -1
+            }
+        },
+        {
             "key": "weekly_g_7",
             "value": {
                 "id": "weekly_g_7",
@@ -19353,7 +19393,7 @@
         },
         {
             "startTime": 1651435200,
-            "endTime": 1916078399,
+            "endTime": 1724356799,
             "periodList": [
                 {
                     "missionGroupId": "daily_g_50",
@@ -19369,6 +19409,58 @@
                 {
                     "missionGroupId": "daily_g_51",
                     "rewardGroupId": "reward_daily_g_51",
+                    "period": [
+                        6,
+                        7
+                    ]
+                }
+            ]
+        },
+        {
+            "startTime": 1724356800,
+            "endTime": 1725134399,
+            "tagState": "",
+            "periodList": [
+                {
+                    "missionGroupId": "daily_g_1",
+                    "rewardGroupId": "reward_daily_g_1",
+                    "period": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "missionGroupId": "daily_g_1",
+                    "rewardGroupId": "reward_daily_g_1",
+                    "period": [
+                        6,
+                        7
+                    ]
+                }
+            ]
+        },
+        {
+            "startTime": 1725134400,
+            "endTime": 1916078399,
+            "tagState": "",
+            "periodList": [
+                {
+                    "missionGroupId": "daily_g_1",
+                    "rewardGroupId": "reward_daily_g_1",
+                    "period": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "missionGroupId": "daily_g_1",
+                    "rewardGroupId": "reward_daily_g_1",
                     "period": [
                         6,
                         7
@@ -19404,5 +19496,75 @@
     ],
     "crossAppShareMissionConst": {
         "nameCardShareMissionId": "namecardshare"
-    }
+    },
+    "guideMissionGroupInfo": [
+        {
+            "key": "guide_g_1",
+            "value": {
+                "groupId": "guide_g_1",
+                "sortId": 1,
+                "shortName": "第一阶段"
+            }
+        },
+        {
+            "key": "guide_g_2",
+            "value": {
+                "groupId": "guide_g_2",
+                "sortId": 2,
+                "shortName": "第二阶段"
+            }
+        },
+        {
+            "key": "guide_g_3",
+            "value": {
+                "groupId": "guide_g_3",
+                "sortId": 3,
+                "shortName": "第三阶段"
+            }
+        },
+        {
+            "key": "guide_g_4",
+            "value": {
+                "groupId": "guide_g_4",
+                "sortId": 4,
+                "shortName": "第四阶段",
+                "unlockDesc": "通关主线1-8"
+            }
+        },
+        {
+            "key": "guide_g_5",
+            "value": {
+                "groupId": "guide_g_5",
+                "sortId": 5,
+                "shortName": "第五阶段",
+                "unlockDesc": "通关主线2-8"
+            }
+        },
+        {
+            "key": "guide_g_6",
+            "value": {
+                "groupId": "guide_g_6",
+                "sortId": 6,
+                "shortName": "第六阶段",
+                "unlockDesc": "通关主线3-4"
+            }
+        },
+        {
+            "key": "guide_g_7",
+            "value": {
+                "groupId": "guide_g_7",
+                "sortId": 7,
+                "shortName": "第七阶段",
+                "unlockDesc": "通关主线4-4"
+            }
+        },
+        {
+            "key": "guide_g_8",
+            "value": {
+                "groupId": "guide_g_8",
+                "sortId": 8,
+                "shortName": "第八阶段"
+            }
+        }
+    ]
 }
