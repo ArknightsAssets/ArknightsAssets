@@ -532,6 +532,14 @@
         ]
     },
     "tilesDisallowToLocate": [],
+    "globalBuffs": [
+        {
+            "prefabKey": "night_map_default",
+            "passProfessionMaskFlag": false,
+            "professionMask": "NONE",
+            "useExtraData": false
+        }
+    ],
     "routes": [
         {
             "motionMode": "WALK",
