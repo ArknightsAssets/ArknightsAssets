@@ -625,6 +625,26 @@
             }
         },
         {
+            "key": "tower_n_15",
+            "value": {
+                "zoneID": "tower_n_15",
+                "zoneIndex": 0,
+                "type": "CLIMB_TOWER",
+                "canPreview": false,
+                "hasAdditionalPanel": false
+            }
+        },
+        {
+            "key": "tower_n_16",
+            "value": {
+                "zoneID": "tower_n_16",
+                "zoneIndex": 0,
+                "type": "CLIMB_TOWER",
+                "canPreview": false,
+                "hasAdditionalPanel": false
+            }
+        },
+        {
             "key": "tower_n_01",
             "value": {
                 "zoneID": "tower_n_01",
