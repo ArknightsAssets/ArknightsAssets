@@ -3135,7 +3135,7 @@
                     "m_defined": false
                 },
                 "description": {
-                    "m_defined": true,
+                    "m_defined": false,
                     "m_value": "飞导弹打最近，生发条技师"
                 },
                 "prefabKey": {
@@ -3297,7 +3297,7 @@
                     "m_defined": false
                 },
                 "description": {
-                    "m_defined": true,
+                    "m_defined": false,
                     "m_value": "会自爆带眩晕"
                 },
                 "prefabKey": {
