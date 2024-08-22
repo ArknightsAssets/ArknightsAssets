@@ -495,6 +495,16 @@
             }
         },
         {
+            "key": "camp_zone_13",
+            "value": {
+                "zoneID": "camp_zone_13",
+                "zoneIndex": 0,
+                "type": "CAMPAIGN",
+                "canPreview": false,
+                "hasAdditionalPanel": false
+            }
+        },
+        {
             "key": "tower_tr_01",
             "value": {
                 "zoneID": "tower_tr_01",
@@ -720,6 +730,39 @@
                 "zoneID": "rogue_4",
                 "zoneIndex": 4,
                 "type": "ROGUELIKE",
+                "canPreview": false,
+                "hasAdditionalPanel": false
+            }
+        },
+        {
+            "key": "act27sre_zone1",
+            "value": {
+                "zoneID": "act27sre_zone1",
+                "zoneIndex": 0,
+                "type": "ACTIVITY",
+                "zoneNameSecond": "温泉假日",
+                "canPreview": false,
+                "hasAdditionalPanel": false
+            }
+        },
+        {
+            "key": "act27sre_zone2",
+            "value": {
+                "zoneID": "act27sre_zone2",
+                "zoneIndex": 1,
+                "type": "ACTIVITY",
+                "zoneNameSecond": "城市寻宝",
+                "canPreview": false,
+                "hasAdditionalPanel": false
+            }
+        },
+        {
+            "key": "act27sre_zone3",
+            "value": {
+                "zoneID": "act27sre_zone3",
+                "zoneIndex": 2,
+                "type": "ACTIVITY",
+                "zoneNameSecond": "岩浆冲浪",
                 "canPreview": false,
                 "hasAdditionalPanel": false
             }
@@ -3383,6 +3426,39 @@
                 "canPreview": false,
                 "hasAdditionalPanel": false
             }
+        },
+        {
+            "key": "permanent_sidestory_17_zone1",
+            "value": {
+                "zoneID": "permanent_sidestory_17_zone1",
+                "zoneIndex": 0,
+                "type": "SIDESTORY",
+                "zoneNameSecond": "温泉假日",
+                "canPreview": false,
+                "hasAdditionalPanel": false
+            }
+        },
+        {
+            "key": "permanent_sidestory_17_zone2",
+            "value": {
+                "zoneID": "permanent_sidestory_17_zone2",
+                "zoneIndex": 1,
+                "type": "SIDESTORY",
+                "zoneNameSecond": "城市寻宝",
+                "canPreview": false,
+                "hasAdditionalPanel": false
+            }
+        },
+        {
+            "key": "permanent_sidestory_17_zone3",
+            "value": {
+                "zoneID": "permanent_sidestory_17_zone3",
+                "zoneIndex": 2,
+                "type": "SIDESTORY",
+                "zoneNameSecond": "岩浆冲浪",
+                "canPreview": false,
+                "hasAdditionalPanel": false
+            }
         }
     ],
     "weeklyAdditionInfo": [
@@ -3499,6 +3575,27 @@
         }
     ],
     "zoneValidInfo": [
+        {
+            "key": "act27sre_zone1",
+            "value": {
+                "startTs": 1724313600,
+                "endTs": 1725134399
+            }
+        },
+        {
+            "key": "act27sre_zone2",
+            "value": {
+                "startTs": 1724313600,
+                "endTs": 1725134399
+            }
+        },
+        {
+            "key": "act27sre_zone3",
+            "value": {
+                "startTs": 1724313600,
+                "endTs": 1725134399
+            }
+        },
         {
             "key": "act35side_zone1",
             "value": {

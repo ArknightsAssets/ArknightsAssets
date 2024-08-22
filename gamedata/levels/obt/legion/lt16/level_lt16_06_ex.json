@@ -6036,7 +6036,7 @@
         },
         {
             "preDelay": 0,
-            "postDelay": 15,
+            "postDelay": -1,
             "maxTimeWaitingForNextWave": 20,
             "fragments": [
                 {

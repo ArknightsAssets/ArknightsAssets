@@ -36408,6 +36408,656 @@
             }
         },
         {
+            "key": "trap_493_xbabal#1",
+            "value": {
+                "skinId": "trap_493_xbabal#1",
+                "charId": "trap_493_xbabal",
+                "illustId": "illust_trap_493_xbabal_1",
+                "avatarId": "trap_493_xbabal",
+                "portraitId": "trap_493_xbabal_1",
+                "buildingId": "",
+                "battleSkin": {
+                    "overwritePrefab": false
+                },
+                "isBuySkin": false,
+                "voiceType": "NONE",
+                "displaySkin": {
+                    "skinGroupId": "ILLUST_0",
+                    "skinGroupName": "默认服装",
+                    "skinGroupSortIndex": -50,
+                    "sortId": -3,
+                    "getTime": 0,
+                    "onYear": 0,
+                    "onPeriod": 0
+                }
+            }
+        },
+        {
+            "key": "trap_494_xbasky#1",
+            "value": {
+                "skinId": "trap_494_xbasky#1",
+                "charId": "trap_494_xbasky",
+                "illustId": "illust_trap_494_xbasky_1",
+                "avatarId": "trap_494_xbasky",
+                "portraitId": "trap_494_xbasky_1",
+                "buildingId": "",
+                "battleSkin": {
+                    "overwritePrefab": false
+                },
+                "isBuySkin": false,
+                "voiceType": "NONE",
+                "displaySkin": {
+                    "skinGroupId": "ILLUST_0",
+                    "skinGroupName": "默认服装",
+                    "skinGroupSortIndex": -50,
+                    "sortId": -3,
+                    "getTime": 0,
+                    "onYear": 0,
+                    "onPeriod": 0
+                }
+            }
+        },
+        {
+            "key": "trap_499_xbaask#1",
+            "value": {
+                "skinId": "trap_499_xbaask#1",
+                "charId": "trap_499_xbaask",
+                "illustId": "illust_trap_499_xbaask_1",
+                "avatarId": "trap_499_xbaask",
+                "portraitId": "trap_499_xbaask_1",
+                "buildingId": "",
+                "battleSkin": {
+                    "overwritePrefab": false
+                },
+                "isBuySkin": false,
+                "voiceType": "NONE",
+                "displaySkin": {
+                    "skinGroupId": "ILLUST_0",
+                    "skinGroupName": "默认服装",
+                    "skinGroupSortIndex": -50,
+                    "sortId": -3,
+                    "getTime": 0,
+                    "onYear": 0,
+                    "onPeriod": 0
+                }
+            }
+        },
+        {
+            "key": "trap_495_xbasmi#1",
+            "value": {
+                "skinId": "trap_495_xbasmi#1",
+                "charId": "trap_495_xbasmi",
+                "illustId": "illust_trap_495_xbasmi_1",
+                "avatarId": "trap_495_xbasmi",
+                "portraitId": "trap_495_xbasmi_1",
+                "buildingId": "",
+                "battleSkin": {
+                    "overwritePrefab": false
+                },
+                "isBuySkin": false,
+                "voiceType": "NONE",
+                "displaySkin": {
+                    "skinGroupId": "ILLUST_0",
+                    "skinGroupName": "默认服装",
+                    "skinGroupSortIndex": -50,
+                    "sortId": -3,
+                    "getTime": 0,
+                    "onYear": 0,
+                    "onPeriod": 0
+                }
+            }
+        },
+        {
+            "key": "trap_496_xbaasm#1",
+            "value": {
+                "skinId": "trap_496_xbaasm#1",
+                "charId": "trap_496_xbaasm",
+                "illustId": "illust_trap_496_xbaasm_1",
+                "avatarId": "trap_496_xbaasm",
+                "portraitId": "trap_496_xbaasm_1",
+                "buildingId": "",
+                "battleSkin": {
+                    "overwritePrefab": false
+                },
+                "isBuySkin": false,
+                "voiceType": "NONE",
+                "displaySkin": {
+                    "skinGroupId": "ILLUST_0",
+                    "skinGroupName": "默认服装",
+                    "skinGroupSortIndex": -50,
+                    "sortId": -3,
+                    "getTime": 0,
+                    "onYear": 0,
+                    "onPeriod": 0
+                }
+            }
+        },
+        {
+            "key": "trap_497_xbarok#1",
+            "value": {
+                "skinId": "trap_497_xbarok#1",
+                "charId": "trap_497_xbarok",
+                "illustId": "illust_trap_497_xbarok_1",
+                "avatarId": "trap_497_xbarok",
+                "portraitId": "trap_497_xbarok_1",
+                "buildingId": "",
+                "battleSkin": {
+                    "overwritePrefab": false
+                },
+                "isBuySkin": false,
+                "voiceType": "NONE",
+                "displaySkin": {
+                    "skinGroupId": "ILLUST_0",
+                    "skinGroupName": "默认服装",
+                    "skinGroupSortIndex": -50,
+                    "sortId": -3,
+                    "getTime": 0,
+                    "onYear": 0,
+                    "onPeriod": 0
+                }
+            }
+        },
+        {
+            "key": "trap_498_xbaaro#1",
+            "value": {
+                "skinId": "trap_498_xbaaro#1",
+                "charId": "trap_498_xbaaro",
+                "illustId": "illust_trap_498_xbaaro_1",
+                "avatarId": "trap_498_xbaaro",
+                "portraitId": "trap_498_xbaaro_1",
+                "buildingId": "",
+                "battleSkin": {
+                    "overwritePrefab": false
+                },
+                "isBuySkin": false,
+                "voiceType": "NONE",
+                "displaySkin": {
+                    "skinGroupId": "ILLUST_0",
+                    "skinGroupName": "默认服装",
+                    "skinGroupSortIndex": -50,
+                    "sortId": -3,
+                    "getTime": 0,
+                    "onYear": 0,
+                    "onPeriod": 0
+                }
+            }
+        },
+        {
+            "key": "trap_488_xbtwod#1",
+            "value": {
+                "skinId": "trap_488_xbtwod#1",
+                "charId": "trap_488_xbtwod",
+                "illustId": "illust_trap_488_xbtwod_1",
+                "avatarId": "trap_488_xbtwod",
+                "portraitId": "trap_488_xbtwod_1",
+                "buildingId": "",
+                "battleSkin": {
+                    "overwritePrefab": false
+                },
+                "isBuySkin": false,
+                "voiceType": "NONE",
+                "displaySkin": {
+                    "skinGroupId": "ILLUST_0",
+                    "skinGroupName": "默认服装",
+                    "skinGroupSortIndex": -50,
+                    "sortId": -3,
+                    "getTime": 0,
+                    "onYear": 0,
+                    "onPeriod": 0
+                }
+            }
+        },
+        {
+            "key": "trap_489_xbtrok#1",
+            "value": {
+                "skinId": "trap_489_xbtrok#1",
+                "charId": "trap_489_xbtrok",
+                "illustId": "illust_trap_489_xbtrok_1",
+                "avatarId": "trap_489_xbtrok",
+                "portraitId": "trap_489_xbtrok_1",
+                "buildingId": "",
+                "battleSkin": {
+                    "overwritePrefab": false
+                },
+                "isBuySkin": false,
+                "voiceType": "NONE",
+                "displaySkin": {
+                    "skinGroupId": "ILLUST_0",
+                    "skinGroupName": "默认服装",
+                    "skinGroupSortIndex": -50,
+                    "sortId": -3,
+                    "getTime": 0,
+                    "onYear": 0,
+                    "onPeriod": 0
+                }
+            }
+        },
+        {
+            "key": "trap_490_xbtiro#1",
+            "value": {
+                "skinId": "trap_490_xbtiro#1",
+                "charId": "trap_490_xbtiro",
+                "illustId": "illust_trap_490_xbtiro_1",
+                "avatarId": "trap_490_xbtiro",
+                "portraitId": "trap_490_xbtiro_1",
+                "buildingId": "",
+                "battleSkin": {
+                    "overwritePrefab": false
+                },
+                "isBuySkin": false,
+                "voiceType": "NONE",
+                "displaySkin": {
+                    "skinGroupId": "ILLUST_0",
+                    "skinGroupName": "默认服装",
+                    "skinGroupSortIndex": -50,
+                    "sortId": -3,
+                    "getTime": 0,
+                    "onYear": 0,
+                    "onPeriod": 0
+                }
+            }
+        },
+        {
+            "key": "trap_487_xblfen#1",
+            "value": {
+                "skinId": "trap_487_xblfen#1",
+                "charId": "trap_487_xblfen",
+                "illustId": "illust_trap_487_xblfen_1",
+                "avatarId": "trap_487_xblfen",
+                "portraitId": "trap_487_xblfen_1",
+                "buildingId": "",
+                "battleSkin": {
+                    "overwritePrefab": false
+                },
+                "isBuySkin": false,
+                "voiceType": "NONE",
+                "displaySkin": {
+                    "skinGroupId": "ILLUST_0",
+                    "skinGroupName": "默认服装",
+                    "skinGroupSortIndex": -50,
+                    "sortId": -3,
+                    "getTime": 0,
+                    "onYear": 0,
+                    "onPeriod": 0
+                }
+            }
+        },
+        {
+            "key": "trap_491_xbtwal#1",
+            "value": {
+                "skinId": "trap_491_xbtwal#1",
+                "charId": "trap_491_xbtwal",
+                "illustId": "illust_trap_491_xbtwal_1",
+                "avatarId": "trap_491_xbtwal",
+                "portraitId": "trap_491_xbtwal_1",
+                "buildingId": "",
+                "battleSkin": {
+                    "overwritePrefab": false
+                },
+                "isBuySkin": false,
+                "voiceType": "NONE",
+                "displaySkin": {
+                    "skinGroupId": "ILLUST_0",
+                    "skinGroupName": "默认服装",
+                    "skinGroupSortIndex": -50,
+                    "sortId": -3,
+                    "getTime": 0,
+                    "onYear": 0,
+                    "onPeriod": 0
+                }
+            }
+        },
+        {
+            "key": "trap_492_xbamai#1",
+            "value": {
+                "skinId": "trap_492_xbamai#1",
+                "charId": "trap_492_xbamai",
+                "illustId": "illust_trap_492_xbamai_1",
+                "avatarId": "trap_492_xbamai",
+                "portraitId": "trap_492_xbamai_1",
+                "buildingId": "",
+                "battleSkin": {
+                    "overwritePrefab": false
+                },
+                "isBuySkin": false,
+                "voiceType": "NONE",
+                "displaySkin": {
+                    "skinGroupId": "ILLUST_0",
+                    "skinGroupName": "默认服装",
+                    "skinGroupSortIndex": -50,
+                    "sortId": -3,
+                    "getTime": 0,
+                    "onYear": 0,
+                    "onPeriod": 0
+                }
+            }
+        },
+        {
+            "key": "trap_508_xbabat#1",
+            "value": {
+                "skinId": "trap_508_xbabat#1",
+                "charId": "trap_508_xbabat",
+                "illustId": "illust_trap_508_xbabat_1",
+                "avatarId": "trap_508_xbabat",
+                "portraitId": "trap_508_xbabat_1",
+                "buildingId": "",
+                "battleSkin": {
+                    "overwritePrefab": false
+                },
+                "isBuySkin": false,
+                "voiceType": "NONE",
+                "displaySkin": {
+                    "skinGroupId": "ILLUST_0",
+                    "skinGroupName": "默认服装",
+                    "skinGroupSortIndex": -50,
+                    "sortId": -3,
+                    "getTime": 0,
+                    "onYear": 0,
+                    "onPeriod": 0
+                }
+            }
+        },
+        {
+            "key": "trap_500_xbaflu#1",
+            "value": {
+                "skinId": "trap_500_xbaflu#1",
+                "charId": "trap_500_xbaflu",
+                "illustId": "illust_trap_500_xbaflu_1",
+                "avatarId": "trap_500_xbaflu",
+                "portraitId": "trap_500_xbaflu_1",
+                "buildingId": "",
+                "battleSkin": {
+                    "overwritePrefab": false
+                },
+                "isBuySkin": false,
+                "voiceType": "NONE",
+                "displaySkin": {
+                    "skinGroupId": "ILLUST_0",
+                    "skinGroupName": "默认服装",
+                    "skinGroupSortIndex": -50,
+                    "sortId": -3,
+                    "getTime": 0,
+                    "onYear": 0,
+                    "onPeriod": 0
+                }
+            }
+        },
+        {
+            "key": "trap_501_xbaarm#1",
+            "value": {
+                "skinId": "trap_501_xbaarm#1",
+                "charId": "trap_501_xbaarm",
+                "illustId": "illust_trap_501_xbaarm_1",
+                "avatarId": "trap_501_xbaarm",
+                "portraitId": "trap_501_xbaarm_1",
+                "buildingId": "",
+                "battleSkin": {
+                    "overwritePrefab": false
+                },
+                "isBuySkin": false,
+                "voiceType": "NONE",
+                "displaySkin": {
+                    "skinGroupId": "ILLUST_0",
+                    "skinGroupName": "默认服装",
+                    "skinGroupSortIndex": -50,
+                    "sortId": -3,
+                    "getTime": 0,
+                    "onYear": 0,
+                    "onPeriod": 0
+                }
+            }
+        },
+        {
+            "key": "trap_502_xbaice#1",
+            "value": {
+                "skinId": "trap_502_xbaice#1",
+                "charId": "trap_502_xbaice",
+                "illustId": "illust_trap_502_xbaice_1",
+                "avatarId": "trap_502_xbaice",
+                "portraitId": "trap_502_xbaice_1",
+                "buildingId": "",
+                "battleSkin": {
+                    "overwritePrefab": false
+                },
+                "isBuySkin": false,
+                "voiceType": "NONE",
+                "displaySkin": {
+                    "skinGroupId": "ILLUST_0",
+                    "skinGroupName": "默认服装",
+                    "skinGroupSortIndex": -50,
+                    "sortId": -3,
+                    "getTime": 0,
+                    "onYear": 0,
+                    "onPeriod": 0
+                }
+            }
+        },
+        {
+            "key": "trap_503_xbabla#1",
+            "value": {
+                "skinId": "trap_503_xbabla#1",
+                "charId": "trap_503_xbabla",
+                "illustId": "illust_trap_503_xbabla_1",
+                "avatarId": "trap_503_xbabla",
+                "portraitId": "trap_503_xbabla_1",
+                "buildingId": "",
+                "battleSkin": {
+                    "overwritePrefab": false
+                },
+                "isBuySkin": false,
+                "voiceType": "NONE",
+                "displaySkin": {
+                    "skinGroupId": "ILLUST_0",
+                    "skinGroupName": "默认服装",
+                    "skinGroupSortIndex": -50,
+                    "sortId": -3,
+                    "getTime": 0,
+                    "onYear": 0,
+                    "onPeriod": 0
+                }
+            }
+        },
+        {
+            "key": "trap_504_xbaess#1",
+            "value": {
+                "skinId": "trap_504_xbaess#1",
+                "charId": "trap_504_xbaess",
+                "illustId": "illust_trap_504_xbaess_1",
+                "avatarId": "trap_504_xbaess",
+                "portraitId": "trap_504_xbaess_1",
+                "buildingId": "",
+                "battleSkin": {
+                    "overwritePrefab": false
+                },
+                "isBuySkin": false,
+                "voiceType": "NONE",
+                "displaySkin": {
+                    "skinGroupId": "ILLUST_0",
+                    "skinGroupName": "默认服装",
+                    "skinGroupSortIndex": -50,
+                    "sortId": -3,
+                    "getTime": 0,
+                    "onYear": 0,
+                    "onPeriod": 0
+                }
+            }
+        },
+        {
+            "key": "trap_505_xbawea#1",
+            "value": {
+                "skinId": "trap_505_xbawea#1",
+                "charId": "trap_505_xbawea",
+                "illustId": "illust_trap_505_xbawea_1",
+                "avatarId": "trap_505_xbawea",
+                "portraitId": "trap_505_xbawea_1",
+                "buildingId": "",
+                "battleSkin": {
+                    "overwritePrefab": false
+                },
+                "isBuySkin": false,
+                "voiceType": "NONE",
+                "displaySkin": {
+                    "skinGroupId": "ILLUST_0",
+                    "skinGroupName": "默认服装",
+                    "skinGroupSortIndex": -50,
+                    "sortId": -3,
+                    "getTime": 0,
+                    "onYear": 0,
+                    "onPeriod": 0
+                }
+            }
+        },
+        {
+            "key": "trap_506_xbadiv#1",
+            "value": {
+                "skinId": "trap_506_xbadiv#1",
+                "charId": "trap_506_xbadiv",
+                "illustId": "illust_trap_506_xbadiv_1",
+                "avatarId": "trap_506_xbadiv",
+                "portraitId": "trap_506_xbadiv_1",
+                "buildingId": "",
+                "battleSkin": {
+                    "overwritePrefab": false
+                },
+                "isBuySkin": false,
+                "voiceType": "NONE",
+                "displaySkin": {
+                    "skinGroupId": "ILLUST_0",
+                    "skinGroupName": "默认服装",
+                    "skinGroupSortIndex": -50,
+                    "sortId": -3,
+                    "getTime": 0,
+                    "onYear": 0,
+                    "onPeriod": 0
+                }
+            }
+        },
+        {
+            "key": "trap_507_xbabut#1",
+            "value": {
+                "skinId": "trap_507_xbabut#1",
+                "charId": "trap_507_xbabut",
+                "illustId": "illust_trap_507_xbabut_1",
+                "avatarId": "trap_507_xbabut",
+                "portraitId": "trap_507_xbabut_1",
+                "buildingId": "",
+                "battleSkin": {
+                    "overwritePrefab": false
+                },
+                "isBuySkin": false,
+                "voiceType": "NONE",
+                "displaySkin": {
+                    "skinGroupId": "ILLUST_0",
+                    "skinGroupName": "默认服装",
+                    "skinGroupSortIndex": -50,
+                    "sortId": -3,
+                    "getTime": 0,
+                    "onYear": 0,
+                    "onPeriod": 0
+                }
+            }
+        },
+        {
+            "key": "trap_509_xbf1g#1",
+            "value": {
+                "skinId": "trap_509_xbf1g#1",
+                "charId": "trap_509_xbf1g",
+                "illustId": "illust_trap_509_xbf1g_1",
+                "avatarId": "trap_509_xbf1g",
+                "portraitId": "trap_509_xbf1g_1",
+                "buildingId": "",
+                "battleSkin": {
+                    "overwritePrefab": false
+                },
+                "isBuySkin": false,
+                "voiceType": "NONE",
+                "displaySkin": {
+                    "skinGroupId": "ILLUST_0",
+                    "skinGroupName": "默认服装",
+                    "skinGroupSortIndex": -50,
+                    "sortId": -3,
+                    "getTime": 0,
+                    "onYear": 0,
+                    "onPeriod": 0
+                }
+            }
+        },
+        {
+            "key": "trap_510_xbf2g#1",
+            "value": {
+                "skinId": "trap_510_xbf2g#1",
+                "charId": "trap_510_xbf2g",
+                "illustId": "illust_trap_510_xbf2g_1",
+                "avatarId": "trap_510_xbf2g",
+                "portraitId": "trap_510_xbf2g_1",
+                "buildingId": "",
+                "battleSkin": {
+                    "overwritePrefab": false
+                },
+                "isBuySkin": false,
+                "voiceType": "NONE",
+                "displaySkin": {
+                    "skinGroupId": "ILLUST_0",
+                    "skinGroupName": "默认服装",
+                    "skinGroupSortIndex": -50,
+                    "sortId": -3,
+                    "getTime": 0,
+                    "onYear": 0,
+                    "onPeriod": 0
+                }
+            }
+        },
+        {
+            "key": "trap_511_xbf3g#1",
+            "value": {
+                "skinId": "trap_511_xbf3g#1",
+                "charId": "trap_511_xbf3g",
+                "illustId": "illust_trap_511_xbf3g_1",
+                "avatarId": "trap_511_xbf3g",
+                "portraitId": "trap_511_xbf3g_1",
+                "buildingId": "",
+                "battleSkin": {
+                    "overwritePrefab": false
+                },
+                "isBuySkin": false,
+                "voiceType": "NONE",
+                "displaySkin": {
+                    "skinGroupId": "ILLUST_0",
+                    "skinGroupName": "默认服装",
+                    "skinGroupSortIndex": -50,
+                    "sortId": -3,
+                    "getTime": 0,
+                    "onYear": 0,
+                    "onPeriod": 0
+                }
+            }
+        },
+        {
+            "key": "trap_512_xbwfg#1",
+            "value": {
+                "skinId": "trap_512_xbwfg#1",
+                "charId": "trap_512_xbwfg",
+                "illustId": "illust_trap_512_xbwfg_1",
+                "avatarId": "trap_512_xbwfg",
+                "portraitId": "trap_512_xbwfg_1",
+                "buildingId": "",
+                "battleSkin": {
+                    "overwritePrefab": false
+                },
+                "isBuySkin": false,
+                "voiceType": "NONE",
+                "displaySkin": {
+                    "skinGroupId": "ILLUST_0",
+                    "skinGroupName": "默认服装",
+                    "skinGroupSortIndex": -50,
+                    "sortId": -3,
+                    "getTime": 0,
+                    "onYear": 0,
+                    "onPeriod": 0
+                }
+            }
+        },
+        {
             "key": "char_002_amiya@winter#1",
             "value": {
                 "skinId": "char_002_amiya@winter#1",
@@ -40613,6 +41263,52 @@
                     "getTime": 1722484800,
                     "onYear": 5,
                     "onPeriod": 8
+                }
+            }
+        },
+        {
+            "key": "char_4106_bryota@epoque#34",
+            "value": {
+                "skinId": "char_4106_bryota@epoque#34",
+                "charId": "char_4106_bryota",
+                "illustId": "illust_char_4106_bryota_epoque#34",
+                "avatarId": "char_4106_bryota_epoque#34",
+                "portraitId": "char_4106_bryota_epoque#34",
+                "buildingId": "char_4106_bryota_epoque#34",
+                "battleSkin": {
+                    "overwritePrefab": false,
+                    "skinOrPrefabId": "char_4106_bryota_epoque#34"
+                },
+                "isBuySkin": true,
+                "voiceType": "NONE",
+                "displaySkin": {
+                    "skinName": "动感",
+                    "colorList": [
+                        "#0686ba",
+                        "#0686ba",
+                        "#1d2019",
+                        "#161a12",
+                        "#0986ba",
+                        "",
+                        ""
+                    ],
+                    "titleList": [],
+                    "modelName": "Bryophyta",
+                    "drawerList": [
+                        "Cenm0"
+                    ],
+                    "skinGroupId": "2024#epoque#6",
+                    "skinGroupName": "时代/XXXV",
+                    "skinGroupSortIndex": 47,
+                    "content": "<color name=#ffffff>EPOQUE系列新款/动感。埃尼斯心情好的时候会选择的着装。这是他的家人特意为他挑选的服饰，贴身舒适，便于活动。</color>",
+                    "dialog": "EPOQUE系列新款/动感。埃尼斯心情好的时候会选择的着装。这是他的家人特意为他挑选的服饰，贴身舒适，便于活动。",
+                    "usage": "苍苔的私服之一。",
+                    "description": "又是新的一天，又是新的工作。埃尼斯飞驰而下，没有什么能阻挡他迎接生活的脚步。",
+                    "obtainApproach": "采购中心",
+                    "sortId": 87,
+                    "getTime": 1724313600,
+                    "onYear": 5,
+                    "onPeriod": 10
                 }
             }
         },
@@ -44901,6 +45597,53 @@
                     "getTime": 1720497600,
                     "onYear": 5,
                     "onPeriod": 7
+                }
+            }
+        },
+        {
+            "key": "char_4100_caper@summer#18",
+            "value": {
+                "skinId": "char_4100_caper@summer#18",
+                "charId": "char_4100_caper",
+                "illustId": "illust_char_4100_caper_summer#18",
+                "avatarId": "char_4100_caper_summer#18",
+                "portraitId": "char_4100_caper_summer#18",
+                "buildingId": "char_4100_caper_summer#18",
+                "battleSkin": {
+                    "overwritePrefab": false,
+                    "skinOrPrefabId": "char_4100_caper_summer#18"
+                },
+                "isBuySkin": true,
+                "voiceType": "NONE",
+                "displaySkin": {
+                    "skinName": "夏卉 FA083",
+                    "colorList": [
+                        "#e7bb8a",
+                        "#372f2c",
+                        "#6e2c28",
+                        "#4d4533",
+                        "#372f2c",
+                        "",
+                        ""
+                    ],
+                    "titleList": [],
+                    "modelName": "Caper",
+                    "drawerList": [
+                        "臼"
+                    ],
+                    "skinGroupId": "2024#summer#3",
+                    "skinGroupName": "珊瑚海岸/XVIII",
+                    "skinGroupSortIndex": 85,
+                    "content": "<color name=#ffffff>MARTHE [珊瑚海岸/CoralCoast]夏卉系列泳衣083款。参考少女的身材和体质，采用天然材质制成。追求今夏最领先的设计潮流。</color>",
+                    "dialog": "MARTHE [珊瑚海岸/CoralCoast]夏卉系列泳衣083款。参考少女的身材和体质，采用天然材质制成。追求今夏最领先的设计潮流。",
+                    "usage": "跃跃的夏日装扮之一。",
+                    "description": "运动结束，享受柔和的夕阳光照，再配上一份水果，真是太棒啦！",
+                    "obtainApproach": "活动获得",
+                    "sortId": 174,
+                    "displayTagId": "活动获得",
+                    "getTime": 1724313600,
+                    "onYear": 5,
+                    "onPeriod": 10
                 }
             }
         },
@@ -61309,6 +62052,240 @@
                     "value": "trap_776_bqmleeb#1"
                 }
             ]
+        },
+        {
+            "key": "trap_493_xbabal",
+            "value": [
+                {
+                    "key": 0,
+                    "value": "trap_493_xbabal#1"
+                }
+            ]
+        },
+        {
+            "key": "trap_494_xbasky",
+            "value": [
+                {
+                    "key": 0,
+                    "value": "trap_494_xbasky#1"
+                }
+            ]
+        },
+        {
+            "key": "trap_499_xbaask",
+            "value": [
+                {
+                    "key": 0,
+                    "value": "trap_499_xbaask#1"
+                }
+            ]
+        },
+        {
+            "key": "trap_495_xbasmi",
+            "value": [
+                {
+                    "key": 0,
+                    "value": "trap_495_xbasmi#1"
+                }
+            ]
+        },
+        {
+            "key": "trap_496_xbaasm",
+            "value": [
+                {
+                    "key": 0,
+                    "value": "trap_496_xbaasm#1"
+                }
+            ]
+        },
+        {
+            "key": "trap_497_xbarok",
+            "value": [
+                {
+                    "key": 0,
+                    "value": "trap_497_xbarok#1"
+                }
+            ]
+        },
+        {
+            "key": "trap_498_xbaaro",
+            "value": [
+                {
+                    "key": 0,
+                    "value": "trap_498_xbaaro#1"
+                }
+            ]
+        },
+        {
+            "key": "trap_488_xbtwod",
+            "value": [
+                {
+                    "key": 0,
+                    "value": "trap_488_xbtwod#1"
+                }
+            ]
+        },
+        {
+            "key": "trap_489_xbtrok",
+            "value": [
+                {
+                    "key": 0,
+                    "value": "trap_489_xbtrok#1"
+                }
+            ]
+        },
+        {
+            "key": "trap_490_xbtiro",
+            "value": [
+                {
+                    "key": 0,
+                    "value": "trap_490_xbtiro#1"
+                }
+            ]
+        },
+        {
+            "key": "trap_487_xblfen",
+            "value": [
+                {
+                    "key": 0,
+                    "value": "trap_487_xblfen#1"
+                }
+            ]
+        },
+        {
+            "key": "trap_491_xbtwal",
+            "value": [
+                {
+                    "key": 0,
+                    "value": "trap_491_xbtwal#1"
+                }
+            ]
+        },
+        {
+            "key": "trap_492_xbamai",
+            "value": [
+                {
+                    "key": 0,
+                    "value": "trap_492_xbamai#1"
+                }
+            ]
+        },
+        {
+            "key": "trap_508_xbabat",
+            "value": [
+                {
+                    "key": 0,
+                    "value": "trap_508_xbabat#1"
+                }
+            ]
+        },
+        {
+            "key": "trap_500_xbaflu",
+            "value": [
+                {
+                    "key": 0,
+                    "value": "trap_500_xbaflu#1"
+                }
+            ]
+        },
+        {
+            "key": "trap_501_xbaarm",
+            "value": [
+                {
+                    "key": 0,
+                    "value": "trap_501_xbaarm#1"
+                }
+            ]
+        },
+        {
+            "key": "trap_502_xbaice",
+            "value": [
+                {
+                    "key": 0,
+                    "value": "trap_502_xbaice#1"
+                }
+            ]
+        },
+        {
+            "key": "trap_503_xbabla",
+            "value": [
+                {
+                    "key": 0,
+                    "value": "trap_503_xbabla#1"
+                }
+            ]
+        },
+        {
+            "key": "trap_504_xbaess",
+            "value": [
+                {
+                    "key": 0,
+                    "value": "trap_504_xbaess#1"
+                }
+            ]
+        },
+        {
+            "key": "trap_505_xbawea",
+            "value": [
+                {
+                    "key": 0,
+                    "value": "trap_505_xbawea#1"
+                }
+            ]
+        },
+        {
+            "key": "trap_506_xbadiv",
+            "value": [
+                {
+                    "key": 0,
+                    "value": "trap_506_xbadiv#1"
+                }
+            ]
+        },
+        {
+            "key": "trap_507_xbabut",
+            "value": [
+                {
+                    "key": 0,
+                    "value": "trap_507_xbabut#1"
+                }
+            ]
+        },
+        {
+            "key": "trap_509_xbf1g",
+            "value": [
+                {
+                    "key": 0,
+                    "value": "trap_509_xbf1g#1"
+                }
+            ]
+        },
+        {
+            "key": "trap_510_xbf2g",
+            "value": [
+                {
+                    "key": 0,
+                    "value": "trap_510_xbf2g#1"
+                }
+            ]
+        },
+        {
+            "key": "trap_511_xbf3g",
+            "value": [
+                {
+                    "key": 0,
+                    "value": "trap_511_xbf3g#1"
+                }
+            ]
+        },
+        {
+            "key": "trap_512_xbwfg",
+            "value": [
+                {
+                    "key": 0,
+                    "value": "trap_512_xbwfg#1"
+                }
+            ]
         }
     ],
     "buildinPatchMap": [
@@ -61390,6 +62367,10 @@
             "value": {
                 "brandId": "epoque",
                 "groupList": [
+                    {
+                        "skinGroupId": "2024#epoque#6",
+                        "publishTime": 0
+                    },
                     {
                         "skinGroupId": "2024#epoque#5",
                         "publishTime": 0
@@ -61581,7 +62562,7 @@
                 "brandCapitalName": "EPOQUE",
                 "description": "你的时代，你的过去，你的未来\n时代企划源自于服装设计师们的无心之举，在几个世纪中逐渐变成了设计师间约定俗成的传统。这种非盈利、纯感性、静下心来为客户设计衣装的方式，将是每个时代中坚守的宗旨。",
                 "publishTime": 0,
-                "sortId": 46
+                "sortId": 47
             }
         },
         {
@@ -61742,6 +62723,10 @@
                 "brandId": "summer",
                 "groupList": [
                     {
+                        "skinGroupId": "2024#summer#3",
+                        "publishTime": 0
+                    },
+                    {
                         "skinGroupId": "2024#summer#2",
                         "publishTime": 0
                     },
@@ -61856,7 +62841,7 @@
                 "brandCapitalName": "CORAL COAST",
                 "description": "展现真实的自我！\n珊瑚海岸是玛尔特旗下子品牌，主要面向水上运动与夏日服装领域，以时尚外形为夏日增添活力！继承自玛尔特精神理念，着重用户需求与最前沿设计，每年都以最靓丽色彩点缀您的海岸。",
                 "publishTime": 0,
-                "sortId": 84
+                "sortId": 85
             }
         },
         {
