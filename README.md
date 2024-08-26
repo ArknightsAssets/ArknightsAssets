@@ -4,9 +4,9 @@ Dumped using [ArknightsStudio](https://github.com/aelurum/AssetStudio/)
 
 [Download only the newest assets](https://github.com/ArknightsAssets/NewAssets)
 
-Exports only `Sprite,AkPortraitSprite,AudioClip`
+Exports only `Sprite,AkPortraitSprite`. 
 
-Data is seperated into branches `cn`, `en`, `jp`, `kr`, `tw`, `bili`, `audio`.
+I am experimenting with fitting the gigabytes of audio into the repository.
 
 I apologize for some files having conflicts.
 
