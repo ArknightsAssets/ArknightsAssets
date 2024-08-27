@@ -19486,6 +19486,11 @@
                     "m_value": false
                 }
             }
+        },
+        {
+            "useDb": true,
+            "id": "enemy_1367_dseed",
+            "level": 0
         }
     ],
     "waves": [
