@@ -918,6 +918,7 @@
     "instFinDmdShdCost": 80,
     "easyCrystalBonus": 0,
     "diamondMaterialToShardExchangeRatio": 10,
+    "diamondHandbookStageGain": 200,
     "apBuyCost": 1,
     "apBuyThreshold": 999,
     "creditLimit": 300,
@@ -1215,6 +1216,10 @@
             "value": "<color=#FF8A00>{0}</color>"
         },
         {
+            "key": "ga.spgacha",
+            "value": "<color=#FF8A00>{0}</color>"
+        },
+        {
             "key": "limtedga.title",
             "value": "<color=#FFFFFF>{0}</color>"
         },
@@ -1337,6 +1342,10 @@
         {
             "key": "lv.muitem",
             "value": "<color=#D4133C>{0}</color>"
+        },
+        {
+            "key": "token.highlight",
+            "value": "<color=#d8741a>{0}</color>"
         },
         {
             "key": "ba.grt",
@@ -1466,6 +1475,7 @@
     "isRoguelikeAvgAchieveFuncEnabled": true,
     "isClassicPotentialItemFuncEnabled": true,
     "isClassicGachaPoolFuncEnabled": true,
+    "isSpecialGachaPoolFuncEnabled": false,
     "isVoucherClassicItemDistinguishable": true,
     "voucherSkinRedeem": 1,
     "voucherSkinDesc": "【时装自选凭证】仅可以兑换当期时装商店中售卖的时装，且<color=#ffa633>不可兑换</color>含有动态形象的时装。若已购买了时装商店中所有的服装或时装商店中无时装售卖时，则【时装自选凭证】<color=#ffa633>无法使用</color>。\n\n此外，若今后有其他<color=#ffa633>不可使用</color>【时装自选凭证】兑换的时装出现时，届时会告知博士，敬请注意。",
@@ -1800,6 +1810,30 @@
             }
         },
         {
+            "key": "ba.magicpoint",
+            "value": {
+                "termId": "ba.magicpoint",
+                "termName": "魔力",
+                "description": "特殊技力，整场战斗继承"
+            }
+        },
+        {
+            "key": "ba.chant",
+            "value": {
+                "termId": "ba.chant",
+                "termName": "吟唱",
+                "description": "停止攻击一段时间后尝试开启技能，期间被打断则中止"
+            }
+        },
+        {
+            "key": "ba.laiosteam",
+            "value": {
+                "termId": "ba.laiosteam",
+                "termName": "莱欧斯小队",
+                "description": "包括玛露西尔、森西、莱欧斯、齐尔查克"
+            }
+        },
+        {
             "key": "cc.bd_A_1",
             "value": {
                 "termId": "cc.bd_A_1",
@@ -1957,6 +1991,14 @@
                 "termId": "cc.bd_felyne_2",
                 "termName": "可靠的随从们",
                 "description": "拥有该基建技能的干员\n泰拉大陆调查团"
+            }
+        },
+        {
+            "key": "cc.bd_dungeon",
+            "value": {
+                "termId": "cc.bd_dungeon",
+                "termName": "魔物料理",
+                "description": "由以下干员的基建技能提供\n森西"
             }
         },
         {
@@ -2312,6 +2354,14 @@
             }
         },
         {
+            "key": "cc.tag.dungeon",
+            "value": {
+                "termId": "cc.tag.dungeon",
+                "termName": "莱欧斯小队",
+                "description": "包含以下干员\n玛露西尔、莱欧斯、齐尔查克、森西"
+            }
+        },
+        {
             "key": "cc.gvial",
             "value": {
                 "termId": "cc.gvial",
@@ -2329,8 +2379,8 @@
         }
     ],
     "storyReviewUnlockItemLackTip": "事相碎片数量不足，请前往采购凭证区或活动期间商店获取",
-    "dataVersion": "53.6.0",
-    "resPrefVersion": "53d0d0",
+    "dataVersion": "54.0.0",
+    "resPrefVersion": "54d0d0",
     "announceWebBusType": "ak_announcement",
     "defaultMinContinuousBattleTimes": 1,
     "defaultMaxContinuousBattleTimes": 6,

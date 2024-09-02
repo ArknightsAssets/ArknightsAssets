@@ -133,38 +133,6 @@
                                 }
                             }
                         ]
-                    },
-                    {
-                        "blackboard": [
-                            {
-                                "key": "tomb_buff[tank_0].def_raw_multi",
-                                "value": {
-                                    "$numberDouble": "3.6"
-                                }
-                            },
-                            {
-                                "key": "tomb_buff[tank_0].block_cnt",
-                                "value": {
-                                    "$numberLong": "9"
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "blackboard": [
-                            {
-                                "key": "tomb_buff[tank_0].def_raw_multi",
-                                "value": {
-                                    "$numberLong": "4"
-                                }
-                            },
-                            {
-                                "key": "tomb_buff[tank_0].block_cnt",
-                                "value": {
-                                    "$numberLong": "10"
-                                }
-                            }
-                        ]
                     }
                 ]
             },
@@ -300,38 +268,6 @@
                                 }
                             }
                         ]
-                    },
-                    {
-                        "blackboard": [
-                            {
-                                "key": "tomb_buff[tank_1].max_hp_raw_multi",
-                                "value": {
-                                    "$numberDouble": "2.25"
-                                }
-                            },
-                            {
-                                "key": "tomb_buff[tank_1].def_raw_multi",
-                                "value": {
-                                    "$numberDouble": "2.25"
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "blackboard": [
-                            {
-                                "key": "tomb_buff[tank_1].max_hp_raw_multi",
-                                "value": {
-                                    "$numberDouble": "2.5"
-                                }
-                            },
-                            {
-                                "key": "tomb_buff[tank_1].def_raw_multi",
-                                "value": {
-                                    "$numberDouble": "2.5"
-                                }
-                            }
-                        ]
                     }
                 ]
             }
@@ -420,26 +356,6 @@
                                 "key": "tomb_buff[warrior_0].atk_raw_multi",
                                 "value": {
                                     "$numberDouble": "3.2"
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "blackboard": [
-                            {
-                                "key": "tomb_buff[warrior_0].atk_raw_multi",
-                                "value": {
-                                    "$numberDouble": "3.6"
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "blackboard": [
-                            {
-                                "key": "tomb_buff[warrior_0].atk_raw_multi",
-                                "value": {
-                                    "$numberLong": "4"
                                 }
                             }
                         ]
@@ -575,38 +491,6 @@
                                 "key": "tomb_buff[warrior_1].atk_raw_multi",
                                 "value": {
                                     "$numberDouble": "1.6"
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "blackboard": [
-                            {
-                                "key": "tomb_buff[warrior_1].attack_speed",
-                                "value": {
-                                    "$numberLong": "180"
-                                }
-                            },
-                            {
-                                "key": "tomb_buff[warrior_1].atk_raw_multi",
-                                "value": {
-                                    "$numberDouble": "1.8"
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "blackboard": [
-                            {
-                                "key": "tomb_buff[warrior_1].attack_speed",
-                                "value": {
-                                    "$numberLong": "200"
-                                }
-                            },
-                            {
-                                "key": "tomb_buff[warrior_1].atk_raw_multi",
-                                "value": {
-                                    "$numberLong": "2"
                                 }
                             }
                         ]
@@ -797,50 +681,6 @@
                                 }
                             }
                         ]
-                    },
-                    {
-                        "blackboard": [
-                            {
-                                "key": "tomb_buff[pioneer_0].interval",
-                                "value": {
-                                    "$numberLong": "3"
-                                }
-                            },
-                            {
-                                "key": "tomb_buff[pioneer_0].sp",
-                                "value": {
-                                    "$numberLong": "9"
-                                }
-                            },
-                            {
-                                "key": "tomb_buff[pioneer_0].atk_raw_multi",
-                                "value": {
-                                    "$numberDouble": "1.8"
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "blackboard": [
-                            {
-                                "key": "tomb_buff[pioneer_0].interval",
-                                "value": {
-                                    "$numberLong": "3"
-                                }
-                            },
-                            {
-                                "key": "tomb_buff[pioneer_0].sp",
-                                "value": {
-                                    "$numberLong": "10"
-                                }
-                            },
-                            {
-                                "key": "tomb_buff[pioneer_0].atk_raw_multi",
-                                "value": {
-                                    "$numberLong": "2"
-                                }
-                            }
-                        ]
                     }
                 ]
             },
@@ -946,26 +786,6 @@
                                 "key": "tomb_buff[sniper_0].attack_speed",
                                 "value": {
                                     "$numberLong": "320"
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "blackboard": [
-                            {
-                                "key": "tomb_buff[sniper_0].attack_speed",
-                                "value": {
-                                    "$numberLong": "360"
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "blackboard": [
-                            {
-                                "key": "tomb_buff[sniper_0].attack_speed",
-                                "value": {
-                                    "$numberLong": "400"
                                 }
                             }
                         ]
@@ -1101,38 +921,6 @@
                                 "key": "tomb_buff[sniper_1].max_hp_raw_multi",
                                 "value": {
                                     "$numberLong": "2"
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "blackboard": [
-                            {
-                                "key": "tomb_buff[sniper_1].atk_raw_multi",
-                                "value": {
-                                    "$numberDouble": "2.25"
-                                }
-                            },
-                            {
-                                "key": "tomb_buff[sniper_1].max_hp_raw_multi",
-                                "value": {
-                                    "$numberDouble": "2.25"
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "blackboard": [
-                            {
-                                "key": "tomb_buff[sniper_1].atk_raw_multi",
-                                "value": {
-                                    "$numberDouble": "2.5"
-                                }
-                            },
-                            {
-                                "key": "tomb_buff[sniper_1].max_hp_raw_multi",
-                                "value": {
-                                    "$numberDouble": "2.5"
                                 }
                             }
                         ]
@@ -1323,50 +1111,6 @@
                                 }
                             }
                         ]
-                    },
-                    {
-                        "blackboard": [
-                            {
-                                "key": "tomb_buff[caster_0].interval",
-                                "value": {
-                                    "$numberLong": "3"
-                                }
-                            },
-                            {
-                                "key": "tomb_buff[caster_0].sp",
-                                "value": {
-                                    "$numberLong": "9"
-                                }
-                            },
-                            {
-                                "key": "tomb_buff[caster_0].atk_raw_multi",
-                                "value": {
-                                    "$numberDouble": "1.8"
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "blackboard": [
-                            {
-                                "key": "tomb_buff[caster_0].interval",
-                                "value": {
-                                    "$numberLong": "3"
-                                }
-                            },
-                            {
-                                "key": "tomb_buff[caster_0].sp",
-                                "value": {
-                                    "$numberLong": "10"
-                                }
-                            },
-                            {
-                                "key": "tomb_buff[caster_0].atk_raw_multi",
-                                "value": {
-                                    "$numberLong": "2"
-                                }
-                            }
-                        ]
                     }
                 ]
             },
@@ -1451,26 +1195,6 @@
                                 "key": "tomb_buff[caster_1].atk_raw_multi",
                                 "value": {
                                     "$numberDouble": "3.2"
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "blackboard": [
-                            {
-                                "key": "tomb_buff[caster_1].atk_raw_multi",
-                                "value": {
-                                    "$numberDouble": "3.6"
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "blackboard": [
-                            {
-                                "key": "tomb_buff[caster_1].atk_raw_multi",
-                                "value": {
-                                    "$numberLong": "4"
                                 }
                             }
                         ]
@@ -1562,26 +1286,6 @@
                                 "key": "tomb_buff[medic_0].damage_resistance",
                                 "value": {
                                     "$numberDouble": "0.8"
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "blackboard": [
-                            {
-                                "key": "tomb_buff[medic_0].damage_resistance",
-                                "value": {
-                                    "$numberDouble": "0.9"
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "blackboard": [
-                            {
-                                "key": "tomb_buff[medic_0].damage_resistance",
-                                "value": {
-                                    "$numberDouble": "0.95"
                                 }
                             }
                         ]
@@ -1843,50 +1547,6 @@
                                 "key": "tomb_buff[special_1].attack_speed",
                                 "value": {
                                     "$numberLong": "160"
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "blackboard": [
-                            {
-                                "key": "tomb_buff[special_1].interval",
-                                "value": {
-                                    "$numberLong": "3"
-                                }
-                            },
-                            {
-                                "key": "tomb_buff[special_1].sp",
-                                "value": {
-                                    "$numberLong": "9"
-                                }
-                            },
-                            {
-                                "key": "tomb_buff[special_1].attack_speed",
-                                "value": {
-                                    "$numberLong": "180"
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "blackboard": [
-                            {
-                                "key": "tomb_buff[special_1].interval",
-                                "value": {
-                                    "$numberLong": "3"
-                                }
-                            },
-                            {
-                                "key": "tomb_buff[special_1].sp",
-                                "value": {
-                                    "$numberLong": "10"
-                                }
-                            },
-                            {
-                                "key": "tomb_buff[special_1].attack_speed",
-                                "value": {
-                                    "$numberLong": "200"
                                 }
                             }
                         ]

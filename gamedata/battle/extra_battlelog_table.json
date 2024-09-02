@@ -700,6 +700,32 @@
                     {
                         "sourceId": "char_213_mostma",
                         "enemyId": "enemy_1072_dlancer"
+                    },
+                    {
+                        "sourceId": "char_4142_laios",
+                        "enemyId": "enemy_1018_aoemag"
+                    },
+                    {
+                        "sourceId": "char_4088_hodrer",
+                        "enemyId": "enemy_1207_sfji"
+                    },
+                    {
+                        "sourceId": "char_4145_ulpia",
+                        "enemyId": "enemy_1152_dsurch"
+                    },
+                    {
+                        "sourceId": "char_4063_quartz",
+                        "enemyId": "enemy_1161_tidmag"
+                    },
+                    {
+                        "sourceId": "char_4088_hodrer",
+                        "enemyLevelType": "BOSS",
+                        "logAlias": "char_4088_hodrer,BOSS,ELITE"
+                    },
+                    {
+                        "sourceId": "char_4088_hodrer",
+                        "enemyLevelType": "ELITE",
+                        "logAlias": "char_4088_hodrer,BOSS,ELITE"
                     }
                 ]
             }
