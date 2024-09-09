@@ -1661,6 +1661,78 @@
             }
         },
         {
+            "key": "ap_supply_lt_120_2024_2",
+            "value": {
+                "itemId": "ap_supply_lt_120_2024_2",
+                "name": "“落银盘”",
+                "description": "可口凉爽的冰皮月饼，记得冷藏保存哦！",
+                "rarity": "TIER_5",
+                "iconId": "ap_supply_lt_120_2024_2",
+                "sortId": 30007,
+                "usage": "一份杏仁黑巧冰淇淋馅的冰皮月饼，可用于恢复理智。",
+                "obtainApproach": "赠送",
+                "hideInItemGet": false,
+                "classifyType": "CONSUME",
+                "itemType": "AP_SUPPLY",
+                "stageDropList": [],
+                "buildingProductList": []
+            }
+        },
+        {
+            "key": "ap_supply_lt_120_2024_3",
+            "value": {
+                "itemId": "ap_supply_lt_120_2024_3",
+                "name": "“望宵晖”",
+                "description": "可口凉爽的冰皮月饼，记得冷藏保存哦！",
+                "rarity": "TIER_5",
+                "iconId": "ap_supply_lt_120_2024_3",
+                "sortId": 30007,
+                "usage": "一份五仁馅的冰皮月饼，可用于恢复理智。",
+                "obtainApproach": "赠送",
+                "hideInItemGet": false,
+                "classifyType": "CONSUME",
+                "itemType": "AP_SUPPLY",
+                "stageDropList": [],
+                "buildingProductList": []
+            }
+        },
+        {
+            "key": "ap_supply_lt_120_2024_4",
+            "value": {
+                "itemId": "ap_supply_lt_120_2024_4",
+                "name": "“画桂魄”",
+                "description": "口口松脆的酥皮月饼，颜色焦黄，让人食指大动。",
+                "rarity": "TIER_5",
+                "iconId": "ap_supply_lt_120_2024_4",
+                "sortId": 30007,
+                "usage": "一份奶香栗子蓉馅的酥皮月饼，可用于恢复理智。",
+                "obtainApproach": "赠送",
+                "hideInItemGet": false,
+                "classifyType": "CONSUME",
+                "itemType": "AP_SUPPLY",
+                "stageDropList": [],
+                "buildingProductList": []
+            }
+        },
+        {
+            "key": "ap_supply_lt_120_2024_5",
+            "value": {
+                "itemId": "ap_supply_lt_120_2024_5",
+                "name": "“枕夜光”",
+                "description": "口口松脆的酥皮月饼，颜色焦黄，让人食指大动。",
+                "rarity": "TIER_5",
+                "iconId": "ap_supply_lt_120_2024_5",
+                "sortId": 30007,
+                "usage": "一份榨菜鲜肉馅的酥皮月饼，可用于恢复理智。",
+                "obtainApproach": "赠送",
+                "hideInItemGet": false,
+                "classifyType": "CONSUME",
+                "itemType": "AP_SUPPLY",
+                "stageDropList": [],
+                "buildingProductList": []
+            }
+        },
+        {
             "key": "EXTERMINATION_AGENT",
             "value": {
                 "itemId": "EXTERMINATION_AGENT",
@@ -34408,6 +34480,22 @@
             "value": 1
         },
         {
+            "key": "furni_MA_mooncake_B_03",
+            "value": 1
+        },
+        {
+            "key": "furni_MA_mooncake_B_04",
+            "value": 1
+        },
+        {
+            "key": "furni_MA_mooncake_S_03",
+            "value": 1
+        },
+        {
+            "key": "furni_MA_mooncake_S_04",
+            "value": 1
+        },
+        {
             "key": "furni_terratimes_AbyssalHunters_01",
             "value": 1
         },
@@ -36317,6 +36405,10 @@
         },
         {
             "key": "char_128_plosis@yun#4",
+            "value": 1
+        },
+        {
+            "key": "char_4083_chimes@yun#5",
             "value": 1
         },
         {

@@ -195,7 +195,7 @@
                 "zoneNameThird": "EPISODE 10",
                 "lockedText": "完成上一章以解锁",
                 "canPreview": true,
-                "hasAdditionalPanel": true
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -212,7 +212,7 @@
                 "zoneNameThird": "EPISODE 11",
                 "lockedText": "完成上一章以解锁",
                 "canPreview": true,
-                "hasAdditionalPanel": true
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -229,7 +229,7 @@
                 "zoneNameThird": "EPISODE 12",
                 "lockedText": "完成上一章以解锁",
                 "canPreview": true,
-                "hasAdditionalPanel": true
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -246,24 +246,7 @@
                 "zoneNameThird": "EPISODE 13",
                 "lockedText": "完成上一章以解锁",
                 "canPreview": true,
-                "hasAdditionalPanel": true
-            }
-        },
-        {
-            "key": "main_14",
-            "value": {
-                "zoneID": "main_14",
-                "zoneIndex": 5,
-                "type": "MAINLINE",
-                "zoneNameFirst": "第十四章",
-                "zoneNameSecond": "慈悲灯塔",
-                "zoneNameTitleCurrent": "14",
-                "zoneNameTitleUnCurrent": "14",
-                "zoneNameTitleEx": "EPISODE",
-                "zoneNameThird": "EPISODE 14",
-                "lockedText": "完成上一章以解锁",
-                "canPreview": true,
-                "hasAdditionalPanel": true
+                "hasAdditionalPanel": false
             }
         },
         {
@@ -495,16 +478,6 @@
             }
         },
         {
-            "key": "camp_zone_13",
-            "value": {
-                "zoneID": "camp_zone_13",
-                "zoneIndex": 0,
-                "type": "CAMPAIGN",
-                "canPreview": false,
-                "hasAdditionalPanel": false
-            }
-        },
-        {
             "key": "tower_tr_01",
             "value": {
                 "zoneID": "tower_tr_01",
@@ -635,26 +608,6 @@
             }
         },
         {
-            "key": "tower_n_15",
-            "value": {
-                "zoneID": "tower_n_15",
-                "zoneIndex": 0,
-                "type": "CLIMB_TOWER",
-                "canPreview": false,
-                "hasAdditionalPanel": false
-            }
-        },
-        {
-            "key": "tower_n_16",
-            "value": {
-                "zoneID": "tower_n_16",
-                "zoneIndex": 0,
-                "type": "CLIMB_TOWER",
-                "canPreview": false,
-                "hasAdditionalPanel": false
-            }
-        },
-        {
             "key": "tower_n_01",
             "value": {
                 "zoneID": "tower_n_01",
@@ -720,202 +673,6 @@
                 "zoneID": "rogue_3",
                 "zoneIndex": 3,
                 "type": "ROGUELIKE",
-                "canPreview": false,
-                "hasAdditionalPanel": false
-            }
-        },
-        {
-            "key": "rogue_4",
-            "value": {
-                "zoneID": "rogue_4",
-                "zoneIndex": 4,
-                "type": "ROGUELIKE",
-                "canPreview": false,
-                "hasAdditionalPanel": false
-            }
-        },
-        {
-            "key": "act36side_zone1",
-            "value": {
-                "zoneID": "act36side_zone1",
-                "zoneIndex": 0,
-                "type": "ACTIVITY",
-                "zoneNameSecond": "品尝魔物",
-                "canPreview": false,
-                "hasAdditionalPanel": false
-            }
-        },
-        {
-            "key": "act36side_zone2",
-            "value": {
-                "zoneID": "act36side_zone2",
-                "zoneIndex": 1,
-                "type": "ACTIVITY",
-                "zoneNameSecond": "走遍泰拉",
-                "canPreview": false,
-                "hasAdditionalPanel": false
-            }
-        },
-        {
-            "key": "act27sre_zone1",
-            "value": {
-                "zoneID": "act27sre_zone1",
-                "zoneIndex": 0,
-                "type": "ACTIVITY",
-                "zoneNameSecond": "温泉假日",
-                "canPreview": false,
-                "hasAdditionalPanel": false
-            }
-        },
-        {
-            "key": "act27sre_zone2",
-            "value": {
-                "zoneID": "act27sre_zone2",
-                "zoneIndex": 1,
-                "type": "ACTIVITY",
-                "zoneNameSecond": "城市寻宝",
-                "canPreview": false,
-                "hasAdditionalPanel": false
-            }
-        },
-        {
-            "key": "act27sre_zone3",
-            "value": {
-                "zoneID": "act27sre_zone3",
-                "zoneIndex": 2,
-                "type": "ACTIVITY",
-                "zoneNameSecond": "岩浆冲浪",
-                "canPreview": false,
-                "hasAdditionalPanel": false
-            }
-        },
-        {
-            "key": "act35side_zone1",
-            "value": {
-                "zoneID": "act35side_zone1",
-                "zoneIndex": 0,
-                "type": "ACTIVITY",
-                "zoneNameSecond": "市民花园",
-                "canPreview": false,
-                "hasAdditionalPanel": false
-            }
-        },
-        {
-            "key": "act35side_zone2",
-            "value": {
-                "zoneID": "act35side_zone2",
-                "zoneIndex": 1,
-                "type": "ACTIVITY",
-                "zoneNameSecond": "丰获集会",
-                "canPreview": false,
-                "hasAdditionalPanel": false
-            }
-        },
-        {
-            "key": "act35side_zone3",
-            "value": {
-                "zoneID": "act35side_zone3",
-                "zoneIndex": 2,
-                "type": "ACTIVITY",
-                "zoneNameSecond": "藏珍宝库",
-                "canPreview": false,
-                "hasAdditionalPanel": false
-            }
-        },
-        {
-            "key": "act17mini_zone1",
-            "value": {
-                "zoneID": "act17mini_zone1",
-                "zoneIndex": 0,
-                "type": "ACTIVITY",
-                "zoneNameSecond": "走入城市",
-                "canPreview": false,
-                "hasAdditionalPanel": false
-            }
-        },
-        {
-            "key": "act26sre_zone1",
-            "value": {
-                "zoneID": "act26sre_zone1",
-                "zoneIndex": 0,
-                "type": "ACTIVITY",
-                "zoneNameSecond": "安布罗修修道院",
-                "canPreview": false,
-                "hasAdditionalPanel": false
-            }
-        },
-        {
-            "key": "act26sre_zone2",
-            "value": {
-                "zoneID": "act26sre_zone2",
-                "zoneIndex": 1,
-                "type": "ACTIVITY",
-                "zoneNameSecond": "废弃圣堂",
-                "canPreview": false,
-                "hasAdditionalPanel": false
-            }
-        },
-        {
-            "key": "act34side_zone1",
-            "value": {
-                "zoneID": "act34side_zone1",
-                "zoneIndex": 0,
-                "type": "ACTIVITY",
-                "zoneNameSecond": "信标投放",
-                "canPreview": false,
-                "hasAdditionalPanel": false
-            }
-        },
-        {
-            "key": "act34side_zone2",
-            "value": {
-                "zoneID": "act34side_zone2",
-                "zoneIndex": 1,
-                "type": "ACTIVITY",
-                "zoneNameSecond": "防线巩固",
-                "canPreview": false,
-                "hasAdditionalPanel": false
-            }
-        },
-        {
-            "key": "act25sre_zone1",
-            "value": {
-                "zoneID": "act25sre_zone1",
-                "zoneIndex": 0,
-                "type": "ACTIVITY",
-                "zoneNameSecond": "未来将至",
-                "canPreview": false,
-                "hasAdditionalPanel": false
-            }
-        },
-        {
-            "key": "act25sre_zone2",
-            "value": {
-                "zoneID": "act25sre_zone2",
-                "zoneIndex": 1,
-                "type": "ACTIVITY",
-                "zoneNameSecond": "过往未尽",
-                "canPreview": false,
-                "hasAdditionalPanel": false
-            }
-        },
-        {
-            "key": "act25sre_zone3",
-            "value": {
-                "zoneID": "act25sre_zone3",
-                "zoneIndex": 2,
-                "type": "ACTIVITY",
-                "zoneNameSecond": "紧握当下",
-                "canPreview": false,
-                "hasAdditionalPanel": false
-            }
-        },
-        {
-            "key": "act2vmulti_zone1",
-            "value": {
-                "zoneID": "act2vmulti_zone1",
-                "zoneIndex": 0,
-                "type": "ACTIVITY",
                 "canPreview": false,
                 "hasAdditionalPanel": false
             }
@@ -3426,61 +3183,6 @@
                 "canPreview": false,
                 "hasAdditionalPanel": false
             }
-        },
-        {
-            "key": "permanent_sidestory_20_zone1",
-            "value": {
-                "zoneID": "permanent_sidestory_20_zone1",
-                "zoneIndex": 0,
-                "type": "SIDESTORY",
-                "zoneNameSecond": "安布罗修修道院",
-                "canPreview": false,
-                "hasAdditionalPanel": false
-            }
-        },
-        {
-            "key": "permanent_sidestory_20_zone2",
-            "value": {
-                "zoneID": "permanent_sidestory_20_zone2",
-                "zoneIndex": 1,
-                "type": "SIDESTORY",
-                "zoneNameSecond": "废弃圣堂",
-                "canPreview": false,
-                "hasAdditionalPanel": false
-            }
-        },
-        {
-            "key": "permanent_sidestory_17_zone1",
-            "value": {
-                "zoneID": "permanent_sidestory_17_zone1",
-                "zoneIndex": 0,
-                "type": "SIDESTORY",
-                "zoneNameSecond": "温泉假日",
-                "canPreview": false,
-                "hasAdditionalPanel": false
-            }
-        },
-        {
-            "key": "permanent_sidestory_17_zone2",
-            "value": {
-                "zoneID": "permanent_sidestory_17_zone2",
-                "zoneIndex": 1,
-                "type": "SIDESTORY",
-                "zoneNameSecond": "城市寻宝",
-                "canPreview": false,
-                "hasAdditionalPanel": false
-            }
-        },
-        {
-            "key": "permanent_sidestory_17_zone3",
-            "value": {
-                "zoneID": "permanent_sidestory_17_zone3",
-                "zoneIndex": 2,
-                "type": "SIDESTORY",
-                "zoneNameSecond": "岩浆冲浪",
-                "canPreview": false,
-                "hasAdditionalPanel": false
-            }
         }
     ],
     "weeklyAdditionInfo": [
@@ -3597,125 +3299,6 @@
         }
     ],
     "zoneValidInfo": [
-        {
-            "key": "act36side_zone1",
-            "value": {
-                "startTs": 1725249600,
-                "endTs": 1726430399
-            }
-        },
-        {
-            "key": "act36side_zone2",
-            "value": {
-                "startTs": 1725868800,
-                "endTs": 1726430399
-            }
-        },
-        {
-            "key": "act27sre_zone1",
-            "value": {
-                "startTs": 1724313600,
-                "endTs": 1725134399
-            }
-        },
-        {
-            "key": "act27sre_zone2",
-            "value": {
-                "startTs": 1724313600,
-                "endTs": 1725134399
-            }
-        },
-        {
-            "key": "act27sre_zone3",
-            "value": {
-                "startTs": 1724313600,
-                "endTs": 1725134399
-            }
-        },
-        {
-            "key": "act35side_zone1",
-            "value": {
-                "startTs": 1722484800,
-                "endTs": 1724270399
-            }
-        },
-        {
-            "key": "act35side_zone2",
-            "value": {
-                "startTs": 1723104000,
-                "endTs": 1724270399
-            }
-        },
-        {
-            "key": "act35side_zone3",
-            "value": {
-                "startTs": 1723708800,
-                "endTs": 1724270399
-            }
-        },
-        {
-            "key": "act17mini_zone1",
-            "value": {
-                "startTs": 1720497600,
-                "endTs": 1721073599
-            }
-        },
-        {
-            "key": "act26sre_zone1",
-            "value": {
-                "startTs": 1719302400,
-                "endTs": 1720123199
-            }
-        },
-        {
-            "key": "act26sre_zone2",
-            "value": {
-                "startTs": 1719302400,
-                "endTs": 1720123199
-            }
-        },
-        {
-            "key": "act34side_zone1",
-            "value": {
-                "startTs": 1717560000,
-                "endTs": 1718740799
-            }
-        },
-        {
-            "key": "act34side_zone2",
-            "value": {
-                "startTs": 1718179200,
-                "endTs": 1718740799
-            }
-        },
-        {
-            "key": "act25sre_zone1",
-            "value": {
-                "startTs": 1716537600,
-                "endTs": 1717358399
-            }
-        },
-        {
-            "key": "act25sre_zone2",
-            "value": {
-                "startTs": 1716537600,
-                "endTs": 1717358399
-            }
-        },
-        {
-            "key": "act25sre_zone3",
-            "value": {
-                "startTs": 1716537600,
-                "endTs": 1717358399
-            }
-        },
-        {
-            "key": "act2vmulti_zone1",
-            "value": {
-                "startTs": 1715760000,
-                "endTs": 1716926399
-            }
-        },
         {
             "key": "act33side_zone1",
             "value": {
@@ -5166,29 +4749,6 @@
                     "TOUGH"
                 ]
             }
-        },
-        {
-            "key": "main_14",
-            "value": {
-                "zoneId": "main_14",
-                "chapterId": "chapter_2",
-                "preposedZoneId": "main_13",
-                "zoneIndex": 5,
-                "startStageId": "st_14-01",
-                "endStageId": "st_14-03",
-                "mainlneBgName": "mbg_chapter_2_6",
-                "recapId": "",
-                "recapPreStageId": "st_13-03",
-                "buttonName": "",
-                "buttonStyle": "NONE",
-                "spoilAlert": false,
-                "zoneOpenTime": 1714536000,
-                "diffGroup": [
-                    "EASY",
-                    "NORMAL",
-                    "TOUGH"
-                ]
-            }
         }
     ],
     "zoneRecordGroupedData": [
@@ -5506,7 +5066,7 @@
                                     {
                                         "id": "avatar_activity_EP10_1",
                                         "count": 1,
-                                        "type": "PLAYER_AVATAR"
+                                        "type": "RETRO_COIN"
                                     },
                                     {
                                         "id": "30063",
@@ -5536,7 +5096,7 @@
                                     {
                                         "id": "avatar_activity_EP10_2",
                                         "count": 1,
-                                        "type": "PLAYER_AVATAR"
+                                        "type": "RETRO_COIN"
                                     },
                                     {
                                         "id": "31044",
@@ -6002,7 +5562,7 @@
                                     {
                                         "id": "avatar_activity_EP11",
                                         "count": 1,
-                                        "type": "PLAYER_AVATAR"
+                                        "type": "RETRO_COIN"
                                     },
                                     {
                                         "id": "furni_dropS022_hamlet_01",
@@ -6209,7 +5769,7 @@
                                     {
                                         "id": "Logistics_Special_Permit",
                                         "count": 2,
-                                        "type": "LIMITED_BUFF"
+                                        "type": "SANDBOX"
                                     }
                                 ]
                             },
@@ -6282,7 +5842,7 @@
                                     {
                                         "id": "Logistics_Special_Permit",
                                         "count": 2,
-                                        "type": "LIMITED_BUFF"
+                                        "type": "SANDBOX"
                                     }
                                 ]
                             },
@@ -6306,7 +5866,7 @@
                                     {
                                         "id": "Logistics_Special_Permit",
                                         "count": 2,
-                                        "type": "LIMITED_BUFF"
+                                        "type": "SANDBOX"
                                     }
                                 ]
                             }
@@ -6365,7 +5925,7 @@
                                     {
                                         "id": "Logistics_Special_Permit",
                                         "count": 2,
-                                        "type": "LIMITED_BUFF"
+                                        "type": "SANDBOX"
                                     }
                                 ]
                             },
@@ -6389,7 +5949,7 @@
                                     {
                                         "id": "Logistics_Special_Permit",
                                         "count": 2,
-                                        "type": "LIMITED_BUFF"
+                                        "type": "SANDBOX"
                                     }
                                 ]
                             }
@@ -6448,7 +6008,7 @@
                                     {
                                         "id": "Logistics_Special_Permit",
                                         "count": 2,
-                                        "type": "LIMITED_BUFF"
+                                        "type": "SANDBOX"
                                     }
                                 ]
                             },
@@ -6497,7 +6057,7 @@
                                     {
                                         "id": "avatar_activity_EP12",
                                         "count": 1,
-                                        "type": "PLAYER_AVATAR"
+                                        "type": "RETRO_COIN"
                                     },
                                     {
                                         "id": "30073",
@@ -6531,7 +6091,7 @@
                                     {
                                         "id": "Logistics_Special_Permit",
                                         "count": 2,
-                                        "type": "LIMITED_BUFF"
+                                        "type": "SANDBOX"
                                     }
                                 ]
                             },
@@ -6555,7 +6115,7 @@
                                     {
                                         "id": "Logistics_Special_Permit",
                                         "count": 2,
-                                        "type": "LIMITED_BUFF"
+                                        "type": "SANDBOX"
                                     }
                                 ]
                             }
@@ -7001,7 +6561,7 @@
                                     {
                                         "id": "avatar_activity_EP13",
                                         "count": 1,
-                                        "type": "PLAYER_AVATAR"
+                                        "type": "RETRO_COIN"
                                     },
                                     {
                                         "id": "30093",
