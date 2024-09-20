@@ -28,6 +28,8 @@ jobs:
         run: sudo bash scripts/download.sh ${{ env.SERVER }} ${{ env.FORCE }}
       - name: Set env
         run: echo "VERSION_ID=$(jq .versionId "bundles/hot_update_list.json")" >> $GITHUB_ENV
+      - name: Ensure the hot update list is not empty
+        run: if [ ! -s bundles/hot_update_list.json ]; then exit 1; fi;
 
       - name: Push changes
         uses: stefanzweifel/git-auto-commit-action@v5
