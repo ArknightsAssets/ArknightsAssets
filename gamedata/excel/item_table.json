@@ -29872,6 +29872,24 @@
                 ],
                 "buildingProductList": []
             }
+        },
+        {
+            "key": "act1vecb_milestone_point",
+            "value": {
+                "itemId": "act1vecb_milestone_point",
+                "name": "胜绩积分",
+                "description": "罗德岛工程部制作的特殊纪念物，负责设计它的工程干员似乎是从近期风靡罗德岛的一款桌游中获得的灵感。",
+                "rarity": "TIER_5",
+                "iconId": "act1vecb_milestone_point",
+                "sortId": -10000,
+                "usage": "可在突破里程碑中兑换奖励。",
+                "obtainApproach": "活动获得",
+                "hideInItemGet": false,
+                "classifyType": "NONE",
+                "itemType": "ACTIVITY_ITEM",
+                "stageDropList": [],
+                "buildingProductList": []
+            }
         }
     ],
     "expItems": [
@@ -34498,6 +34516,10 @@
             "value": 1
         },
         {
+            "key": "furni_act54d0_displayCabinet_01",
+            "value": 1
+        },
+        {
             "key": "furni_MA_mooncake_B_03",
             "value": 1
         },
@@ -35147,6 +35169,10 @@
         },
         {
             "key": "char_010_chen@sale#10",
+            "value": 1
+        },
+        {
+            "key": "char_4151_tinman@sale#11",
             "value": 1
         },
         {
@@ -36411,6 +36437,10 @@
         },
         {
             "key": "char_1021_kroos2@game#3",
+            "value": 1
+        },
+        {
+            "key": "char_240_wyvern@game#4",
             "value": 1
         },
         {
