@@ -1367,6 +1367,12 @@
             ]
         },
         {
+            "key": "char_4162_cathy",
+            "value": [
+                "char_4162_cathy"
+            ]
+        },
+        {
             "key": "char_101_sora",
             "value": [
                 "char_101_sora"
@@ -1400,6 +1406,12 @@
             "key": "char_4102_threye",
             "value": [
                 "char_4102_threye"
+            ]
+        },
+        {
+            "key": "char_487_bobb",
+            "value": [
+                "char_487_bobb"
             ]
         },
         {
@@ -1544,7 +1556,8 @@
         {
             "key": "char_112_siege",
             "value": [
-                "char_112_siege"
+                "char_112_siege",
+                "char_1019_siege2"
             ]
         },
         {
