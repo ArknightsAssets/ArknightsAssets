@@ -2200,6 +2200,7 @@
                                 "refreshType": "ALWAYS",
                                 "weight": 50,
                                 "dontBlockWave": false,
+                                "forceBlockWaveInBranch": false,
                                 "isValid": false
                             },
                             {
@@ -2219,6 +2220,7 @@
                                 "refreshType": "ALWAYS",
                                 "weight": 50,
                                 "dontBlockWave": false,
+                                "forceBlockWaveInBranch": false,
                                 "isValid": false
                             }
                         ]
@@ -2250,6 +2252,7 @@
                                 "refreshType": "ALWAYS",
                                 "weight": 50,
                                 "dontBlockWave": false,
+                                "forceBlockWaveInBranch": false,
                                 "isValid": false
                             },
                             {
@@ -2269,6 +2272,7 @@
                                 "refreshType": "ALWAYS",
                                 "weight": 50,
                                 "dontBlockWave": false,
+                                "forceBlockWaveInBranch": false,
                                 "isValid": false
                             }
                         ]
@@ -2300,6 +2304,7 @@
                                 "refreshType": "ALWAYS",
                                 "weight": 50,
                                 "dontBlockWave": false,
+                                "forceBlockWaveInBranch": false,
                                 "isValid": false
                             },
                             {
@@ -2319,6 +2324,7 @@
                                 "refreshType": "ALWAYS",
                                 "weight": 50,
                                 "dontBlockWave": false,
+                                "forceBlockWaveInBranch": false,
                                 "isValid": false
                             }
                         ]
@@ -2350,6 +2356,7 @@
                                 "refreshType": "ALWAYS",
                                 "weight": 50,
                                 "dontBlockWave": false,
+                                "forceBlockWaveInBranch": false,
                                 "isValid": false
                             },
                             {
@@ -2369,6 +2376,7 @@
                                 "refreshType": "ALWAYS",
                                 "weight": 50,
                                 "dontBlockWave": false,
+                                "forceBlockWaveInBranch": false,
                                 "isValid": false
                             }
                         ]
@@ -2400,6 +2408,7 @@
                                 "refreshType": "ALWAYS",
                                 "weight": 50,
                                 "dontBlockWave": false,
+                                "forceBlockWaveInBranch": false,
                                 "isValid": false
                             },
                             {
@@ -2419,6 +2428,7 @@
                                 "refreshType": "ALWAYS",
                                 "weight": 50,
                                 "dontBlockWave": false,
+                                "forceBlockWaveInBranch": false,
                                 "isValid": false
                             }
                         ]
@@ -2450,6 +2460,7 @@
                                 "refreshType": "ALWAYS",
                                 "weight": 50,
                                 "dontBlockWave": false,
+                                "forceBlockWaveInBranch": false,
                                 "isValid": false
                             },
                             {
@@ -2469,6 +2480,7 @@
                                 "refreshType": "ALWAYS",
                                 "weight": 50,
                                 "dontBlockWave": false,
+                                "forceBlockWaveInBranch": false,
                                 "isValid": false
                             }
                         ]
@@ -2500,6 +2512,7 @@
                                 "refreshType": "ALWAYS",
                                 "weight": 50,
                                 "dontBlockWave": false,
+                                "forceBlockWaveInBranch": false,
                                 "isValid": false
                             },
                             {
@@ -2519,6 +2532,7 @@
                                 "refreshType": "ALWAYS",
                                 "weight": 50,
                                 "dontBlockWave": false,
+                                "forceBlockWaveInBranch": false,
                                 "isValid": false
                             }
                         ]
@@ -2550,6 +2564,7 @@
                                 "refreshType": "ALWAYS",
                                 "weight": 50,
                                 "dontBlockWave": false,
+                                "forceBlockWaveInBranch": false,
                                 "isValid": false
                             },
                             {
@@ -2569,6 +2584,7 @@
                                 "refreshType": "ALWAYS",
                                 "weight": 50,
                                 "dontBlockWave": false,
+                                "forceBlockWaveInBranch": false,
                                 "isValid": false
                             }
                         ]
@@ -2600,6 +2616,7 @@
                                 "refreshType": "ALWAYS",
                                 "weight": 50,
                                 "dontBlockWave": false,
+                                "forceBlockWaveInBranch": false,
                                 "isValid": false
                             },
                             {
@@ -2619,6 +2636,7 @@
                                 "refreshType": "ALWAYS",
                                 "weight": 50,
                                 "dontBlockWave": false,
+                                "forceBlockWaveInBranch": false,
                                 "isValid": false
                             }
                         ]
@@ -2650,6 +2668,7 @@
                                 "refreshType": "ALWAYS",
                                 "weight": 50,
                                 "dontBlockWave": false,
+                                "forceBlockWaveInBranch": false,
                                 "isValid": false
                             },
                             {
@@ -2669,6 +2688,7 @@
                                 "refreshType": "ALWAYS",
                                 "weight": 50,
                                 "dontBlockWave": false,
+                                "forceBlockWaveInBranch": false,
                                 "isValid": false
                             }
                         ]

@@ -5051,6 +5051,7 @@
                             "refreshType": "PER_SEASON",
                             "weight": 50,
                             "dontBlockWave": false,
+                            "forceBlockWaveInBranch": false,
                             "isValid": false
                         },
                         {
@@ -5070,6 +5071,7 @@
                             "refreshType": "PER_SEASON",
                             "weight": 0,
                             "dontBlockWave": false,
+                            "forceBlockWaveInBranch": false,
                             "isValid": false
                         },
                         {
@@ -5089,6 +5091,7 @@
                             "refreshType": "PER_SEASON",
                             "weight": 0,
                             "dontBlockWave": false,
+                            "forceBlockWaveInBranch": false,
                             "isValid": false
                         },
                         {
@@ -5108,6 +5111,7 @@
                             "refreshType": "PER_SEASON",
                             "weight": 0,
                             "dontBlockWave": false,
+                            "forceBlockWaveInBranch": false,
                             "isValid": false
                         },
                         {
@@ -5127,6 +5131,7 @@
                             "refreshType": "PER_SEASON",
                             "weight": 0,
                             "dontBlockWave": false,
+                            "forceBlockWaveInBranch": false,
                             "isValid": false
                         },
                         {
@@ -5146,6 +5151,7 @@
                             "refreshType": "PER_SEASON",
                             "weight": 0,
                             "dontBlockWave": false,
+                            "forceBlockWaveInBranch": false,
                             "isValid": false
                         },
                         {
@@ -5166,6 +5172,7 @@
                             "refreshType": "PER_SEASON",
                             "weight": 50,
                             "dontBlockWave": false,
+                            "forceBlockWaveInBranch": false,
                             "isValid": false
                         },
                         {
@@ -5185,6 +5192,7 @@
                             "refreshType": "PER_SEASON",
                             "weight": 0,
                             "dontBlockWave": false,
+                            "forceBlockWaveInBranch": false,
                             "isValid": false
                         },
                         {
@@ -5204,6 +5212,7 @@
                             "refreshType": "PER_SEASON",
                             "weight": 0,
                             "dontBlockWave": false,
+                            "forceBlockWaveInBranch": false,
                             "isValid": false
                         },
                         {
@@ -5223,6 +5232,7 @@
                             "refreshType": "PER_SEASON",
                             "weight": 0,
                             "dontBlockWave": false,
+                            "forceBlockWaveInBranch": false,
                             "isValid": false
                         },
                         {
@@ -5242,6 +5252,7 @@
                             "refreshType": "PER_SEASON",
                             "weight": 0,
                             "dontBlockWave": false,
+                            "forceBlockWaveInBranch": false,
                             "isValid": false
                         },
                         {
@@ -5261,6 +5272,7 @@
                             "refreshType": "PER_SEASON",
                             "weight": 0,
                             "dontBlockWave": false,
+                            "forceBlockWaveInBranch": false,
                             "isValid": false
                         },
                         {
@@ -5281,6 +5293,7 @@
                             "refreshType": "PER_SEASON",
                             "weight": 100,
                             "dontBlockWave": false,
+                            "forceBlockWaveInBranch": false,
                             "isValid": false
                         },
                         {
@@ -5300,6 +5313,7 @@
                             "refreshType": "PER_SEASON",
                             "weight": 100,
                             "dontBlockWave": false,
+                            "forceBlockWaveInBranch": false,
                             "isValid": false
                         },
                         {
@@ -5319,6 +5333,7 @@
                             "refreshType": "PER_SEASON",
                             "weight": 100,
                             "dontBlockWave": false,
+                            "forceBlockWaveInBranch": false,
                             "isValid": false
                         },
                         {
@@ -5338,6 +5353,7 @@
                             "refreshType": "PER_SEASON",
                             "weight": 100,
                             "dontBlockWave": false,
+                            "forceBlockWaveInBranch": false,
                             "isValid": false
                         }
                     ]
@@ -5361,6 +5377,7 @@
                             "refreshType": "ALWAYS",
                             "weight": 0,
                             "dontBlockWave": false,
+                            "forceBlockWaveInBranch": false,
                             "isValid": false
                         },
                         {
@@ -5379,6 +5396,7 @@
                             "refreshType": "ALWAYS",
                             "weight": 0,
                             "dontBlockWave": false,
+                            "forceBlockWaveInBranch": false,
                             "isValid": false
                         },
                         {
@@ -5397,6 +5415,7 @@
                             "refreshType": "ALWAYS",
                             "weight": 0,
                             "dontBlockWave": false,
+                            "forceBlockWaveInBranch": false,
                             "isValid": false
                         },
                         {
@@ -5415,6 +5434,7 @@
                             "refreshType": "ALWAYS",
                             "weight": 0,
                             "dontBlockWave": false,
+                            "forceBlockWaveInBranch": false,
                             "isValid": false
                         },
                         {
@@ -5433,6 +5453,7 @@
                             "refreshType": "ALWAYS",
                             "weight": 0,
                             "dontBlockWave": false,
+                            "forceBlockWaveInBranch": false,
                             "isValid": false
                         },
                         {
@@ -5451,6 +5472,7 @@
                             "refreshType": "ALWAYS",
                             "weight": 0,
                             "dontBlockWave": false,
+                            "forceBlockWaveInBranch": false,
                             "isValid": false
                         }
                     ]
@@ -5474,6 +5496,7 @@
                             "refreshType": "ALWAYS",
                             "weight": 0,
                             "dontBlockWave": false,
+                            "forceBlockWaveInBranch": false,
                             "isValid": false
                         },
                         {
@@ -5492,6 +5515,7 @@
                             "refreshType": "ALWAYS",
                             "weight": 0,
                             "dontBlockWave": false,
+                            "forceBlockWaveInBranch": false,
                             "isValid": false
                         }
                     ]
@@ -5522,6 +5546,7 @@
                             "refreshType": "ALWAYS",
                             "weight": 0,
                             "dontBlockWave": false,
+                            "forceBlockWaveInBranch": false,
                             "isValid": false
                         },
                         {
@@ -5540,6 +5565,7 @@
                             "refreshType": "ALWAYS",
                             "weight": 0,
                             "dontBlockWave": false,
+                            "forceBlockWaveInBranch": false,
                             "isValid": false
                         },
                         {
@@ -5558,6 +5584,7 @@
                             "refreshType": "ALWAYS",
                             "weight": 0,
                             "dontBlockWave": false,
+                            "forceBlockWaveInBranch": false,
                             "isValid": false
                         }
                     ]
@@ -5581,6 +5608,7 @@
                             "refreshType": "ALWAYS",
                             "weight": 0,
                             "dontBlockWave": false,
+                            "forceBlockWaveInBranch": false,
                             "isValid": false
                         },
                         {
@@ -5599,6 +5627,7 @@
                             "refreshType": "ALWAYS",
                             "weight": 0,
                             "dontBlockWave": false,
+                            "forceBlockWaveInBranch": false,
                             "isValid": false
                         },
                         {
@@ -5617,6 +5646,7 @@
                             "refreshType": "ALWAYS",
                             "weight": 0,
                             "dontBlockWave": false,
+                            "forceBlockWaveInBranch": false,
                             "isValid": false
                         }
                     ]
@@ -5649,6 +5679,7 @@
                                 "refreshType": "ALWAYS",
                                 "weight": 50,
                                 "dontBlockWave": false,
+                                "forceBlockWaveInBranch": false,
                                 "isValid": false
                             },
                             {
@@ -5668,6 +5699,7 @@
                                 "refreshType": "ALWAYS",
                                 "weight": 50,
                                 "dontBlockWave": false,
+                                "forceBlockWaveInBranch": false,
                                 "isValid": false
                             }
                         ]
@@ -5699,6 +5731,7 @@
                                 "refreshType": "ALWAYS",
                                 "weight": 50,
                                 "dontBlockWave": false,
+                                "forceBlockWaveInBranch": false,
                                 "isValid": false
                             },
                             {
@@ -5718,6 +5751,7 @@
                                 "refreshType": "ALWAYS",
                                 "weight": 50,
                                 "dontBlockWave": false,
+                                "forceBlockWaveInBranch": false,
                                 "isValid": false
                             }
                         ]
@@ -5749,6 +5783,7 @@
                                 "refreshType": "ALWAYS",
                                 "weight": 50,
                                 "dontBlockWave": false,
+                                "forceBlockWaveInBranch": false,
                                 "isValid": false
                             },
                             {
@@ -5768,6 +5803,7 @@
                                 "refreshType": "ALWAYS",
                                 "weight": 50,
                                 "dontBlockWave": false,
+                                "forceBlockWaveInBranch": false,
                                 "isValid": false
                             }
                         ]
@@ -5799,6 +5835,7 @@
                                 "refreshType": "ALWAYS",
                                 "weight": 50,
                                 "dontBlockWave": false,
+                                "forceBlockWaveInBranch": false,
                                 "isValid": false
                             },
                             {
@@ -5818,6 +5855,7 @@
                                 "refreshType": "ALWAYS",
                                 "weight": 50,
                                 "dontBlockWave": false,
+                                "forceBlockWaveInBranch": false,
                                 "isValid": false
                             }
                         ]
@@ -5849,6 +5887,7 @@
                                 "refreshType": "ALWAYS",
                                 "weight": 50,
                                 "dontBlockWave": false,
+                                "forceBlockWaveInBranch": false,
                                 "isValid": false
                             },
                             {
@@ -5868,6 +5907,7 @@
                                 "refreshType": "ALWAYS",
                                 "weight": 50,
                                 "dontBlockWave": false,
+                                "forceBlockWaveInBranch": false,
                                 "isValid": false
                             }
                         ]
@@ -5899,6 +5939,7 @@
                                 "refreshType": "ALWAYS",
                                 "weight": 50,
                                 "dontBlockWave": false,
+                                "forceBlockWaveInBranch": false,
                                 "isValid": false
                             },
                             {
@@ -5918,6 +5959,7 @@
                                 "refreshType": "ALWAYS",
                                 "weight": 50,
                                 "dontBlockWave": false,
+                                "forceBlockWaveInBranch": false,
                                 "isValid": false
                             }
                         ]
@@ -5949,6 +5991,7 @@
                                 "refreshType": "ALWAYS",
                                 "weight": 50,
                                 "dontBlockWave": false,
+                                "forceBlockWaveInBranch": false,
                                 "isValid": false
                             },
                             {
@@ -5968,6 +6011,7 @@
                                 "refreshType": "ALWAYS",
                                 "weight": 50,
                                 "dontBlockWave": false,
+                                "forceBlockWaveInBranch": false,
                                 "isValid": false
                             }
                         ]
@@ -5999,6 +6043,7 @@
                                 "refreshType": "ALWAYS",
                                 "weight": 50,
                                 "dontBlockWave": false,
+                                "forceBlockWaveInBranch": false,
                                 "isValid": false
                             },
                             {
@@ -6018,6 +6063,7 @@
                                 "refreshType": "ALWAYS",
                                 "weight": 50,
                                 "dontBlockWave": false,
+                                "forceBlockWaveInBranch": false,
                                 "isValid": false
                             }
                         ]
@@ -6049,6 +6095,7 @@
                                 "refreshType": "ALWAYS",
                                 "weight": 50,
                                 "dontBlockWave": false,
+                                "forceBlockWaveInBranch": false,
                                 "isValid": false
                             },
                             {
@@ -6068,6 +6115,7 @@
                                 "refreshType": "ALWAYS",
                                 "weight": 50,
                                 "dontBlockWave": false,
+                                "forceBlockWaveInBranch": false,
                                 "isValid": false
                             }
                         ]
@@ -6099,6 +6147,7 @@
                                 "refreshType": "ALWAYS",
                                 "weight": 30,
                                 "dontBlockWave": false,
+                                "forceBlockWaveInBranch": false,
                                 "isValid": false
                             },
                             {
@@ -6118,6 +6167,7 @@
                                 "refreshType": "ALWAYS",
                                 "weight": 30,
                                 "dontBlockWave": false,
+                                "forceBlockWaveInBranch": false,
                                 "isValid": false
                             }
                         ]
