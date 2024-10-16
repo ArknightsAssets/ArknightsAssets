@@ -2997,6 +2997,28 @@
             }
         },
         {
+            "key": "permanent_sub_7_zone1",
+            "value": {
+                "zoneID": "permanent_sub_7_zone1",
+                "zoneIndex": 0,
+                "type": "BRANCHLINE",
+                "zoneNameSecond": "无名之勋",
+                "canPreview": false,
+                "hasAdditionalPanel": false
+            }
+        },
+        {
+            "key": "permanent_sub_7_zone2",
+            "value": {
+                "zoneID": "permanent_sub_7_zone2",
+                "zoneIndex": 1,
+                "type": "BRANCHLINE",
+                "zoneNameSecond": "未了往昔",
+                "canPreview": false,
+                "hasAdditionalPanel": false
+            }
+        },
+        {
             "key": "permanent_sidestory_1_zone1",
             "value": {
                 "zoneID": "permanent_sidestory_1_zone1",
