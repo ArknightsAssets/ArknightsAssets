@@ -2738,17 +2738,6 @@
                 }
             },
             {
-                "key": "pic_rogue_4_KV2",
-                "value": {
-                    "id": "pic_rogue_4_KV2",
-                    "desc": "遁入阇那",
-                    "assetPath": "pic_rogue_4_KV2",
-                    "type": "IMAGE",
-                    "picDescription": "万般解脱，自在其中。",
-                    "kvId": "rogue_4_kv_1_2"
-                }
-            },
-            {
                 "key": "pic_rogue_4_KV1",
                 "value": {
                     "id": "pic_rogue_4_KV1",
@@ -3160,36 +3149,6 @@
                 }
             },
             {
-                "key": "pic_rogue_4_46",
-                "value": {
-                    "id": "pic_rogue_4_46",
-                    "desc": "玄铁三身天王",
-                    "assetPath": "pic_rogue_4_40",
-                    "type": "ROGUE_IMAGE",
-                    "picDescription": "剑聚财，弓引材，箭利才，赞叹随喜，心诚必灵。"
-                }
-            },
-            {
-                "key": "pic_rogue_4_47",
-                "value": {
-                    "id": "pic_rogue_4_47",
-                    "desc": "为所欲为",
-                    "assetPath": "pic_rogue_4_41",
-                    "type": "ROGUE_IMAGE",
-                    "picDescription": "这就是先祖们自己会讲的故事，除了破坏毫无亮点。"
-                }
-            },
-            {
-                "key": "pic_rogue_4_48",
-                "value": {
-                    "id": "pic_rogue_4_48",
-                    "desc": "苦路善果",
-                    "assetPath": "pic_rogue_4_42",
-                    "type": "ROGUE_IMAGE",
-                    "picDescription": "你大可以把目光放在她身上，有缘才相会，眼缘也是缘。"
-                }
-            },
-            {
                 "key": "pic_rogue_4_41",
                 "value": {
                     "id": "pic_rogue_4_41",
@@ -3231,17 +3190,6 @@
                     "type": "ENDING_IMAGE",
                     "subType": "rogue_4_ending_3",
                     "picDescription": "博卓卡斯替的圣卫与凯尔希的反抗军们都在想同一件事——将战场中央的同伴从对方手中拯救出来。"
-                }
-            },
-            {
-                "key": "pic_rogue_4_45",
-                "value": {
-                    "id": "pic_rogue_4_45",
-                    "desc": "无忧树下",
-                    "assetPath": "pic_rogue_4_39",
-                    "type": "ENDING_IMAGE",
-                    "subType": "rogue_4_ending_4",
-                    "picDescription": "不执生法，不住我相。有怒者我，而有怒者非我。无忧者我，而无忧者亦非我。"
                 }
             }
         ],
@@ -3668,14 +3616,6 @@
                     "id": "music_rogue_4_10",
                     "desc": "music_rogue_4_10",
                     "name": "Malihirmam Benevolentes"
-                }
-            },
-            {
-                "key": "music_rogue_4_11",
-                "value": {
-                    "id": "music_rogue_4_11",
-                    "desc": "music_rogue_4_11",
-                    "name": "舍盘持难题纳婆罗为谛"
                 }
             },
             {
@@ -11260,366 +11200,324 @@
                                     "musicId": "music_rogue_4_10",
                                     "musicSortId": 10
                                 }
-                            },
-                            {
-                                "key": "music_rogue_4_11",
-                                "value": {
-                                    "musicId": "music_rogue_4_11",
-                                    "musicSortId": 11
-                                }
                             }
                         ]
                     },
                     "pic": {
                         "pics": [
                             {
-                                "key": "pic_rogue_4_KV2",
-                                "value": {
-                                    "picId": "pic_rogue_4_KV2",
-                                    "picSortId": 1
-                                }
-                            },
-                            {
                                 "key": "pic_rogue_4_KV1",
                                 "value": {
                                     "picId": "pic_rogue_4_KV1",
-                                    "picSortId": 2
+                                    "picSortId": 1
                                 }
                             },
                             {
                                 "key": "pic_rogue_4_1",
                                 "value": {
                                     "picId": "pic_rogue_4_1",
-                                    "picSortId": 3
+                                    "picSortId": 2
                                 }
                             },
                             {
                                 "key": "pic_rogue_4_2",
                                 "value": {
                                     "picId": "pic_rogue_4_2",
-                                    "picSortId": 4
+                                    "picSortId": 3
                                 }
                             },
                             {
                                 "key": "pic_rogue_4_3",
                                 "value": {
                                     "picId": "pic_rogue_4_3",
-                                    "picSortId": 5
+                                    "picSortId": 4
                                 }
                             },
                             {
                                 "key": "pic_rogue_4_4",
                                 "value": {
                                     "picId": "pic_rogue_4_4",
-                                    "picSortId": 6
+                                    "picSortId": 5
                                 }
                             },
                             {
                                 "key": "pic_rogue_4_5",
                                 "value": {
                                     "picId": "pic_rogue_4_5",
-                                    "picSortId": 7
+                                    "picSortId": 6
                                 }
                             },
                             {
                                 "key": "pic_rogue_4_6",
                                 "value": {
                                     "picId": "pic_rogue_4_6",
-                                    "picSortId": 8
+                                    "picSortId": 7
                                 }
                             },
                             {
                                 "key": "pic_rogue_4_7",
                                 "value": {
                                     "picId": "pic_rogue_4_7",
-                                    "picSortId": 9
+                                    "picSortId": 8
                                 }
                             },
                             {
                                 "key": "pic_rogue_4_8",
                                 "value": {
                                     "picId": "pic_rogue_4_8",
-                                    "picSortId": 10
+                                    "picSortId": 9
                                 }
                             },
                             {
                                 "key": "pic_rogue_4_9",
                                 "value": {
                                     "picId": "pic_rogue_4_9",
-                                    "picSortId": 11
+                                    "picSortId": 10
                                 }
                             },
                             {
                                 "key": "pic_rogue_4_10",
                                 "value": {
                                     "picId": "pic_rogue_4_10",
-                                    "picSortId": 12
+                                    "picSortId": 11
                                 }
                             },
                             {
                                 "key": "pic_rogue_4_11",
                                 "value": {
                                     "picId": "pic_rogue_4_11",
-                                    "picSortId": 13
+                                    "picSortId": 12
                                 }
                             },
                             {
                                 "key": "pic_rogue_4_12",
                                 "value": {
                                     "picId": "pic_rogue_4_12",
-                                    "picSortId": 14
+                                    "picSortId": 13
                                 }
                             },
                             {
                                 "key": "pic_rogue_4_13",
                                 "value": {
                                     "picId": "pic_rogue_4_13",
-                                    "picSortId": 15
+                                    "picSortId": 14
                                 }
                             },
                             {
                                 "key": "pic_rogue_4_14",
                                 "value": {
                                     "picId": "pic_rogue_4_14",
-                                    "picSortId": 16
+                                    "picSortId": 15
                                 }
                             },
                             {
                                 "key": "pic_rogue_4_15",
                                 "value": {
                                     "picId": "pic_rogue_4_15",
-                                    "picSortId": 17
+                                    "picSortId": 16
                                 }
                             },
                             {
                                 "key": "pic_rogue_4_16",
                                 "value": {
                                     "picId": "pic_rogue_4_16",
-                                    "picSortId": 18
+                                    "picSortId": 17
                                 }
                             },
                             {
                                 "key": "pic_rogue_4_17",
                                 "value": {
                                     "picId": "pic_rogue_4_17",
-                                    "picSortId": 19
+                                    "picSortId": 18
                                 }
                             },
                             {
                                 "key": "pic_rogue_4_18",
                                 "value": {
                                     "picId": "pic_rogue_4_18",
-                                    "picSortId": 20
+                                    "picSortId": 19
                                 }
                             },
                             {
                                 "key": "pic_rogue_4_19",
                                 "value": {
                                     "picId": "pic_rogue_4_19",
-                                    "picSortId": 21
+                                    "picSortId": 20
                                 }
                             },
                             {
                                 "key": "pic_rogue_4_20",
                                 "value": {
                                     "picId": "pic_rogue_4_20",
-                                    "picSortId": 22
+                                    "picSortId": 21
                                 }
                             },
                             {
                                 "key": "pic_rogue_4_21",
                                 "value": {
                                     "picId": "pic_rogue_4_21",
-                                    "picSortId": 23
+                                    "picSortId": 22
                                 }
                             },
                             {
                                 "key": "pic_rogue_4_22",
                                 "value": {
                                     "picId": "pic_rogue_4_22",
-                                    "picSortId": 24
+                                    "picSortId": 23
                                 }
                             },
                             {
                                 "key": "pic_rogue_4_23",
                                 "value": {
                                     "picId": "pic_rogue_4_23",
-                                    "picSortId": 25
+                                    "picSortId": 24
                                 }
                             },
                             {
                                 "key": "pic_rogue_4_24",
                                 "value": {
                                     "picId": "pic_rogue_4_24",
-                                    "picSortId": 26
+                                    "picSortId": 25
                                 }
                             },
                             {
                                 "key": "pic_rogue_4_25",
                                 "value": {
                                     "picId": "pic_rogue_4_25",
-                                    "picSortId": 27
+                                    "picSortId": 26
                                 }
                             },
                             {
                                 "key": "pic_rogue_4_26",
                                 "value": {
                                     "picId": "pic_rogue_4_26",
-                                    "picSortId": 28
+                                    "picSortId": 27
                                 }
                             },
                             {
                                 "key": "pic_rogue_4_27",
                                 "value": {
                                     "picId": "pic_rogue_4_27",
-                                    "picSortId": 29
+                                    "picSortId": 28
                                 }
                             },
                             {
                                 "key": "pic_rogue_4_28",
                                 "value": {
                                     "picId": "pic_rogue_4_28",
-                                    "picSortId": 30
+                                    "picSortId": 29
                                 }
                             },
                             {
                                 "key": "pic_rogue_4_29",
                                 "value": {
                                     "picId": "pic_rogue_4_29",
-                                    "picSortId": 31
+                                    "picSortId": 30
                                 }
                             },
                             {
                                 "key": "pic_rogue_4_30",
                                 "value": {
                                     "picId": "pic_rogue_4_30",
-                                    "picSortId": 32
+                                    "picSortId": 31
                                 }
                             },
                             {
                                 "key": "pic_rogue_4_31",
                                 "value": {
                                     "picId": "pic_rogue_4_31",
-                                    "picSortId": 33
+                                    "picSortId": 32
                                 }
                             },
                             {
                                 "key": "pic_rogue_4_32",
                                 "value": {
                                     "picId": "pic_rogue_4_32",
-                                    "picSortId": 34
+                                    "picSortId": 33
                                 }
                             },
                             {
                                 "key": "pic_rogue_4_33",
                                 "value": {
                                     "picId": "pic_rogue_4_33",
-                                    "picSortId": 35
+                                    "picSortId": 34
                                 }
                             },
                             {
                                 "key": "pic_rogue_4_34",
                                 "value": {
                                     "picId": "pic_rogue_4_34",
-                                    "picSortId": 36
+                                    "picSortId": 35
                                 }
                             },
                             {
                                 "key": "pic_rogue_4_35",
                                 "value": {
                                     "picId": "pic_rogue_4_35",
-                                    "picSortId": 37
+                                    "picSortId": 36
                                 }
                             },
                             {
                                 "key": "pic_rogue_4_36",
                                 "value": {
                                     "picId": "pic_rogue_4_36",
-                                    "picSortId": 38
+                                    "picSortId": 37
                                 }
                             },
                             {
                                 "key": "pic_rogue_4_37",
                                 "value": {
                                     "picId": "pic_rogue_4_37",
-                                    "picSortId": 39
+                                    "picSortId": 38
                                 }
                             },
                             {
                                 "key": "pic_rogue_4_38",
                                 "value": {
                                     "picId": "pic_rogue_4_38",
-                                    "picSortId": 40
+                                    "picSortId": 39
                                 }
                             },
                             {
                                 "key": "pic_rogue_4_39",
                                 "value": {
                                     "picId": "pic_rogue_4_39",
-                                    "picSortId": 41
+                                    "picSortId": 40
                                 }
                             },
                             {
                                 "key": "pic_rogue_4_40",
                                 "value": {
                                     "picId": "pic_rogue_4_40",
-                                    "picSortId": 42
-                                }
-                            },
-                            {
-                                "key": "pic_rogue_4_46",
-                                "value": {
-                                    "picId": "pic_rogue_4_46",
-                                    "picSortId": 43
-                                }
-                            },
-                            {
-                                "key": "pic_rogue_4_47",
-                                "value": {
-                                    "picId": "pic_rogue_4_47",
-                                    "picSortId": 44
-                                }
-                            },
-                            {
-                                "key": "pic_rogue_4_48",
-                                "value": {
-                                    "picId": "pic_rogue_4_48",
-                                    "picSortId": 45
+                                    "picSortId": 41
                                 }
                             },
                             {
                                 "key": "pic_rogue_4_41",
                                 "value": {
                                     "picId": "pic_rogue_4_41",
-                                    "picSortId": 46
+                                    "picSortId": 42
                                 }
                             },
                             {
                                 "key": "pic_rogue_4_42",
                                 "value": {
                                     "picId": "pic_rogue_4_42",
-                                    "picSortId": 47
+                                    "picSortId": 43
                                 }
                             },
                             {
                                 "key": "pic_rogue_4_43",
                                 "value": {
                                     "picId": "pic_rogue_4_43",
-                                    "picSortId": 48
+                                    "picSortId": 44
                                 }
                             },
                             {
                                 "key": "pic_rogue_4_44",
                                 "value": {
                                     "picId": "pic_rogue_4_44",
-                                    "picSortId": 49
-                                }
-                            },
-                            {
-                                "key": "pic_rogue_4_45",
-                                "value": {
-                                    "picId": "pic_rogue_4_45",
-                                    "picSortId": 50
+                                    "picSortId": 45
                                 }
                             }
                         ]
@@ -11712,137 +11610,5 @@
                 }
             }
         ]
-    },
-    "trainingCampData": {
-        "stageData": [
-            {
-                "key": "ch_1",
-                "value": {
-                    "stageId": "ch_1",
-                    "stageIconId": "icon_mechanism_1",
-                    "sortId": 1,
-                    "levelId": "Obt/Training/level_mechanism_1",
-                    "code": "CH-1",
-                    "name": "敌方索敌",
-                    "loadingPicId": "loadingS",
-                    "description": "博士，来了解敌方索敌的相关机制与技巧吧！",
-                    "endCharId": "char_237_gravel",
-                    "updateTs": 1722484800
-                }
-            },
-            {
-                "key": "ch_2",
-                "value": {
-                    "stageId": "ch_2",
-                    "stageIconId": "icon_mechanism_2",
-                    "sortId": 2,
-                    "levelId": "Obt/Training/level_mechanism_2",
-                    "code": "CH-2",
-                    "name": "我方索敌",
-                    "loadingPicId": "loadingS",
-                    "description": "博士，来了解我方索敌的相关机制与技巧吧！",
-                    "endCharId": "char_271_spikes",
-                    "updateTs": 1722484800
-                }
-            },
-            {
-                "key": "ch_3",
-                "value": {
-                    "stageId": "ch_3",
-                    "stageIconId": "icon_mechanism_3",
-                    "sortId": 3,
-                    "levelId": "Obt/Training/level_mechanism_3",
-                    "code": "CH-3",
-                    "name": "攻击速度",
-                    "loadingPicId": "loadingS",
-                    "description": "博士，来了解攻击速度的相关机制与技巧吧！",
-                    "endCharId": "char_124_kroos",
-                    "updateTs": 1722484800
-                }
-            },
-            {
-                "key": "ch_4",
-                "value": {
-                    "stageId": "ch_4",
-                    "stageIconId": "icon_mechanism_4",
-                    "sortId": 4,
-                    "levelId": "Obt/Training/level_mechanism_4",
-                    "code": "CH-4",
-                    "name": "异常状态",
-                    "loadingPicId": "loadingS",
-                    "description": "博士，来了解异常状态的相关机制与技巧吧！",
-                    "endCharId": "char_102_texas",
-                    "updateTs": 1722484800
-                }
-            },
-            {
-                "key": "ch_5",
-                "value": {
-                    "stageId": "ch_5",
-                    "stageIconId": "icon_mechanism_5",
-                    "sortId": 5,
-                    "levelId": "Obt/Training/level_mechanism_5",
-                    "code": "CH-5",
-                    "name": "推力与拉力",
-                    "loadingPicId": "loadingS",
-                    "description": "博士，来了解推力与拉力的相关机制与技巧吧！",
-                    "endCharId": "char_277_sqrrel",
-                    "updateTs": 1722484800
-                }
-            },
-            {
-                "key": "ch_6",
-                "value": {
-                    "stageId": "ch_6",
-                    "stageIconId": "icon_mechanism_6",
-                    "sortId": 6,
-                    "levelId": "Obt/Training/level_mechanism_6",
-                    "code": "CH-6",
-                    "name": "敌方元素损伤",
-                    "loadingPicId": "loadingS",
-                    "description": "博士，来了解敌方元素损伤的相关机制与技巧吧！",
-                    "endCharId": "char_4041_chnut",
-                    "updateTs": 1722484800
-                }
-            },
-            {
-                "key": "ch_7",
-                "value": {
-                    "stageId": "ch_7",
-                    "stageIconId": "icon_mechanism_7",
-                    "sortId": 7,
-                    "levelId": "Obt/Training/level_mechanism_7",
-                    "code": "CH-7",
-                    "name": "我方元素损伤",
-                    "loadingPicId": "loadingS",
-                    "description": "博士，来了解我方元素损伤的相关机制与技巧吧！",
-                    "endCharId": "char_4102_threye",
-                    "updateTs": 1722484800
-                }
-            }
-        ],
-        "newTrainingCampStages": [
-            {
-                "updateTs": 1722484800,
-                "stages": [
-                    "ch_1",
-                    "ch_2",
-                    "ch_3",
-                    "ch_4",
-                    "ch_5",
-                    "ch_6",
-                    "ch_7"
-                ]
-            }
-        ],
-        "consts": {
-            "unlockStageId": "main_03-08",
-            "updateDesc": "持续更新中",
-            "rewardItem": {
-                "id": "4003",
-                "count": 200,
-                "type": "DIAMOND_SHD"
-            }
-        }
     }
 }
