@@ -29665,7 +29665,7 @@
                 "obtainApproach": "采购中心",
                 "hideInItemGet": false,
                 "classifyType": "NORMAL",
-                "itemType": "EXCLUSIVE_TKT_GACHA",
+                "itemType": "EMOTICON_SET",
                 "stageDropList": [],
                 "buildingProductList": []
             }
@@ -29683,7 +29683,7 @@
                 "obtainApproach": "采购中心",
                 "hideInItemGet": false,
                 "classifyType": "NORMAL",
-                "itemType": "EXCLUSIVE_TKT_GACHA_10",
+                "itemType": "EXCLUSIVE_TKT_GACHA",
                 "stageDropList": [],
                 "buildingProductList": []
             }
@@ -30132,7 +30132,7 @@
                 "obtainApproach": "采购中心",
                 "hideInItemGet": false,
                 "classifyType": "NORMAL",
-                "itemType": "EXCLUSIVE_TKT_GACHA",
+                "itemType": "EMOTICON_SET",
                 "stageDropList": [],
                 "buildingProductList": []
             }
@@ -30150,7 +30150,7 @@
                 "obtainApproach": "采购中心",
                 "hideInItemGet": false,
                 "classifyType": "NORMAL",
-                "itemType": "EXCLUSIVE_TKT_GACHA_10",
+                "itemType": "EXCLUSIVE_TKT_GACHA",
                 "stageDropList": [],
                 "buildingProductList": []
             }

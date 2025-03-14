@@ -635,7 +635,8 @@
         {
             "prefabKey": "legion_mode_enemy_boost",
             "passProfessionMaskFlag": false,
-            "professionMask": "NONE"
+            "professionMask": "NONE",
+            "playerSideMask": "ALL"
         }
     ],
     "routes": [

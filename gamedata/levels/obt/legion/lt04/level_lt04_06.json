@@ -800,7 +800,8 @@
         {
             "prefabKey": "night_map_default",
             "passProfessionMaskFlag": false,
-            "professionMask": "NONE"
+            "professionMask": "NONE",
+            "playerSideMask": "ALL"
         },
         {
             "prefabKey": "legion_mode_enemy_boost",
@@ -816,7 +817,8 @@
                 }
             ],
             "passProfessionMaskFlag": false,
-            "professionMask": "NONE"
+            "professionMask": "NONE",
+            "playerSideMask": "ALL"
         }
     ],
     "routes": [

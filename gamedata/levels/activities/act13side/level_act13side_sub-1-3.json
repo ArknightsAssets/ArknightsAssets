@@ -1013,7 +1013,8 @@
         {
             "prefabKey": "night_map_default",
             "passProfessionMaskFlag": false,
-            "professionMask": "NONE"
+            "professionMask": "NONE",
+            "playerSideMask": "ALL"
         }
     ],
     "routes": [

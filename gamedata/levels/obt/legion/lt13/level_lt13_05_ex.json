@@ -752,7 +752,8 @@
                 }
             ],
             "passProfessionMaskFlag": false,
-            "professionMask": "NONE"
+            "professionMask": "NONE",
+            "playerSideMask": "ALL"
         },
         {
             "prefabKey": "character_in_magiccircuit_env",
@@ -767,7 +768,8 @@
                 }
             ],
             "passProfessionMaskFlag": false,
-            "professionMask": "NONE"
+            "professionMask": "NONE",
+            "playerSideMask": "ALL"
         }
     ],
     "routes": [

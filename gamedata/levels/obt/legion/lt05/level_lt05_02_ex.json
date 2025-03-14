@@ -562,7 +562,8 @@
                 }
             ],
             "passProfessionMaskFlag": false,
-            "professionMask": "NONE"
+            "professionMask": "NONE",
+            "playerSideMask": "ALL"
         },
         {
             "prefabKey": "enemy_damage_scale_when_whether_blocked",
@@ -577,7 +578,8 @@
                 }
             ],
             "passProfessionMaskFlag": false,
-            "professionMask": "NONE"
+            "professionMask": "NONE",
+            "playerSideMask": "ALL"
         }
     ],
     "routes": [

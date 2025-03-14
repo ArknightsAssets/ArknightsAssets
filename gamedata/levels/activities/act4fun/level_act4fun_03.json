@@ -1134,12 +1134,14 @@
         {
             "prefabKey": "funlive_char_ban_battle_logic",
             "passProfessionMaskFlag": false,
-            "professionMask": "NONE"
+            "professionMask": "NONE",
+            "playerSideMask": "ALL"
         },
         {
             "prefabKey": "funlive_enemy_ban_battle_logic",
             "passProfessionMaskFlag": false,
-            "professionMask": "NONE"
+            "professionMask": "NONE",
+            "playerSideMask": "ALL"
         },
         {
             "prefabKey": "funlive_rare_dangerous_event_data",
@@ -1274,7 +1276,8 @@
                 }
             ],
             "passProfessionMaskFlag": false,
-            "professionMask": "NONE"
+            "professionMask": "NONE",
+            "playerSideMask": "ALL"
         },
         {
             "prefabKey": "funlive_unit_beginning_rare_effect_logic",
@@ -1325,7 +1328,8 @@
                 }
             ],
             "passProfessionMaskFlag": false,
-            "professionMask": "NONE"
+            "professionMask": "NONE",
+            "playerSideMask": "ALL"
         },
         {
             "prefabKey": "funlive_unit_beginning_dangerous_effect_logic",
@@ -1336,7 +1340,8 @@
                 }
             ],
             "passProfessionMaskFlag": false,
-            "professionMask": "NONE"
+            "professionMask": "NONE",
+            "playerSideMask": "ALL"
         }
     ],
     "routes": [

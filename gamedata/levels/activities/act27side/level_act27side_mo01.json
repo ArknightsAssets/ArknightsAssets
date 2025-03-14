@@ -1046,7 +1046,8 @@
         {
             "prefabKey": "act27sisde_enemy_global_buff",
             "passProfessionMaskFlag": false,
-            "professionMask": "NONE"
+            "professionMask": "NONE",
+            "playerSideMask": "ALL"
         }
     ],
     "routes": [

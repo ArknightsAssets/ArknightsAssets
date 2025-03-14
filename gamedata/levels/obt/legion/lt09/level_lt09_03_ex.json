@@ -656,7 +656,8 @@
                 }
             ],
             "passProfessionMaskFlag": false,
-            "professionMask": "NONE"
+            "professionMask": "NONE",
+            "playerSideMask": "ALL"
         },
         {
             "prefabKey": "legion_mode_damage_resistance[danger_level]",
@@ -667,7 +668,8 @@
                 }
             ],
             "passProfessionMaskFlag": false,
-            "professionMask": "NONE"
+            "professionMask": "NONE",
+            "playerSideMask": "ALL"
         }
     ],
     "routes": [
