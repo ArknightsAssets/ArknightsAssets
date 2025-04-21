@@ -1,19 +1,5 @@
-# Arknights assets
+[Because of changes in 2.5 and a large increase in size, the repository had to be rewritten.](https://github.com/ArknightsAssets/ArknightsAssets2/tree/cn)
 
-Dumped using [ArknightsStudio](https://github.com/aelurum/AssetStudio/)
+THIS REPOSITORY IS RETIRED
 
-[Download only the newest assets](https://github.com/ArknightsAssets/NewAssets)
-
-Exports only `Sprite,AkPortraitSprite`. 
-
-I am experimenting with fitting the gigabytes of audio into the repository.
-
-I apologize for some files having conflicts.
-
-```
-assets/ - extracted assets
-bundles/ - raw .ab files
-FBS/ - flatbuffer schemas
-gamedata/ - parsed gamedata assets
-scripts/ - download and extraction scripts
-```
+<https://raw.githubusercontent.com/ArknightsAssets/ArknightsAssets/refs/heads/cn/assets/torappu/dynamicassets/arts/charportraits/char_002_amiya_1.png> -> <https://raw.githubusercontent.com/ArknightsAssets/ArknightsAssets2/refs/heads/cn/assets/dyn/arts/charportraits/char_002_amiya_1.png>
